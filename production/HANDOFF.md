@@ -28,7 +28,7 @@ The following Figma changes were completed and verified in the canonical file: [
 
 ## 5. PRODUCTION STATUS
 
-### Current status — rebrand replan approved; production tracking remains in reset state
+### Current status — brand-book phase in progress; 60-deliverable production remains on hold
 
 | Metric | Count |
 |---|---:|
@@ -47,7 +47,7 @@ The following Figma changes were completed and verified in the canonical file: [
 
 **Per brand:** Morrow Bakehouse 10/10 require a new revision (8 existing graphics + 2 storyboards) · AURELLE Skin 10/10 require a new revision (8 existing graphics + 2 storyboards) · Objects & Elsewhere 10/10 require a new revision (8 existing graphics + 2 storyboards) · SAVORÉ Table G01 has an existing source image only and requires a new branded layout; G02–V10 are not started · OLFACT 0/10 built · FORMA 0/10 built.
 
-**Current phase:** Creative replan approved. Continue production only against the current brand books, permanent production rules, and the user-approved handoff. The 60-deliverable tracker remains at 0/60 under the revised direction until individual assets are rebuilt, QA'd, and approved.  
+**Current phase:** Complete and review all six brand books before starting the 60 deliverables. Do not begin campaign asset production yet. SAVORÉ has a seven-slide brand book with populated copy and the expected sections; the inspected structure/text shows no missing slide or visible placeholder copy. Final visual review and user approval remain. OLFACT's first seven-slide R1 draft has now been created on page `05 OLFACT`; it is editable text/vector construction and is not yet approved. FORMA remains the next brand book to build after OLFACT review. The 60-deliverable tracker remains at 0/60 under the revised direction.  
 **Last milestone:** Revised six-brand visual systems, funnel map, platform/use labels, 60 deliverable concepts, working content data, and per-brand redesign checklists added to this Markdown handoff. No Figma changes made.  
 **Last updated:** 2026-11-22 (Asia/Manila). Figma continuity update and repository migration notes verified.
 
@@ -150,15 +150,15 @@ The following Figma changes were completed and verified in the canonical file: [
 
 ## 6. NEXT ACTION
 
-### Immediate next action — continue production from the official brand books
+### Immediate next action — finish the six brand books before production
 
-- **Next agent:** Any — resume from this handoff after the user explicitly greenlights the revised direction.
-- **Next task after greenlight:** Begin the rebrand in the existing canonical Figma file, starting with the revised brand-system foundations and the first deliverable on each brand page. Build new sections rather than modifying old ones.
+- **Next agent:** Any — continue the brand-book phase in the existing canonical Figma file.
+- **Next task:** Review OLFACT Brand Book R1 on page `05 OLFACT` (section `171:2`, slides `171:3`, `171:20`, `171:49`, `171:67`, `171:89`, `171:111`, `171:140`), refine if needed, then get user approval. After OLFACT, build the FORMA brand book. Do not begin the 60 campaign/collateral deliverables until all six brand books are complete and approved.
 - **Figma file:** https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO — file key `GHxufDzAW3ReOPcm4oqBUO`.
 - **Page mapping:** Morrow `01 Morrow Bakehouse` (0:1) · AURELLE `02 AURELLE Skin` (1:2) · Objects & Elsewhere `03 Objects & Elsewhere` (1:3) · SAVORÉ `04 SAVORÉ Table` (1:4) · OLFACT `05 OLFACT` (1:5) · FORMA `06 FORMA` (1:6).
-- **Current state:** The user has authorized the revised brand books in the canonical Figma file. Use the official brand-book source of truth at the top of this document; do not revert to superseded styles.
+- **Current state:** Brand books are still being completed. Four books (Morrow, AURELLE, Objects & Elsewhere, SAVORÉ) were present before this session. SAVORÉ's seven-slide structure and copy were checked; no missing slide or placeholder copy was found in the inspected content. OLFACT R1 has now been drafted. FORMA is still outstanding. Treat OLFACT as a draft pending review, not an approved final.
 - **Revised direction:** Section 2 contains the six differentiated systems; Section 3 contains the new TOFU/MOFU/BOFU content map and per-brand checklists. The old long-form briefs are retained as an archive, explicitly superseded.
-- **Execution sequence after greenlight:** (1) apply the revised identity foundations on each correct brand page; (2) create new G01–G08 sections and V09/V10 storyboards according to the revised matrix; (3) use the stated channel/use labels in every section name; (4) replace working content assumptions with verified brand data before public export; (5) visual QA each brand against the other five; (6) update the tracker and milestone log.
+- **Brand-book sequence:** (1) review/refine OLFACT R1; (2) build and review FORMA; (3) confirm all six brand books with the user; (4) only then start the 60-deliverable production plan.
 - **Working sample content:** Concrete example products, menu items, ingredients, and prices exist to make designs visually complete during the first pass. They are design assumptions only and must not be represented as verified live inventory/formulations/pricing.
 
 ### Handoff checklist — outgoing agent
@@ -256,3 +256,9 @@ A handoff is not ready until the next deliverable's required image pack is suppl
 | 2026-11-22 (Asia/Manila) | ChatGPT | Replaced AURELLE slide 06 AI exploration imagery with sun-disc emblem, graphic language and repeat pattern; updated captions. | Slide `142:29`; image layers `124:16`–`124:18`; source frames `166:2`–`166:4`. | Figma AI assets use the approved white/orange/near-black identity. |
 | 2026-11-22 (Asia/Manila) | ChatGPT | Replaced O&E slide 06 AI exploration imagery with modular symbol, Korean-inspired geometric repeat and object pictogram family; updated captions. | Slide `142:53`; image layers `124:30`–`124:32`; source frames `166:5`–`166:7`. | No generated Hangul or fake text in the image assets. |
 | 2026-11-22 (Asia/Manila) | ChatGPT | Updated this handoff with official palette, typography, voice, visual rules, target audiences, slide IDs and exact mockup correction scope. | This Markdown file. | Brand books now govern all future brand content and collateral. |
+
+### Milestone log — 2026-11-22 SAVORÉ review and OLFACT R1 draft
+| Date | Owner | Work completed | Figma references | Notes |
+|---|---|---|---|---|
+| 2026-11-22 (Asia/Manila) | ChatGPT | Reviewed SAVORÉ's seven-slide brand-book structure and populated text. All seven expected sections are present; no missing slide or visible placeholder copy was found in the inspected content. | SAVORÉ section `124:90`; slides `124:91`, `124:97`, `124:124`, `124:141`, `124:196`, `124:201`, `142:77`. | Final visual review and user approval remain; do not call the book approved solely from structural/text inspection. |
+| 2026-11-22 (Asia/Manila) | ChatGPT | Created OLFACT Brand Book R1 as a seven-slide editable draft on its previously empty page. | Page `05 OLFACT` (`1:5`); section `171:2`; slides `171:3`, `171:20`, `171:49`, `171:67`, `171:89`, `171:111`, `171:140`. | Uses the documented OLFACT direction: Midnight/Vapor Silver/Electric Violet, Space Grotesk/Manrope/IBM Plex Mono, sensory archive and technical scent-note graphics. Draft needs review/refinement and user approval. |
