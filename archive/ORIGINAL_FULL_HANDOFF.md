@@ -997,3 +997,3024 @@ Caption: “The good stuff takes time. A small look at the hands and patience be
 - [ ] Brand system and pacing checked
 - [ ] Final QA completed
 - [ ] Final export saved
+**Production record**
+
+- **Status:** In progress — editable storyboard complete; real process footage, edit, sound, QA, and export remain
+- **Figma page / frame:** 01 Morrow Bakehouse (0:1) — section “V09 · Craft / process storytelling — 15–20s Reel storyboard”
+- **Figma node link / ID:** 18:9 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=18-9; six editable 864×1536 keyframe cards 18:12, 18:23, 18:34, 18:45, 18:56, 18:67
+- **Source / editing file location:** Not recorded
+- **Export location:** Not exported
+- **Revision / issue:** Storyboard specifies the six approved macro shots, timecodes, camera movement, sparse overlays, and natural sound. Use real footage; do not fake the baking process.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+##### V10 — Seasonal product launch / appetite appeal
+
+**Deliverable type:** Video · 10–12s Reel  
+**Use case / visual treatment:** Stop-motion tabletop animation + motion typography
+
+**Composition / storyboard**
+
+9:16, 10–12 seconds. Build an overhead locked-off set. 0–2s: empty plate slides into frame. 2–5s: seasonal danish assembles in three stop-motion beats (pastry, pear, almond flakes). 5–7s: small coffee cup glides into place; a paper ticket reading “New bake” flips in. 7–10s: hold clean hero composition while product name and CTA animate in. Use 10–12fps stop-motion feel, subtle shadows, no chaotic bouncing.
+
+**60 / 30 / 10 palette**
+
+60 Flour / 30 Cocoa / 10 Terracotta. Flour tabletop; Cocoa type; Terracotta ticket/arrow. Product itself supplies warm pastry tones.
+
+**Typography & on-art copy**
+
+Fraunces for product name, DM Sans for availability. Animated copy: “Fresh from the oven” → “Pear & almond danish” → “Try it today.”
+
+**Caption & CTA**
+
+Caption: “A new bake has entered the chat. Here for a limited time, while the oven says so.” CTA: “Come try it.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a 10–12 second vertical stop-motion bakery launch animation on a fixed overhead camera. A clean ivory plate slides into frame, pastry pieces assemble into a pear-and-almond danish through crisp stop-motion increments, a small coffee cup enters and a terracotta paper ticket marked as a blank editable text area flips beside it. End on an elegant still life with a clear headline and CTA area. Tactile paper and pastry textures, controlled shadows, calm rhythmic movement, Flour/Cocoa/Terracotta palette. No floating fantasy ingredients, no illegible generated text; typeset exact copy manually in Fraunces and DM Sans.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Footage / source assets collected or generated
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** In progress — editable storyboard complete; motion build, source assets, sound, QA, and export remain
+- **Figma page / frame:** 01 Morrow Bakehouse (0:1) — section “V10 · Seasonal product launch — 10–12s Reel storyboard”
+- **Figma node link / ID:** 18:78 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=18-78; five editable 864×1536 keyframe cards 18:81, 18:92, 18:103, 18:114, 18:125
+- **Source / editing file location:** Not recorded
+- **Export location:** Not exported
+- **Revision / issue:** Storyboard follows the approved overhead stop-motion sequence and exact copy. Typeset final copy manually; keep ticket text editable and avoid generated lettering.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+### BRAND: AURELLE Skin
+
+**Category:** Beauty & Personal Care · Skincare  
+**Positioning:** Skin, in its own time.  
+**Palette:** 60% Porcelain #F4F0E9 · 30% Oat #DCD2C2 · 10% Sage #9BA58F. Olive #646D55 and Charcoal #30342E are supporting colors.  
+**Typography:** Cormorant Garamond (display) · Manrope (body) · DM Mono (ingredient/technical labels)  
+**Voice:** Calm, informed, reassuring, inclusive and refined. Educational without diagnosing or making guaranteed skin-result claims.
+
+#### Designed graphics
+
+##### G01 — Brand awareness / positioning
+
+**Deliverable type:** Graphic · Brand manifesto post  
+**Use case / visual treatment:** Quiet skincare editorial — understated, human, reassuring
+
+**Composition / storyboard**
+
+4:5 portrait. Photograph a person’s cheek/shoulder in soft natural window light, cropped to show real skin texture rather than a flawless beauty retouch. Place a small frosted bottle on a pale stone ledge in the lower third. Headline sits upper-left with generous breathing room; fine-line contour curve can frame the image subtly.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Oat / 10 Sage. Porcelain as background, Oat as secondary panel or stone surface, Sage as a single line/accent. Olive and Charcoal only for high-contrast small text.
+
+**Typography & on-art copy**
+
+Cormorant Garamond for headline; Manrope for short supporting copy; DM Mono for a tiny “AURELLE / SKIN NOTES” label. On-art: “Skin, in its own time.” Support: “Thoughtful care. No unnecessary noise.”
+
+**Caption & CTA**
+
+Caption: “Your skin is not a project to perfect. Build a routine that feels considered, consistent, and right for you.” CTA: “Explore thoughtful skincare.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a premium, calm skincare brand manifesto image for AURELLE Skin, portrait 4:5. Soft daylight on naturally textured skin, crop from cheek to shoulder, no pore-erasing retouch, one understated frosted skincare bottle resting on pale stone in lower third. Large negative space upper left for headline. Porcelain #F4F0E9, Oat #DCD2C2 and restrained Sage #9BA58F; refined Cormorant-inspired serif and clean Manrope text hierarchy. Organic contour-line detail used sparingly. Natural, inclusive, non-clinical mood. Leave type areas blank for accurate manual setting; no medical claims, no fake labels or text.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [x] Brief and prompt approved
+- [x] Required source assets available and verified
+- [x] Visual assets generated / sourced
+- [x] Layout built in Figma
+- [x] Exact copy, logo, and details manually typeset
+- [x] Brand system, palette ratio, and readability checked
+- [x] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 03 Objects & Elsewhere (1:3)
+- **Figma frame:** Frame 43:3 (4:5 brand-launch post)
+- **Figma node link / ID:** 43:3 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=43-3
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Built and visually checked once. Two-line headline fit and spacing were refined. Warm White / Ink / Persimmon system and approved positioning copy retained. Final export QA remains.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+##### G02 — Education / trust
+
+**Deliverable type:** Graphic · 5-slide ingredient education carousel  
+**Use case / visual treatment:** Clinical-botanical explainer — clean diagrams with tactile macro images
+
+**Composition / storyboard**
+
+Slides: 1 cover “Know what goes on your skin”; 2 one ingredient spotlight with botanical/macro ingredient still life; 3 simple “what it does” diagram using three short points; 4 “how to use” with sequence icons and AM/PM marker; 5 “keep it simple” summary and note to patch test/follow product directions. Use one ingredient per edition and have qualified product facts checked before publishing.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Oat / 10 Sage. Porcelain canvas, Oat cards, Sage for key callouts. Olive for small labels; avoid making the graphic feel like a medical chart.
+
+**Typography & on-art copy**
+
+Cormorant Garamond for editorial headings; Manrope for plain-language explanations; DM Mono for ingredient INCI/technical label. Copy fields: “[Ingredient]”, “[verified benefit]”, “[how to use per label]”. Include “Check the product label and patch test as appropriate.”
+
+**Caption & CTA**
+
+Caption: “Skincare gets easier when you understand what each step is for. Here’s a simple ingredient note — save it for your next routine check.” CTA: “Save this guide.”
+
+**Production-ready AI prompt / artist brief**
+
+> Design a five-slide skincare education carousel with an editorial-meets-clean-clinical system. Slide 1 typographic cover with a subtle contour line; slide 2 macro ingredient image or botanical still life; slide 3 a simple three-point function diagram; slide 4 a clearly sequenced use diagram with AM/PM placeholders; slide 5 concise recap and safety note. Palette Porcelain #F4F0E9 60%, Oat #DCD2C2 30%, Sage #9BA58F 10%. Cormorant Garamond headings, Manrope body, DM Mono technical micro-labels. Make every text panel spacious and readable. Use only verified ingredient statements supplied by the brand; do not invent clinical evidence, results, or usage instructions.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [x] Brief and prompt approved
+- [x] Required source assets available and verified
+- [x] Visual assets generated / sourced
+- [x] Layout built in Figma
+- [x] Exact copy, logo, and details manually typeset
+- [x] Brand system, palette ratio, and readability checked
+- [x] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 02 AURELLE Skin (1:2)
+- **Figma frame:** Section “G02 · 5-slide ingredient education carousel — Education / trust” (26:2) › five 1080×1350 frames: S1 Cover 26:3 · S2 Ingredient spotlight 26:14 · S3 What it does 26:24 · S4 How to use 26:44 · S5 Keep it simple 26:82
+- **Figma node link / ID:** section 26:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=26-2
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Visually checked once, with two fixes applied (cover arrow drawn as a vector because DM Mono has no arrow glyph; S2 description shortened to avoid an orphan word). Photo on S2: gpt-image-2.5-sunburst macro sage leaf on stone, source frame 25:2 on page 01. Every ingredient name, INCI name, benefit, step and usage line is a bracketed placeholder. Step icons (droplet, dots, ring with tick) are neutral stand-ins and must be swapped or confirmed once the real steps are verified. The patch-test line and “Save this guide.” pill are on S5. Caption + CTA note under the section (26:102). Final QA and export are still open.
+- **Last updated by / date:** Claude / 2026-11-19 (Asia/Manila)
+
+##### G03 — Product launch / consideration
+
+**Deliverable type:** Graphic · New product launch hero  
+**Use case / visual treatment:** Sculptural studio still life — product-first, polished
+
+**Composition / storyboard**
+
+4:5. One hero bottle centered slightly right, photographed at eye level with a 70–85mm product lens; soft side light creates a controlled glass highlight. Place a shallow pool/ripple of clear water or translucent gel nearby, not obscuring the label. Headline and product descriptor occupy the left column. Add one small numbered product tag.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Oat / 10 Sage. Porcelain background; Oat plinth; Sage thin launch marker. Use Charcoal for essential label contrast.
+
+**Typography & on-art copy**
+
+Cormorant Garamond product name; Manrope descriptor and CTA; DM Mono for product size / category. Copy: “Meet your new daily [product type].” Benefit line: “[Insert substantiated product benefit].” CTA: “Discover the formula.”
+
+**Caption & CTA**
+
+Caption: “Introducing [product name], created to fit into a thoughtful everyday routine. Explore the details, ingredients, and directions on the product page.” CTA: “Meet the new arrival.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create an elegant skincare product-launch still life, portrait 4:5. A single frosted glass bottle with a clean blank label sits on a sculptural oat-colored stone plinth, photographed straight-on at product eye level with an 85mm studio look. Soft side light creates controlled reflections; one translucent water ripple or gel form sits nearby. Keep a generous text column on the left and a small product-number area. AURELLE palette: Porcelain #F4F0E9, Oat #DCD2C2, accent Sage #9BA58F. Minimal, refined, realistic glass and material rendering. Leave label and copy blank for exact typesetting; no invented formula claims, no fake lettering, no medical symbols.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [x] Brief and prompt approved
+- [x] Required source assets available and verified
+- [x] Visual assets generated / sourced
+- [x] Layout built in Figma
+- [x] Exact copy, logo, and details manually typeset
+- [x] Brand system, palette ratio, and readability checked
+- [x] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 02 AURELLE Skin (1:2)
+- **Figma frame:** Section “G03 · New product launch hero — Product launch / consideration” (28:2) › Frame “G03 · Launch hero 4:5” 1080×1350 (28:3)
+- **Figma node link / ID:** 28:3 (frame); section 28:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=28-3
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Visually checked once; no fixes needed. Photo: gpt-image-2.5-sunburst, source frame 27:2 on page 01 (bottle centre-right on an Oat stone plinth with a water ripple; left third blank). The bottle label is typeset in Figma: AURELLE wordmark (Cormorant Garamond, set as text because no logo file was supplied), “[PRODUCT NAME]” and “[SIZE]” placeholders in DM Mono. Headline “Meet your new daily [product type].”, benefit “[Insert substantiated product benefit].”, outlined CTA “Discover the formula.”, Sage launch marker with “NEW ARRIVAL”, and a “Nº 01” tag with “[SIZE] · [CATEGORY]”. “NEW ARRIVAL” and “Nº 01” are my additions to fill the launch marker and numbered tag the brief asks for. Replace the typeset wordmark with the real logo if one exists. Caption + CTA note under the frame (28:18). Final QA and export are still open.
+- **Last updated by / date:** Claude / 2026-11-19 (Asia/Manila)
+
+##### G04 — Product education / cross-sell
+
+**Deliverable type:** Graphic · 4-slide routine carousel  
+**Use case / visual treatment:** Routine architecture — grid-based, calm and instructional
+
+**Composition / storyboard**
+
+Slides: 1 “A routine, not a ritual marathon” cover; 2 cleanse step with product/texture still life; 3 moisturize step with cream smear macro; 4 protect/finish step with packaging silhouette and “follow your product’s directions” note. This is a flexible framework: adapt step names to the actual range and do not imply products the brand does not sell. Use numbered modules and a consistent left-aligned text rail.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Oat / 10 Sage. Porcelain background, Oat cards, Sage numbers and progress markers. Olive text for secondary information.
+
+**Typography & on-art copy**
+
+Cormorant for cover; Manrope for step explanations; DM Mono for “01 / 02 / 03”. On-art: “Keep it considered.” Step labels: “[Step 01]”, “[Step 02]”, “[Step 03]”. Footer: “Build around your skin and product directions.”
+
+**Caption & CTA**
+
+Caption: “A simple routine should be easy to understand and easy to return to. Use this as a framework, then follow the directions for your own products.” CTA: “Explore the routine edit.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a four-slide skincare routine carousel using a calm modular editorial grid. Slide 1: minimalist type-led cover. Slide 2: cleanser texture/product still life, close side light. Slide 3: moisturizer cream smear macro with container crop. Slide 4: third routine-step product silhouette plus concise closing note. Use consistent numbering, generous gutters and clear reading order. Porcelain #F4F0E9 60%, Oat #DCD2C2 30%, Sage #9BA58F 10%. Cormorant Garamond titles, Manrope explanations, DM Mono step numbers. Provide editable text placeholders for actual products and label directions; do not invent a universal skin routine or specific benefits.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [x] Brief and prompt approved
+- [x] Required source assets available and verified
+- [x] Visual assets generated / sourced
+- [x] Layout built in Figma
+- [x] Exact copy, logo, and details manually typeset
+- [x] Brand system, palette ratio, and readability checked
+- [x] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 02 AURELLE Skin (1:2)
+- **Figma frame:** Section “G04 · 4-slide routine carousel — Product education / cross-sell” (30:2) › four 1080×1350 frames: S1 Cover 30:3 · S2 Cleanse 30:23 · S3 Moisturize 30:34 · S4 Protect / finish 30:45
+- **Figma node link / ID:** section 30:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=30-2
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Visually checked once; one fix applied: step titles read “[Step one] / [Step two] / [Step three]” instead of “[Step 01]” because Cormorant Garamond’s default numerals are old-style and “01” read as “oI”. The numbers “01 / 02 / 03” stay in DM Mono. Photos (gpt-image-2.5-sunburst): cleanser gel 29:2, cream smear with cropped jar 29:3 (both on page 01); S4 reuses the G03 bottle photo 27:2, cropped to show the unlabeled bottle as a packaging silhouette. Step role tags “[CLEANSE]”, “[MOISTURIZE]”, “[PROTECT / FINISH]” are bracketed so they can be adapted to the real range. The brief’s footer line appears on S4. Progress bars (Sage active, Oat inactive) sit bottom-left on every slide. No products are named or implied. Caption + CTA note under the section (30:58). Final QA and export are still open.
+- **Last updated by / date:** Claude / 2026-11-19 (Asia/Manila)
+
+##### G05 — Consideration / purchase
+
+**Deliverable type:** Graphic · Always-on conversion ad  
+**Use case / visual treatment:** Product-and-benefit split layout — crisp, no overpromising
+
+**Composition / storyboard**
+
+4:5 direct-response ad. Left 60%: clean close product shot and tactile texture (cream/serum smear) on pale stone. Right 40%: clear copy hierarchy with product name, one substantiated benefit, size/price placeholder, and CTA. Add a compact “ingredient-conscious routine” descriptor only if it is accurate to the product. Avoid before/after imagery.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Oat / 10 Sage. Main background Porcelain, copy panel Oat, Sage CTA button or small accent. Use Charcoal for legibility.
+
+**Typography & on-art copy**
+
+Manrope bold for product and benefit line; Cormorant Garamond for a short emotional headline; DM Mono for size. On-art: “Thoughtful care, made simple.” Product: “[Name]”; benefit: “[verified claim]”; CTA: “Shop skincare.”
+
+**Caption & CTA**
+
+Caption: “Meet a considered addition to your routine. See the ingredients, directions, and full product details before choosing what works for you.” CTA: “Shop the collection.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a high-clarity 4:5 paid social skincare ad. Product bottle and authentic formula texture occupy the left 60 percent on pale stone; right 40 percent is a calm Oat copy panel. Porcelain #F4F0E9 60%, Oat #DCD2C2 30%, Sage #9BA58F 10%; dark Olive/Charcoal text for contrast. Clean Manrope information hierarchy with a refined Cormorant accent. Keep a large blank product name, verified claim, price/size and CTA area. No exaggerated results, medical promises, fake before-after images, or unreadable generated copy.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [x] Brief and prompt approved
+- [x] Required source assets available and verified
+- [x] Visual assets generated / sourced
+- [x] Layout built in Figma
+- [x] Exact copy, logo, and details manually typeset
+- [x] Brand system, palette ratio, and readability checked
+- [x] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 02 AURELLE Skin (1:2)
+- **Figma frame:** Section “G05 · Always-on conversion ad — Consideration / purchase” (31:3) › Frame “G05 · Conversion ad 4:5” 1080×1350 (31:4)
+- **Figma node link / ID:** 31:4 (frame); section 31:3 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=31-4
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Visually checked once; no fixes needed. Left 60% (648px) is the photo window with a bottle and cream/serum texture on pale stone (gpt-image-2.5-sunburst, source frame 31:2 on page 01); the bottle label is typeset (AURELLE wordmark, “[PRODUCT NAME]”, “[SIZE]”). Right 40% (432px) is the Oat copy panel: AURELLE wordmark, “Thoughtful care, made simple.”, “[Name]”, “[verified claim]”, “[SIZE] · [PRICE]” and a Sage “Shop skincare.” button. The optional “ingredient-conscious routine” descriptor was left out because the brief allows it only if accurate to the product. No before/after imagery. The panel has a deliberate empty middle band; tighten it if the real copy runs longer. Caption + CTA note under the frame (31:21). Final QA and export are still open.
+- **Last updated by / date:** Claude / 2026-11-19 (Asia/Manila)
+
+##### G06 — Engagement / routine preferences
+
+**Deliverable type:** Graphic · 4-frame interactive story  
+**Use case / visual treatment:** Minimal quiz cards — calm interactive UI
+
+**Composition / storyboard**
+
+9:16 story sequence. Frame 1: type-led intro “Let’s make skincare simpler.” Frame 2: poll “What’s your biggest routine question?” with options (ingredients / order / consistency). Frame 3: question sticker “What would you like us to explain next?” Frame 4: “We’ll answer in our next Skin Notes” with a subtle bottle silhouette. Native sticker zones are blank and placed above lower UI safety area.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Oat / 10 Sage. Use Sage for selected option marker and progress line; keep the rest restrained.
+
+**Typography & on-art copy**
+
+Cormorant title; Manrope questions/options; DM Mono frame number. Copy exactly as above. Add a small DM Mono “AURELLE / SKIN NOTES” identifier.
+
+**Caption & CTA**
+
+Story intro: “Tell us what would make your routine easier. We’re collecting questions for the next Skin Notes.” CTA is native poll/question stickers.
+
+**Production-ready AI prompt / artist brief**
+
+> Create a four-frame 9:16 skincare Instagram Story quiz with calm editorial UI. Frame 1 has a quiet typographic opener and fine contour line; frame 2 has two/three generous poll option areas; frame 3 contains a clear empty native question-sticker zone; frame 4 features a small frosted bottle silhouette and “Skin Notes” sign-off. Leave all Instagram sticker areas empty, with enough room for legibility and interface safe zones. Porcelain #F4F0E9 60%, Oat #DCD2C2 30%, Sage #9BA58F 10%. Cormorant, Manrope and DM Mono. No fake app controls or tiny text.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [x] Brief and prompt approved
+- [x] Required source assets available and verified
+- [x] Visual assets generated / sourced
+- [x] Layout built in Figma
+- [x] Exact copy, logo, and details manually typeset
+- [x] Brand system, palette ratio, and readability checked
+- [x] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 02 AURELLE Skin (1:2)
+- **Figma frame:** Section “G06 · 4-frame interactive story — Engagement / routine preferences” (32:2) › four 1080×1920 frames: F1 Intro 32:3 · F2 Poll 32:16 · F3 Question sticker 32:36 · F4 Sign-off 32:47
+- **Figma node link / ID:** section 32:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=32-2
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Visually checked once; no fixes needed. No photography was needed, so no image generation was used. Copy is exactly as briefed. Sage is used for the active progress segment, the option accent bars and the fine contour lines. Top UI zone is kept clear (progress at y 220, label at y 262, headlines from y 430). Frame 2 shows the three options as Oat cards with DM Mono numbers and a Sage accent bar, deliberately without radio-button styling so there are no fake app controls; they can sit under a native poll sticker or stand alone, and the designer should pick one in production. Frame 3 keeps an empty zone (roughly y 800–1450 within the frame) for the native question sticker, with no guide outline drawn. Frame 4 uses a drawn Oat bottle silhouette. Caption note under the section (32:59). Final QA and export are still open.
+- **Last updated by / date:** Claude / 2026-11-19 (Asia/Manila)
+
+##### G07 — Social proof / reassurance
+
+**Deliverable type:** Graphic · Customer review / UGC quote card  
+**Use case / visual treatment:** Human-led testimonial editorial — authentic and restrained
+
+**Composition / storyboard**
+
+Create a 4:5 quote card and a reusable story version. Background is a real customer bathroom shelf or skincare routine snapshot, softly defocused; place a translucent Porcelain panel over lower third with a short, approved customer quote. Include first name/initial only with permission. Add a small “Customer note” label. Do not fabricate a testimonial or imply a typical result.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Oat / 10 Sage. Use translucent Porcelain panel over imagery, Oat secondary line, Sage small quotation mark/underline.
+
+**Typography & on-art copy**
+
+Cormorant Garamond for approved quote; Manrope for attribution and disclaimer; DM Mono for “CUSTOMER NOTE”. On-art quote: “[Insert genuine approved customer quote]”. Attribution: “[Name/initial, with consent]”.
+
+**Caption & CTA**
+
+Caption: “Real routines, real perspectives. Shared with permission. Individual experiences vary.” CTA: “Explore the product details.”
+
+**Production-ready AI prompt / artist brief**
+
+> Design an understated skincare testimonial template. Use an authentic, consented customer routine image as a softly blurred full-bleed background, then place a readable translucent Porcelain quote panel in the lower third. Include a small “Customer note” label, editable quote field, consented attribution field and optional disclaimer field. Use Porcelain #F4F0E9 60%, Oat #DCD2C2 30%, Sage #9BA58F 10%. Cormorant Garamond quote, Manrope attribution, DM Mono label. Do not generate a fake person, fake review, fabricated result claim or invented name.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [x] Brief and prompt approved
+- [ ] Required source assets available and verified (real customer photo, approved quote and consent still needed)
+- [x] Visual assets generated / sourced (placeholder only)
+- [x] Layout built in Figma
+- [x] Exact copy, logo, and details manually typeset
+- [x] Brand system, palette ratio, and readability checked
+- [x] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete (placeholder content)
+- **Figma page:** 02 AURELLE Skin (1:2)
+- **Figma frame:** Section “G07 · Customer review / UGC quote card — Social proof / reassurance” (33:3) › Frame “G07 · Quote card 4:5” 1080×1350 (33:4) and Frame “G07 · Story version 9:16” 1080×1920 (33:14)
+- **Figma node link / ID:** section 33:3 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=33-3
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Visually checked once; no fixes needed. The background is a generated stand-in for a customer’s bathroom-shelf photo (gpt-image-2.5-sunburst, source frame 33:2 on page 01); it is only a placeholder and must be replaced with a real customer photo once permission is confirmed. It is sharper than the “softly defocused” look the brief asks for, so apply blur to a real photo. The translucent Porcelain panel (90% opacity) holds: DM Mono “CUSTOMER NOTE” with a Sage underline, a Sage quotation mark, the quote in Cormorant Garamond Light Italic (“[Insert genuine approved customer quote]”), an Oat divider, “[Name/initial, with consent]”, and the disclaimer “Shared with permission. Individual experiences vary.” The panel is sized for a two-line quote; check longer quotes. The story version keeps the panel above the bottom UI zone. No testimonial was invented. Caption + CTA note under the section (33:24). Final QA and export are still open.
+- **Last updated by / date:** Claude / 2026-11-19 (Asia/Manila)
+
+##### G08 — Seasonal gifting / basket building
+
+**Deliverable type:** Graphic · Gift edit carousel  
+**Use case / visual treatment:** Soft gift-guide editorial — still life and helpful curation
+
+**Composition / storyboard**
+
+4:5, four slides. S1: gift edit cover with two/three products wrapped in translucent tissue. S2: “For the routine minimalist” with one item. S3: “For the curious beginner” with a discovery/bundle set. S4: “A thoughtful little gift” with packaging, note card and CTA. Use only real available SKUs and verified set contents; price fields remain editable.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Oat / 10 Sage. Porcelain is the canvas; Oat tissue/plinths; Sage ribbons or category labels. Keep it calm, not overtly seasonal.
+
+**Typography & on-art copy**
+
+Cormorant for headline; Manrope for guide details; DM Mono for category tags. Copy: “A thoughtful little gift.” / “For the routine minimalist” / “For the curious beginner” / “Explore the gift edit.”
+
+**Caption & CTA**
+
+Caption: “A small guide to gifting skincare thoughtfully. Check ingredients and preferences before choosing for someone else.” CTA: “Browse the gift edit.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a four-slide premium skincare gift-guide carousel with a soft tactile still-life art direction. Slide 1 shows a curated product grouping with translucent tissue; slide 2 a single minimal product; slide 3 a discovery set with neatly arranged samples; slide 4 a gift box, note card and ribbon. Use consistent product scale, soft natural shadows and generous blank text zones. Palette Porcelain #F4F0E9 60%, Oat #DCD2C2 30%, Sage #9BA58F 10%. Cormorant display, Manrope body, DM Mono labels. Only depict provided products and confirmed set contents; price and SKU details must remain editable.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [x] Brief and prompt approved
+- [x] Required source assets available and verified
+- [x] Visual assets generated / sourced
+- [x] Layout built in Figma
+- [x] Exact copy, logo, and details manually typeset
+- [x] Brand system, palette ratio, and readability checked
+- [x] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 02 AURELLE Skin (1:2)
+- **Figma frame:** Section “G08 · Gift edit carousel — Seasonal gifting / basket building” (34:6) › four 1080×1350 frames: S1 Cover 34:7 · S2 “For the routine minimalist” 34:17 · S3 “For the curious beginner” 34:29 · S4 “A thoughtful little gift.” 34:41
+- **Figma node link / ID:** section 34:6 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=34-6
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Visually checked; fixes applied (S1 footer set to Charcoal and its label removed because it collided with the ribbon in the photo; extra spacing between headlines and detail lines on S2–S4). Four new sunburst photos, all on page 01: S1 tissue-wrapped products 34:2, S2 single jar on a plinth 34:3, S3 discovery set in an open box 34:4, S4 gift box with blank note card 34:5. The S1 headline “The gift edit.” and the “GIFT 01 / 03” tags are my wording built from the brief’s “gift edit”; the three slide headlines and the CTA “Explore the gift edit.” are as briefed. Product names, set contents and prices are bracketed placeholders. The photos show invented products and sets (a jar, a four-piece set, a box), so make sure the real range matches before publishing; the brief says to use only real available SKUs. The note card in S4 is blank. Caption + CTA note under the section (34:54). Final QA and export are still open.
+- **Last updated by / date:** Claude / 2026-11-19 (Asia/Manila)
+
+#### Short-form videos
+
+##### V09 — Product launch / premium visual impact
+
+**Deliverable type:** Video · 12–15s Reel  
+**Use case / visual treatment:** 3D product animation — controlled liquid and glass study
+
+**Composition / storyboard**
+
+9:16, 12–15 seconds. 0–3s: frosted bottle appears from shadow on a pale stone plinth; slow 20° camera orbit. 3–6s: translucent serum-like ribbon arcs around bottle without covering label. 6–9s: macro droplet glides down glass; soft highlight travels across edge. 9–12s: bottle settles front-facing; ingredient/product callouts appear as restrained technical labels. 12–15s: clean end card with product name and CTA. Do not depict product performance or medical effects.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Oat / 10 Sage in environment and graphics. Sage used as a narrow line/callout; dark Olive type for contrast.
+
+**Typography & on-art copy**
+
+Cormorant Garamond for end headline; Manrope labels; DM Mono technical callouts. Motion copy: “A considered daily step.” → “[Product name]” → “Explore the formula.”
+
+**Caption & CTA**
+
+Caption: “A closer look at [product name]. Explore its ingredients, directions, and place in your routine.” CTA: “Discover the new arrival.”
+
+**Production-ready AI prompt / artist brief**
+
+> Produce a premium 3D skincare product animation, vertical 9:16, 12–15 seconds. Model a frosted glass bottle with an intentionally blank label and realistic cap; begin in soft shadow on a pale stone plinth, perform a slow controlled 20-degree orbit, introduce one translucent serum-like ribbon that never obscures the label, show a macro droplet on the glass and a moving softbox reflection, then settle into a front-facing hero. Minimal shadows, realistic refraction, no fantasy efficacy visualization, no skin transformation or medical imagery. Porcelain/Oat/Sage palette and restrained Cormorant/Manrope/DM Mono overlays. Add final copy manually; do not render fake product text.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [x] Brief and prompt approved
+- [ ] Footage / source assets collected or generated
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** In progress (storyboard built; the 3D animation and final render still need production outside Figma)
+- **Figma page:** 02 AURELLE Skin (1:2)
+- **Figma frame:** Section “V09 · Product launch / premium visual impact — 12–15s Reel storyboard” (35:2, 4792×1840) › five 864×1536 keyframe cards: 01 Emerges from shadow 35:5 · 02 The serum ribbon 35:18 · 03 Macro droplet 35:30 · 04 Settles front-facing 35:42 · 05 End card 35:58
+- **Figma node link / ID:** section 35:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=35-2
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Storyboard mirrors the Morrow V09 structure (timecode, shot title, scene panel, description, camera and movement, on-screen copy, sound). Beats follow the brief’s timing (0–3, 3–6, 6–9, 9–12, 12–15s). Keyframe stills: ribbon arc 34:55 and macro droplet 34:56 are new sunburst images on page 01 (34:56 failed to render once and was regenerated in place); beats 1 and 4 reuse the G03 bottle photo 27:2 (beat 1 darkened to suggest emerging from shadow, beat 4 with two bracketed DM Mono callout labels and Sage lines). Beat 5 is a typeset end card with “[Product name]” and “Explore the formula.”. “A considered daily step.” is on beat 4. The stills are AI stand-ins for the final 3D render, not final frames. The bottle label is intentionally blank, per the brief. Sound notes are my suggestions. Caption and CTA are at the bottom of the section. No product performance or medical effects are shown.
+- **Last updated by / date:** Claude / 2026-11-19 (Asia/Manila)
+
+##### V10 — Routine education / relatable use case
+
+**Deliverable type:** Video · 20–25s Reel  
+**Use case / visual treatment:** UGC-style real-footage routine — calm and practical
+
+**Composition / storyboard**
+
+9:16, 20–25 seconds. 0–2s: bathroom shelf POV, hand reaches for product. 2–6s: texture dispensed onto clean fingertips, macro. 6–10s: apply according to actual label directions, medium close-up, natural skin texture visible. 10–15s: product returned to shelf beside other routine items, slow pan. 15–20s: creator speaks one simple line to camera or uses VO: “I like keeping my routine simple.” 20–25s: clean branded end card. Use creator consent and no promised results.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Oat / 10 Sage for captions and end card; footage stays natural. Use small Sage progress markers and dark text.
+
+**Typography & on-art copy**
+
+Manrope subtitles with Cormorant end-card line. Overlay sequence: “One step at a time.” / “[Product name]” / “Follow the directions on pack.” End card “Skin, in its own time.”
+
+**Caption & CTA**
+
+Caption: “A simple look at how [product] fits into one routine. Always follow the product label and choose products that suit your skin.” CTA: “Read more about the formula.”
+
+**Production-ready AI prompt / artist brief**
+
+> Shoot a 20–25 second vertical skincare routine Reel in a real, uncluttered bathroom with soft window light. Capture shelf POV, macro dispensing texture onto fingertips, a medium close-up of application following the exact product directions, product returning to shelf and a relaxed creator line to camera. Preserve natural skin texture; avoid filters, beauty retouch, medical language and before/after claims. Edit with gentle cuts, subtle ambient sound and legible Manrope subtitles. Finish on a Porcelain/Oat/Sage end card with Cormorant headline. Use a consenting creator and an approved product use demonstration.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [x] Brief and prompt approved
+- [x] Editable six-keyframe storyboard built and visually inspected in Figma
+- [ ] Real footage collected with creator consent and approved product directions
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** In progress — six editable keyframes built and visually checked; real footage, edit, sound, final QA, and export remain.
+- **Figma page / frame:** 02 AURELLE Skin (1:2) — section “V10 · Routine education / relatable use case — 20–25s Reel storyboard” (41:2, 5728×1840); six 864×1536 cards: 01 Reach for the routine (41:5) · 02 Dispense a little (41:16) · 03 Apply as directed (41:27) · 04 Back on the shelf (41:38) · 05 A simple routine (41:49) · 06 End card (41:60).
+- **Figma node link / ID:** section 41:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=41-2
+- **Source / editing file location:** Not recorded; real footage still required.
+- **Export location:** Not exported.
+- **Revision / issue:** Four new Figma Generate Image storyboard references were added to page 01 as source frames 39:2, 39:3, 39:4, and 40:2; the existing bathroom-shelf asset 33:2 is reused for beat 4. These are illustrative AI storyboard stand-ins, not real UGC or final footage. Obtain creator consent and confirm the actual SKU and label directions before filming; no product-result claims are made. Caption and CTA are included below the section.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+### BRAND: Objects & Elsewhere
+
+**Category:** Retail · Curated lifestyle & home goods online store  
+**Positioning:** Good things find their place.  
+**Palette:** 60% Warm White #F4F1E9 · 30% Ink #292B2B · 10% Persimmon #D97855. Sand #D8C9B5 and Slate #66727A are supporting colors.  
+**Typography:** Space Grotesk (display/wordmark) · Inter (body/UI) · IBM Plex Mono (product codes/category labels)  
+**Voice:** Contemporary, curious, editorial and lightly witty. Sound like a design-aware friend with good taste, not a high-end design gatekeeper.
+
+#### Designed graphics
+
+##### G01 — Brand awareness / positioning
+
+**Deliverable type:** Graphic · Brand-launch campaign post  
+**Use case / visual treatment:** Bold editorial still life — designed-object curation
+
+**Composition / storyboard**
+
+4:5 portrait. Arrange five everyday objects (desk tray, mug, lamp, notebook, storage piece) on staggered plinths against a Warm White seamless backdrop. Shoot straight-on with slight perspective; crop objects at varied scales. Large headline occupies top-left; small category tags anchor bottom edge. Use hard-edged shadows and one Persimmon geometric shape behind a single object.
+
+**60 / 30 / 10 palette**
+
+60 Warm White / 30 Ink / 10 Persimmon. White background dominates; Ink typography and framing; Persimmon as one geometric block or small sticker, not multiple scattered accents.
+
+**Typography & on-art copy**
+
+Space Grotesk bold headline; Inter supporting line; IBM Plex Mono micro labels. On-art: “Good things find their place.” Support: “Objects for living, working, and everything in between.”
+
+**Caption & CTA**
+
+Caption: “A considered collection of useful things, chosen to make the everyday feel a little better.” CTA: “Explore the store.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create an editorial launch poster for OBJECTS & ELSEWHERE, portrait 4:5. Five modern everyday objects—desk tray, mug, lamp, notebook and organizer—arranged on staggered geometric plinths against a seamless warm-white studio background. Straight-on camera with subtle perspective, varied object scale, crisp directional shadows and generous top-left negative space. Use Warm White #F4F1E9 60%, Ink #292B2B 30%, Persimmon #D97855 10%. Bold Space Grotesk-inspired typography zone, clean Inter support, IBM Plex Mono micro-label areas. Contemporary independent design-store energy. Leave exact type blank for manual setting; no invented logos, no visual clutter.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G02 — Product discovery / collection drop
+
+**Deliverable type:** Graphic · 5-slide curated collection carousel  
+**Use case / visual treatment:** Modular product catalog — clean, collectible, highly scannable
+
+**Composition / storyboard**
+
+Slides: 1 collection cover “The everyday edit”; 2 desk objects in a 2×2 grid; 3 kitchen essentials arranged in a horizontal lineup; 4 home organization photographed in a real shelf setting; 5 collection overview with “Shop the edit”. Use consistent number tags, product name slots and clean image borders. Items should be actual current stock or replaceable placeholders.
+
+**60 / 30 / 10 palette**
+
+60 Warm White / 30 Ink / 10 Persimmon. Warm White canvas; Ink text and grid; Persimmon only for collection numbering or one highlighted product code.
+
+**Typography & on-art copy**
+
+Space Grotesk for cover and category headers; Inter for product names/descriptions; IBM Plex Mono for item numbers/codes. Copy: “The everyday edit” / “Desk, kitchen, home” / “Useful by design.” CTA “Shop the collection.”
+
+**Caption & CTA**
+
+Caption: “A few well-considered objects for the spaces you spend time in. Swipe through the edit.” CTA: “Tap to browse the collection.”
+
+**Production-ready AI prompt / artist brief**
+
+> Design a five-slide 4:5 e-commerce collection carousel with a disciplined editorial catalog grid. Slide 1: clean type-led collection cover with one cropped object. Slide 2: four desk accessories on neutral blocks. Slide 3: kitchen essentials in a horizontal lineup. Slide 4: organization items styled in a lived-in shelf. Slide 5: tidy collection overview and CTA field. Keep photography consistent, shadows crisp, margins wide, product scale accurate and backgrounds uncluttered. Palette Warm White 60%, Ink 30%, Persimmon 10%. Space Grotesk, Inter and IBM Plex Mono. Use placeholders for products/SKUs that can be swapped to match actual inventory.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 03 Objects & Elsewhere (1:3)
+- **Figma frame:** Section 48:2 — five 1080×1350 slides
+- **Figma node link / ID:** 48:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=48-2
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Five-slide “The everyday edit” carousel. Three generic category images (desk, kitchen, home) filed as source assets on page 01; product names and inventory are editable placeholders. Final export QA and actual-stock image matching remain.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+##### G03 — Product consideration / detail
+
+**Deliverable type:** Graphic · Single product spotlight  
+**Use case / visual treatment:** Sculptural studio product portrait — object as hero
+
+**Composition / storyboard**
+
+4:5. Feature a single desk organizer or sculptural lamp (choose actual SKU). Shoot at a 3/4 angle, camera just above object height, with strong side light that reveals shape/material. Keep product centered with a large empty band at top for short headline and a technical info rail along one side. Include one close-up inset showing material or mechanism only if accurate.
+
+**60 / 30 / 10 palette**
+
+60 Warm White / 30 Ink / 10 Persimmon. White background and negative space; Ink information rail; Persimmon small SKU tab. Sand can appear as a physical prop surface.
+
+**Typography & on-art copy**
+
+Space Grotesk headline; Inter features; IBM Plex Mono model/SKU. On-art: “A better place for the little things.” Product name: “[SKU name]”. Details: “[verified material / dimensions / function]”. CTA: “View details.”
+
+**Caption & CTA**
+
+Caption: “A closer look at [product]. See dimensions, materials, and practical details on the product page before adding it to your space.” CTA: “Explore the object.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a premium studio product spotlight in 4:5 for a contemporary design-led online store. Show one supplied desk organizer or lamp as the hero, three-quarter angle slightly above object height, controlled side lighting revealing true material and edges, realistic contact shadow and clean warm-white sweep. Keep a blank top band for headline and a narrow side rail for verified specs. Use Warm White #F4F1E9, Ink #292B2B and one Persimmon #D97855 SKU tab. Space Grotesk headline, Inter product detail, IBM Plex Mono code. Product dimensions and materials must be exact supplied facts; do not invent details or redesign the item.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 03 Objects & Elsewhere (1:3)
+- **Figma frame:** Section 49:3; frame 49:4 (1080×1350)
+- **Figma node link / ID:** 49:3 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=49-3
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Single-product spotlight with a generic desk-organizer concept image. Layout revised to separate photo and Warm White technical rail for contrast. SKU name, material, dimensions and function remain placeholders; replace concept with actual SKU photography and verified specs. Final export QA remains.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+##### G04 — Direct response / store traffic
+
+**Deliverable type:** Graphic · Always-on conversion ad  
+**Use case / visual treatment:** High-clarity problem-to-product ad — practical and concise
+
+**Composition / storyboard**
+
+4:5 paid social. Use a before/after-inspired split without implying an unrealistic transformation: left side shows a cluttered but believable desk corner; right side shows the same scene with one featured organizer in use. Camera remains identical to make the use case clear. Keep headline at top and CTA/button area in bottom-right. Do not overfill with product claims.
+
+**60 / 30 / 10 palette**
+
+60 Warm White / 30 Ink / 10 Persimmon. Warm White frames both scenes; Ink text and divider; Persimmon CTA or small “shop the edit” label.
+
+**Typography & on-art copy**
+
+Space Grotesk for headline; Inter for benefit; IBM Plex Mono for product/category. Copy: “Give everyday things a place.” Supporting: “A considered fix for desk clutter.” CTA: “Shop desk essentials.”
+
+**Caption & CTA**
+
+Caption: “Small changes can make a space feel easier to use. Explore organizers and desk objects selected for everyday function.” CTA: “Shop desk essentials.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a conversion-focused 4:5 split-scene ad. Show the same desk corner from the same fixed camera angle in both halves: one naturally cluttered, the other organized with the featured actual organizer. Keep the comparison believable and do not remove necessary objects unrealistically. Crisp daylight, modern lived-in room, clear product visibility. Warm White #F4F1E9 60%, Ink #292B2B 30%, Persimmon #D97855 10%. Strong Space Grotesk headline, Inter explanation and unmistakable CTA field. No fake performance claims or changed product appearance.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 03 Objects & Elsewhere (1:3)
+- **Figma frame:** Section 52:3; frame 52:4 (1080×1350)
+- **Figma node link / ID:** 52:3 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=52-3
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Always-on conversion ad with same-angle before/after desk scene and clear CTA. Comparison is a restrained illustrative tidy-up; organizer is a generic stand-in. Replace with actual product imagery and verify product range before publishing. Final export QA remains.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+##### G05 — Inspiration / cross-category discovery
+
+**Deliverable type:** Graphic · 4-slide space refresh carousel  
+**Use case / visual treatment:** Editorial before-and-after with spatial storytelling
+
+**Composition / storyboard**
+
+Slide 1: wide desk/shelf scene with “Make room for better everyday”. Slide 2: detail of the pain point (cords, scattered stationery, crowded surface) with tiny annotation arrows. Slide 3: same zone styled with 2–3 store objects, 3/4 angle. Slide 4: full room/desk reveal and product list placeholders. Use consistent camera perspective between before and after, and show real use rather than decorative overload.
+
+**60 / 30 / 10 palette**
+
+60 Warm White / 30 Ink / 10 Persimmon. Warm White frame/background, Ink annotation and copy, Persimmon arrows/numbers. Actual room materials add secondary neutrals naturally.
+
+**Typography & on-art copy**
+
+Space Grotesk for large statement; Inter for tips/product descriptions; IBM Plex Mono for numbered callouts. On-art: “A little order goes a long way.” Callouts: “01 Clear the surface” / “02 Give essentials a home” / “03 Keep what you use close.”
+
+**Caption & CTA**
+
+Caption: “A small reset for a space you use every day. Which corner would you refresh first?” CTA: “Save this for your next reset.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a four-slide editorial home-and-desk refresh carousel. Keep camera perspective and room lighting consistent for the before/after sequence. Slide 1: full desk scene with spacious headline band. Slide 2: close detail of cluttered cords/stationery with tiny annotation marks. Slide 3: same desk organized using two or three actual product placeholders, 3/4 view. Slide 4: wider finished scene with editable product list. Natural light, believable lived-in space, no luxury mansion setting. Warm White 60%, Ink 30%, Persimmon 10%; Space Grotesk, Inter, IBM Plex Mono. Show practical organization, not a magical or exaggerated transformation.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 03 Objects & Elsewhere (1:3)
+- **Figma frame:** Section 54:2 — four 1080×1350 slides
+- **Figma node link / ID:** 54:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=54-2
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Four-slide space-refresh carousel: wide before/after, clutter detail with manual arrows, reset, and final desk reveal. Uses concept images; three product-list entries remain placeholders. Visual sequence built; final export QA and actual-stock matching remain.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+##### G06 — Engagement / product discovery
+
+**Deliverable type:** Graphic · 3-frame category quiz story  
+**Use case / visual treatment:** Interactive shopping assistant — punchy typographic cards
+
+**Composition / storyboard**
+
+9:16 sequence. Frame 1: oversized type “What are we improving today?” with abstract object silhouette. Frame 2: three clear choices as visual tiles — “Desk”, “Kitchen”, “Everyday carry” — leaving space for a native poll/quiz sticker. Frame 3: selected-category prompt: “Show us your space” with question sticker area or “Tap to explore” link area. Add tiny category codes to reinforce brand system.
+
+**60 / 30 / 10 palette**
+
+60 Warm White / 30 Ink / 10 Persimmon. Ink text and blocks; Persimmon marks the selected category; Warm White keeps it airy.
+
+**Typography & on-art copy**
+
+Space Grotesk bold question; Inter options; IBM Plex Mono category codes. Copy: “What are we improving today?” / “DESK 01” / “KITCHEN 02” / “ON THE GO 03” / “Show us your space.”
+
+**Caption & CTA**
+
+Story caption: “Choose a category and we’ll share a few useful finds from the store.” CTA: use poll or link sticker.
+
+**Production-ready AI prompt / artist brief**
+
+> Design three 9:16 Instagram Story frames as an interactive shopping assistant. Frame 1: bold editorial question with a single abstract object silhouette. Frame 2: three generous category tiles, each with distinct product crop, label and empty area reserved for native poll/quiz sticker. Frame 3: clean question prompt or link area with a small category code. Palette Warm White #F4F1E9 60%, Ink #292B2B 30%, Persimmon #D97855 10%. Space Grotesk, Inter and IBM Plex Mono. Keep safe zones clear and do not draw fake Instagram stickers or buttons.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 03 Objects & Elsewhere (1:3)
+- **Figma frame:** Section 55:3 — three 1080×1920 story frames
+- **Figma node link / ID:** 55:3 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=55-3
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Three-frame 9:16 category quiz story (opening prompt, Desk/Kitchen/On the Go tiles, final prompt). Native Instagram poll/quiz and question/link sticker areas intentionally left blank for publishing. Category images are generic concepts; actual-stock matching and final QA remain.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+##### G07 — Seasonal shopping / basket building
+
+**Deliverable type:** Graphic · Gift guide carousel  
+**Use case / visual treatment:** Independent-shop gift guide — playful editorial grid
+
+**Composition / storyboard**
+
+Five slides: cover “Useful things, good gifts”; then guide by recipient/use case: “For the desk person”, “For the host”, “For the one who has everything”; final bundle/CTA page. Each slide features 2–3 actual products in a clean grid with editable price/name fields. Use one oversized Persimmon number or shape per slide to keep a campaign rhythm.
+
+**60 / 30 / 10 palette**
+
+60 Warm White / 30 Ink / 10 Persimmon. Warm White background; Ink labels; Persimmon large numbering/one graphic shape per slide. Sand for photography surfaces.
+
+**Typography & on-art copy**
+
+Space Grotesk headline; Inter descriptions/prices; IBM Plex Mono gift-guide numbering. Copy: “Useful things, good gifts.” / “For the desk person” / “For the host” / “For the hard-to-shop-for.” CTA “Find a thoughtful gift.”
+
+**Caption & CTA**
+
+Caption: “A curated gift edit for people who appreciate useful, well-designed things. Product availability and prices are listed in the store.” CTA: “Browse the gift guide.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a five-slide modern e-commerce gift guide carousel. Each slide uses a strict editorial grid, two or three photographed product cutouts, one large Persimmon geometric number or shape, and a clean editable product-name/price rail. Cover says “Useful things, good gifts”; subsequent slides categorize by recipient/use case; final slide groups the gift edit with CTA. Product imagery should be consistent, accurately represent available SKUs and avoid invented variations. Warm White 60%, Ink 30%, Persimmon 10%. Space Grotesk bold, Inter body, IBM Plex Mono numbering. Contemporary independent design shop mood.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 03 Objects & Elsewhere (1:3)
+- **Figma frame:** Section 56:2 — five 1080×1350 slides
+- **Figma node link / ID:** 56:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=56-2
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Five-slide recipient-led gift guide: cover, desk person, host, hard-to-shop-for, and collection CTA. Generic category images reused consistently; all product names and prices remain placeholders pending inventory verification. Final export QA remains.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+##### G08 — Social proof / community
+
+**Deliverable type:** Graphic · Review / customer styling collage  
+**Use case / visual treatment:** UGC collage — lived-in, unpolished but curated
+
+**Composition / storyboard**
+
+4:5. Use a 2×2 collage of genuine customer-submitted photos showing products in real homes or workspaces. Vary crop and scale but align edges to a modular grid. Add one central/side quote strip with a real approved review and first name/handle only with permission. Small label “In your space”. Use a thin border, no fake star-rating graphic unless sourced.
+
+**60 / 30 / 10 palette**
+
+60 Warm White / 30 Ink / 10 Persimmon. Warm White gutters; Ink quote and labels; Persimmon one small “community pick” label. Preserve natural photo colors.
+
+**Typography & on-art copy**
+
+Space Grotesk short headline; Inter review and attribution; IBM Plex Mono source/series label. Copy: “Good things, in good spaces.” Quote: “[Approved customer review]”. Attribution: “[Permission-cleared name/handle]”.
+
+**Caption & CTA**
+
+Caption: “A few objects finding their place in your spaces. Thanks for sharing your setups with us.” CTA: “Tag us to be featured.”
+
+**Production-ready AI prompt / artist brief**
+
+> Build a 4:5 UGC community collage using four real, permission-cleared customer photos of the store's actual products in real homes or workspaces. Use a modular 2x2 grid with deliberate variation in crop while keeping clean aligned edges, white gutters and natural photo color. Add a single quote strip with exact approved review and consented attribution. Palette Warm White #F4F1E9 60%, Ink #292B2B 30%, Persimmon #D97855 10%. Space Grotesk headline, Inter quote, IBM Plex Mono label. Do not fabricate customer images, reviews, handles, ratings or product appearance.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Design complete
+- **Figma page:** 03 Objects & Elsewhere (1:3)
+- **Figma frame:** Section 58:2; frame 58:3 (1080×1350)
+- **Figma node link / ID:** 58:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=58-2
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Community collage layout built with four explicit empty photo slots and an approved-review/attribution placeholder. No customer photos, testimonial or attribution were fabricated. Needs four permission-cleared customer submissions, exact approved quote and consent before publishing; final export QA remains.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+#### Short-form videos
+
+##### V09 — Unboxing / product discovery
+
+**Deliverable type:** Video · 15–18s Reel  
+**Use case / visual treatment:** Real-footage stop-motion unboxing — tactile and satisfying
+
+**Composition / storyboard**
+
+9:16, 15–18 seconds. Locked overhead camera on Warm White tabletop. 0–2s: closed branded box enters frame. 2–5s: tissue opens in two crisp movements. 5–9s: three objects are removed one by one and placed in a grid. 9–13s: hands demonstrate one simple function/use. 13–16s: final flat-lay with item names appearing as labels. 16–18s: brand end card and shop CTA. Mix stop-motion inserts with one natural real-time use clip.
+
+**60 / 30 / 10 palette**
+
+60 Warm White / 30 Ink / 10 Persimmon in set and overlays; keep packaging print legible and actual. Use soft tabletop sound and lightly rhythmic music.
+
+**Typography & on-art copy**
+
+Space Grotesk label/CTA; Inter supporting copy; IBM Plex Mono item codes. Overlays: “A small delivery of good design.” / “Unbox the everyday.” / “Explore the edit.”
+
+**Caption & CTA**
+
+Caption: “A look inside the latest edit. Useful objects, thoughtfully selected, ready to find their place.” CTA: “Shop the collection.”
+
+**Production-ready AI prompt / artist brief**
+
+> Shoot an 15–18 second vertical unboxing Reel from a locked overhead camera on a Warm White surface. Show actual package entering, tissue opening, objects appearing one at a time in stop-motion, a hand demonstrating one genuine use, then a precise flat-lay. Keep cuts crisp, tactile and satisfying; capture paper sounds and object placement. Palette in packaging and overlays: Warm White #F4F1E9, Ink #292B2B, Persimmon #D97855. Add Space Grotesk headlines, Inter copy and IBM Plex Mono product codes in post. Use real inventory and verified details; do not create fictional package inserts or features.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Footage / source assets collected or generated
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** In progress
+- **Figma page:** 03 Objects & Elsewhere (1:3)
+- **Figma node link / ID:** 61:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=61-2
+- **Source / editing file location:** Not recorded
+- **Export location:** Not recorded
+- **Revision / issue:** Six-card 9:16 storyboard, 18 seconds, with timecodes, camera movement, overlays and sound notes. Generic concept images are reference stand-ins only. Actual branded package, tissue, current inventory/SKU names, real product-use footage, edit, sound, QA and export remain.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+##### V10 — Product storytelling / premium digital ad
+
+**Deliverable type:** Video · 12–15s Reel  
+**Use case / visual treatment:** 3D object orbit + exploded-view motion graphic
+
+**Composition / storyboard**
+
+9:16, 12–15 seconds. 0–3s: product silhouette resolves from a flat geometric outline. 3–7s: slow 120° orbit around the actual SKU on a clean plinth. 7–10s: two or three parts separate slightly to reveal construction only where product design is known; add labeled callout placeholders. 10–13s: object reassembles and transitions into a use-context scene. 13–15s: product name and CTA. Keep motion precise, no sci-fi effects.
+
+**60 / 30 / 10 palette**
+
+60 Warm White / 30 Ink / 10 Persimmon. Warm White stage; Ink technical lines/labels; Persimmon one moving guide line. Supporting Sand may be used as plinth material.
+
+**Typography & on-art copy**
+
+Space Grotesk title; Inter feature callouts; IBM Plex Mono technical labels. Copy: “Designed for the everyday.” Callouts: “[Verified detail 1]”, “[Verified detail 2]”. CTA: “See the details.”
+
+**Caption & CTA**
+
+Caption: “A closer look at the form and function of [product name]. Visit the product page for full specifications.” CTA: “Explore the product.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a 12–15 second vertical 3D product film for one actual Objects & Elsewhere SKU. Begin as a clean geometric outline, resolve into a realistic model, then perform a slow controlled 120-degree orbit on a warm-white plinth. If internal components are supplied/known, separate two or three elements slightly and label them with editable spec callouts; otherwise show surface/material details only. Reassemble and transition into a simple real-use context. Warm White 60%, Ink 30%, Persimmon 10%. Space Grotesk headline, Inter callouts, IBM Plex Mono specs. Do not invent mechanisms, materials or product functions.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Footage / source assets collected or generated
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** In progress
+- **Figma page:** 03 Objects & Elsewhere (1:3)
+- **Figma node link / ID:** 62:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=62-2
+- **Source / editing file location:** Not recorded
+- **Export location:** Not recorded
+- **Revision / issue:** Five-card 9:16 12–15s product-film storyboard. Generic organizer and workspace images are reference stand-ins. Exploded construction is explicitly conditional on verified SKU geometry; otherwise use surface/material details only. Actual SKU model, verified specs, final 3D animation/render, sound, QA and export remain.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+### BRAND: SAVORÉ Table
+
+**Category:** Food & Beverage · Contemporary Filipino restaurant  
+**Positioning:** A seat at our table.  
+**Palette:** 60% Rice #F2E9D8 · 30% Charcoal #302A26 · 10% Sinigang #B85E46. Calamansi #C5A35B and Chili #813C35 are supporting colors.  
+**Typography:** DM Serif Display (display) · Plus Jakarta Sans (body/menu) · IBM Plex Mono (dish numbers / ingredient notes)  
+**Voice:** Warm, generous, expressive and proudly Filipino. Use sensory food language and familiar hospitality; avoid forced slang or decorative cultural clichés.
+
+#### Designed graphics
+
+##### G01 — Brand awareness / hospitality
+
+**Deliverable type:** Graphic · Restaurant campaign hero  
+**Use case / visual treatment:** Contemporary Filipino editorial — shared-table abundance
+
+**Composition / storyboard**
+
+4:5 portrait. Shoot from a 35° overhead angle across a long communal table: one central hero dish, bowls of rice, small shared plates, hands reaching in from edges. Keep people anonymous or cropped at hands/arms. Headline in upper-left negative space; a fine line pattern inspired by woven table textures can frame one corner, not cover food.
+
+**60 / 30 / 10 palette**
+
+60 Rice / 30 Charcoal / 10 Sinigang. Rice table linen/background; Charcoal typography; Sinigang small stamp or divider. Calamansi natural ingredient accents only.
+
+**Typography & on-art copy**
+
+DM Serif Display headline; Plus Jakarta Sans supporting copy; IBM Plex Mono tiny location/series tag. On-art: “A seat at our table.” Support: “Filipino flavors, made for sharing.”
+
+**Caption & CTA**
+
+Caption: “There’s always room for one more. Come hungry, bring your people, and pass the good dishes around.” CTA: “Join us at the table.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a contemporary Filipino restaurant campaign poster for SAVORÉ Table, portrait 4:5. Warm communal dining table viewed at a 35-degree overhead angle, central appetizing Filipino comfort-food spread, rice bowls and small sharing plates, hands entering naturally from frame edges. Realistic food styling, warm window light, tactile rice-colored linen, ceramic plates, no costumes or tourist clichés. Leave upper-left negative space for a large DM Serif Display headline. Palette Rice #F2E9D8 60%, Charcoal #302A26 30%, Sinigang #B85E46 10%. Subtle woven-inspired line motif used only as a border detail. Keep exact text blank for manual typesetting; food is the hero.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** In progress — hero image generated; editable layout not yet built
+- **Figma page:** 04 SAVORÉ Table (1:4)
+- **Figma frame:** Not yet built
+- **Figma node link / ID:** Generated hero image 63:2 (on page 04; not yet filed as a separate reusable asset)
+- **Export / asset location:** Not recorded
+- **Revision / issue:** Generated a 4:5 communal Filipino shared-table hero image using a 35° overhead composition, rice-colored linen, central generic savory dish, shared plates and hands entering from frame edges. No dish name, menu claim, price or logo was added. Next: place image in an editable poster frame, typeset approved headline “A seat at our table.” and support “Filipino flavors, made for sharing.” in DM Serif Display / Plus Jakarta Sans / IBM Plex Mono, then visually QA.
+- **Last updated by / date:** ChatGPT / 2026-11-19 (Asia/Manila)
+
+##### G02 — Menu highlight / consideration
+
+**Deliverable type:** Graphic · Signature dish feature post  
+**Use case / visual treatment:** Dramatic close-up food portrait — rich and sensory
+
+**Composition / storyboard**
+
+4:5. Feature a signature slow-braised adobo concept in a shallow handmade bowl. Camera at low 25° close angle to show glossy sauce, texture and steam, with rice softly blurred in background. Place dish name in upper third on a clean Rice panel; bottom rail holds brief description and a confirmed price placeholder. Avoid props that obscure the food.
+
+**60 / 30 / 10 palette**
+
+60 Rice / 30 Charcoal / 10 Sinigang. Rice copy strip, Charcoal typography, Sinigang tiny dish-number tab. Actual food supplies natural warm tones.
+
+**Typography & on-art copy**
+
+DM Serif Display for dish name; Plus Jakarta Sans for description/price; IBM Plex Mono for “01 / HOUSE FAVORITE”. On-art: “Slow-braised adobo.” Description: “[Insert final menu description].” Price: “[Verified price].”
+
+**Caption & CTA**
+
+Caption: “Deeply savory, slow-braised, and made to be enjoyed with a generous scoop of rice. Meet one of our house favorites.” CTA: “Order at the table.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a premium food portrait for a contemporary Filipino restaurant, vertical 4:5. One shallow handmade ceramic bowl of slow-braised adobo concept, glossy but realistic sauce, visible tender texture, soft natural steam, rice softly out of focus in the background. Camera low 25-degree close angle with shallow depth of field, warm directional light and natural surface detail. Leave an uncluttered Rice-colored strip in upper third for exact dish name and bottom info rail for verified description and price. Palette Rice #F2E9D8, Charcoal #302A26, Sinigang #B85E46. Sensory, editorial, contemporary Filipino dining, no fake lettering or invented prices.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G03 — Menu education / ingredient storytelling
+
+**Deliverable type:** Graphic · 5-slide dish-story carousel  
+**Use case / visual treatment:** Ingredient-to-plate editorial sequence
+
+**Composition / storyboard**
+
+Slides: 1 finished dish hero with title “The story behind the plate”; 2 key local ingredient macro; 3 cooking process/detail (sauce simmering, aromatics, or braise); 4 final plating detail; 5 dish on a shared table with CTA. Use only true ingredients and actual preparation steps approved by the kitchen. Repeat a thin side label with slide number and dish name.
+
+**60 / 30 / 10 palette**
+
+60 Rice / 30 Charcoal / 10 Sinigang. Rice is the editorial canvas; Charcoal type; Sinigang numbering and key ingredient marker. Calamansi or golden tones can appear in ingredient photography.
+
+**Typography & on-art copy**
+
+DM Serif Display cover; Plus Jakarta Sans explanatory copy; IBM Plex Mono step numbers. Copy: “The story behind the plate” / “Good ingredients” / “Time and care” / “Made to be shared.”
+
+**Caption & CTA**
+
+Caption: “Every dish has a little story before it reaches the table. Here’s a glimpse of the ingredients and care behind [dish].” CTA: “Save this for your next visit.”
+
+**Production-ready AI prompt / artist brief**
+
+> Build a five-slide food-story carousel. Sequence: finished dish at 35-degree angle; macro of one real key ingredient; authentic kitchen preparation close-up; chef plating detail; completed dish within a shared table scene. Keep color grade warm and appetizing, surfaces tactile, and camera distance varied. Use only verified ingredient and preparation references supplied by the restaurant; no fabricated kitchen technique. Rice #F2E9D8 60%, Charcoal #302A26 30%, Sinigang #B85E46 10%. Consistent DM Serif headline, Plus Jakarta Sans copy and IBM Plex Mono slide numbering. Leave each slide with a clear text-safe zone.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G04 — Menu innovation / seasonal launch
+
+**Deliverable type:** Graphic · New-arrival dish launch  
+**Use case / visual treatment:** Market-fresh ingredient spotlight — bright editorial
+
+**Composition / storyboard**
+
+4:5 feed post plus story crop. Concept dish: calamansi-glazed grilled chicken, subject to kitchen approval. Photograph from 30° above, plate positioned lower-left with ingredient details (calamansi halves, herbs) as supporting elements. Add a bold Sinigang-colored vertical label “NEW ON THE TABLE” and a small ingredient note. Keep the name, availability dates and price editable.
+
+**60 / 30 / 10 palette**
+
+60 Rice / 30 Charcoal / 10 Sinigang. Rice background, Charcoal type, Sinigang launch strip. Calamansi appears through real fruit, not as a new graphic block.
+
+**Typography & on-art copy**
+
+DM Serif Display for dish name; Plus Jakarta Sans for descriptor; IBM Plex Mono for “SEASONAL / 02”. Copy: “A fresh take for the table.” / “[Calamansi-glazed grilled chicken]” / “Available [dates].” CTA: “Try the new plate.”
+
+**Caption & CTA**
+
+Caption: “Something new is joining the table. Meet [dish name], available for a limited time while the seasonal menu lasts.” CTA: “Come try it.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a contemporary restaurant new-dish launch visual, 4:5 portrait. A plated calamansi-glazed grilled chicken concept photographed from 30 degrees above, plate low-left, glossy grilled surface and char details realistic, fresh calamansi halves and herbs as restrained props. Rice-colored negative space on upper right for product copy; a vertical Sinigang-red launch strip. Palette Rice #F2E9D8 60%, Charcoal #302A26 30%, Sinigang #B85E46 10%. DM Serif Display title, Plus Jakarta Sans descriptor, IBM Plex Mono micro label. Keep exact dish name, availability and price editable; confirm concept with kitchen before publishing.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G05 — Lunch traffic / direct response
+
+**Deliverable type:** Graphic · Always-on lunch ad  
+**Use case / visual treatment:** Offer-led menu board — bold and legible
+
+**Composition / storyboard**
+
+4:5 paid-social static. Use a clean two-column layout: left is a close crop of a meal set (main dish, rice, drink) viewed slightly overhead; right is a large Rice panel with lunch offer name, serving window, confirmed price and CTA. One strong Sinigang action button. Use a narrow Charcoal header bar “LUNCH AT SAVORÉ”. Do not invent inclusions or price.
+
+**60 / 30 / 10 palette**
+
+60 Rice / 30 Charcoal / 10 Sinigang. Rice panel dominates; Charcoal header/type; Sinigang CTA and price marker. Photo is naturally warm.
+
+**Typography & on-art copy**
+
+DM Serif Display for “Lunch, settled.”; Plus Jakarta Sans bold offer details; IBM Plex Mono for hours. Copy: “A good lunch is waiting.” / “[Meal set name]” / “[Serving hours] · [Verified price]” / “View the menu.”
+
+**Caption & CTA**
+
+Caption: “Make lunch the best part of the day. Check today's meal sets, serving hours, and availability.” CTA: “Visit or order now.”
+
+**Production-ready AI prompt / artist brief**
+
+> Design a direct-response 4:5 lunch ad for SAVORÉ Table. Left column features an appetizing meal set with main dish, rice and drink in a slightly overhead 35-degree food shot; right column is a clean Rice-colored menu board with clear offer name, time and confirmed price fields. Add a slim Charcoal header and one Sinigang CTA. Palette Rice #F2E9D8 60%, Charcoal #302A26 30%, Sinigang #B85E46 10%. High legibility at mobile size, strong DM Serif headline and Plus Jakarta Sans offer details. Do not make up menu inclusions, serving times, prices or delivery terms.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G06 — Engagement / food preference
+
+**Deliverable type:** Graphic · 4-frame interactive story  
+**Use case / visual treatment:** Playful table-talk poll — conversational
+
+**Composition / storyboard**
+
+9:16. Frame 1: full-bleed close-up shared dish with headline “Settle this at the table”. Frame 2: split-screen two condiment/sides choices with poll-sticker space. Frame 3: short question on Rice background “What dish should we bring back?” with native question sticker space. Frame 4: communal table crop, “We’re listening.” Keep interaction elements native and clear of story UI.
+
+**60 / 30 / 10 palette**
+
+60 Rice / 30 Charcoal / 10 Sinigang. Food images keep natural colors; overlays Rice, Charcoal, small Sinigang sticker labels.
+
+**Typography & on-art copy**
+
+DM Serif Display for frame headline; Plus Jakarta Sans for poll options; IBM Plex Mono for “TABLE TALK 01”. Copy: “Settle this at the table” / “[Choice A] or [Choice B]?” / “What dish should we bring back?”
+
+**Caption & CTA**
+
+Story caption: “Every table has an opinion. Vote, tell us your pick, and help shape our next Table Talk.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create four 9:16 Instagram Story frames for a contemporary Filipino restaurant. Frame 1 is a full-bleed appetizing food close-up with a clean headline zone. Frame 2 is a balanced split-screen comparison of two actual menu sides/condiments with empty native poll sticker space. Frame 3 has a calm Rice #F2E9D8 background and clear question-sticker zone. Frame 4 shows a warm communal meal and short thank-you. Use Charcoal #302A26 and Sinigang #B85E46 as type and accents. DM Serif Display, Plus Jakarta Sans, IBM Plex Mono. Keep native interaction space blank, don't fabricate UI.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G07 — Group bookings / catering inquiry
+
+**Deliverable type:** Graphic · Group dining / handaan carousel  
+**Use case / visual treatment:** Generous banquet editorial — occasion-led
+
+**Composition / storyboard**
+
+4 slides. S1: long table with shared dishes, headline “Make room for the whole crew”. S2: overhead spread showing range/variety; S3: hands passing plates, human warmth; S4: clear booking/catering inquiry panel with group-size, date and contact placeholders. Show a realistic group meal, not a luxury wedding setup. Confirm packages and booking terms before posting.
+
+**60 / 30 / 10 palette**
+
+60 Rice / 30 Charcoal / 10 Sinigang. Rice as background/linen; Charcoal text; Sinigang booking CTA. Use Chili as a subtle photo prop only.
+
+**Typography & on-art copy**
+
+DM Serif Display headline; Plus Jakarta Sans logistics; IBM Plex Mono for capacity/date fields. Copy: “Good food is better shared.” / “Group dining & handaan inquiries” / “Tell us your date and group size.” CTA: “Ask about a table.”
+
+**Caption & CTA**
+
+Caption: “Planning a family meal, barkada get-together, or small celebration? Send us your date and group size and we'll help you plan the table.” CTA: “Message for group dining details.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a four-slide group dining campaign for SAVORÉ Table. Show a generous shared Filipino meal on a long table, overhead spread, close hands passing plates, and a clean final inquiry panel. Mood should be warm, communal and contemporary, not formal banquet or tourist-themed. Use real dish placeholders and believable portions. Palette Rice 60%, Charcoal 30%, Sinigang 10%; DM Serif Display, Plus Jakarta Sans, IBM Plex Mono. Final slide has editable booking fields for date, group size, package inclusions and contact channel. Do not invent prices, capacity, package terms or availability.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G08 — Utility / reduce purchase friction
+
+**Deliverable type:** Graphic · Takeaway / how-to-order guide  
+**Use case / visual treatment:** Functional info graphic — clear and friendly
+
+**Composition / storyboard**
+
+4-slide carousel or 4:5 one-page guide. S1 “Bring the table home”; S2 order steps 01 choose dishes / 02 contact or use approved platform / 03 confirm pickup/delivery; S3 packaging close-up with “packed for the trip”; S4 contact, service area, pickup hours and link placeholders. Use small line icons and a clear step flow. Confirm channels and service zones before publishing.
+
+**60 / 30 / 10 palette**
+
+60 Rice / 30 Charcoal / 10 Sinigang. Rice canvas; Charcoal typography/icons; Sinigang numbered steps/CTA. Avoid extra accent colors.
+
+**Typography & on-art copy**
+
+DM Serif Display for title; Plus Jakarta Sans for instructions; IBM Plex Mono for numbering/contact labels. Copy: “Bring the table home.” Steps use concise verbs; contact details are placeholders.
+
+**Caption & CTA**
+
+Caption: “Craving your favorites at home? Here’s how to place a takeaway or delivery order. Check current service areas and hours before ordering.” CTA: “Order through our approved channel.”
+
+**Production-ready AI prompt / artist brief**
+
+> Design a four-panel takeaway ordering guide for a Filipino restaurant. Panel 1 uses a simple food-and-takeaway package still life; panel 2 is a clean three-step vertical flow; panel 3 shows real packaging close-up; panel 4 is a strong contact and service-area information panel. Friendly line icons, readable type, no dense paragraphs. Rice #F2E9D8 60%, Charcoal #302A26 30%, Sinigang #B85E46 10%. DM Serif Display title, Plus Jakarta Sans body, IBM Plex Mono step numbers. Keep actual ordering channel, delivery area, hours and contact details as editable placeholders; never invent them.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+#### Short-form videos
+
+##### V09 — Appetite / kitchen craft
+
+**Deliverable type:** Video · 18–22s Reel  
+**Use case / visual treatment:** Real-footage food film — close, energetic, sensory
+
+**Composition / storyboard**
+
+9:16, 18–22 seconds. 0–2s: sizzling pan macro, audio hook. 2–5s: sauce poured or stirred, overhead close-up. 5–8s: chef plates the dish, 45° angle. 8–12s: rice served, low angle at table. 12–17s: hero dish lands among shared plates; slow half-orbit or push-in. 17–22s: hands begin sharing, end-card CTA. Capture sound of sizzle, chop, plate set-down; use restrained rhythmic music.
+
+**60 / 30 / 10 palette**
+
+60 Rice / 30 Charcoal / 10 Sinigang in subtitles/end frame. Keep footage warm and real; Sinigang appears as one CTA stripe.
+
+**Typography & on-art copy**
+
+Plus Jakarta Sans subtitles; DM Serif Display end phrase; IBM Plex Mono small dish tag. Overlay: “From the kitchen” → “[Dish name]” → “A seat at our table.”
+
+**Caption & CTA**
+
+Caption: “A little sound, a little steam, and a plate worth gathering around. Come share [dish name] with us.” CTA: “Join us at SAVORÉ.”
+
+**Production-ready AI prompt / artist brief**
+
+> Shoot an 18–22 second vertical restaurant Reel with real kitchen footage. Start with a tight sizzling-pan macro and original sound, cut to sauce movement from overhead, chef plating at a 45-degree angle, rice being served low at table height, then a slow hero push-in as the dish joins shared plates. Finish with hands reaching in naturally. Use warm, truthful food color, 50/60fps for sauce and steam inserts, 24/30fps for the main action. Add minimal Plus Jakarta Sans subtitles and a DM Serif Display end card in Rice/Charcoal/Sinigang palette. Only show real preparation and actual menu items.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Footage / source assets collected or generated
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page / frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Source / editing file location:** Not recorded
+- **Export location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### V10 — Menu update / campaign announcement
+
+**Deliverable type:** Video · 12–15s Reel  
+**Use case / visual treatment:** Kinetic menu typography + ingredient motion graphics
+
+**Composition / storyboard**
+
+9:16, 12–15 seconds. 0–2s: Rice background, large “Something new at the table” enters with a clean type slide. 2–5s: ingredient cutouts or real ingredient macro clips pop into a circular plate composition. 5–8s: dish photo reveals through a mask/plate wipe. 8–11s: 2–3 key menu details animate as simple labels. 11–15s: availability/date placeholder and CTA. Use snappy transitions with a human warmth, not flashy food-tech effects.
+
+**60 / 30 / 10 palette**
+
+60 Rice / 30 Charcoal / 10 Sinigang. Rice main canvas, Charcoal typography, Sinigang for reveal wipe and CTA. Calamansi can be in ingredient cutouts.
+
+**Typography & on-art copy**
+
+DM Serif Display for reveal headline; Plus Jakarta Sans for item details; IBM Plex Mono for date and menu markers. Motion copy: “Something new at the table” / “[Dish name]” / “Available [date].” / “Come try it.”
+
+**Caption & CTA**
+
+Caption: “A new plate is joining the menu. Here’s your first look; ask the team for current availability.” CTA: “Visit us this week.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a 12–15 second vertical motion-graphic restaurant announcement. Begin on a Rice #F2E9D8 field with bold editorial type, animate real ingredient cutouts or macro ingredient clips into a plate-like circular arrangement, reveal a real dish photograph with a circular wipe, then display two or three editable ingredient/menu labels and a final availability card. Charcoal #302A26 typography, Sinigang #B85E46 reveal accent. DM Serif Display, Plus Jakarta Sans and IBM Plex Mono. Keep motion crisp and warm; don't invent ingredients, prices or date. Use a real approved dish image for the reveal.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Footage / source assets collected or generated
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page / frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Source / editing file location:** Not recorded
+- **Export location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+### BRAND: OLFACT
+
+**Category:** Beauty & Retail · Online perfume store  
+**Positioning:** A scent of your own.  
+**Palette:** 60% Porcelain #F0EBE3 · 30% Obsidian #211F20 · 10% Oxblood #632D35. Champagne #C9B99C and Mushroom #82766A are supporting colors.  
+**Typography:** Bodoni Moda (display/wordmark) · Manrope (body/e-commerce) · Cormorant Garamond Italic (editorial scent names)  
+**Voice:** Sensory, evocative, sophisticated and knowledgeable. Translate fragrance notes into clear human language; mysterious but never vague.
+
+#### Designed graphics
+
+##### G01 — Brand awareness / positioning
+
+**Deliverable type:** Graphic · Brand campaign hero  
+**Use case / visual treatment:** Dark editorial perfume still life — atmospheric luxury
+
+**Composition / storyboard**
+
+4:5 portrait. One glass perfume bottle on a dark stone plinth, photographed at eye level with a slight 10° low angle. Narrow shaft of light crosses the bottle; long shadow extends toward lower edge. Keep upper-left quadrant dark and uncluttered for large headline. A very subtle translucent scent ribbon can travel behind the bottle, never crossing label.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Obsidian / 10 Oxblood. For this composition, use Porcelain as the pale copy/negative-space field across the upper area or label card, Obsidian as dominant photographic dark field, and Oxblood as one fine accent line. The brand's 60/30/10 system remains the graphic balance, not literal scene coverage.
+
+**Typography & on-art copy**
+
+Bodoni Moda large serif; Manrope supporting copy; Cormorant Garamond Italic for one scent phrase. On-art: “A scent of your own.” Support: “Discover fragrances that feel personal.” Small OLFACT wordmark area.
+
+**Caption & CTA**
+
+Caption: “Fragrance is personal. Explore scents by notes, mood, and the impression you want to leave.” CTA: “Find your scent.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a dark editorial fragrance campaign poster for OLFACT, portrait 4:5. One elegant glass perfume bottle on a dark stone plinth, eye-level camera with subtle low angle, narrow dramatic sidelight, controlled glass reflections, long shadow and a faint translucent scent-ribbon shape behind the bottle that does not obscure the label. Keep upper-left area clean for refined serif headline. Balance Porcelain #F0EBE3, Obsidian #211F20 and Oxblood #632D35; use Champagne/Mushroom only as supporting material tones. Niche perfumery, cinematic still life, tactile realism, no ornate clichés. Leave text blank for manual Bodoni Moda / Manrope typesetting; no gibberish labels or fake brand marks.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G02 — Education / product discovery
+
+**Deliverable type:** Graphic · 5-slide fragrance-family carousel  
+**Use case / visual treatment:** Scent taxonomy — editorial swatches and ingredient still lifes
+
+**Composition / storyboard**
+
+Slides: 1 cover “Find your fragrance family”; 2 Fresh (citrus, aquatic impression), 3 Floral (petal/green textures), 4 Woody (wood/resin textures), 5 Amber & gourmand (warm spice/vanilla impression) plus “Explore by notes”. Use one clear image and three descriptive note words per family; this is an overview, not an assertion about specific products. Keep a repeatable swatch/taxonomy grid.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Obsidian / 10 Oxblood. Porcelain background; Obsidian headings/body; Oxblood category marker or thin progress line. Ingredient images provide natural colors without creating extra graphic blocks.
+
+**Typography & on-art copy**
+
+Bodoni Moda cover/title; Manrope explanatory notes; Cormorant Italic for evocative descriptors. Copy: “Find your fragrance family” / “Fresh — bright, airy, crisp” / “Floral — soft, petal-led, expressive” / “Woody — dry, warm, grounded” / “Amber & gourmand — rich, smooth, enveloping.”
+
+**Caption & CTA**
+
+Caption: “Not sure where to start? Explore fragrance families and the notes often associated with each. Individual perfumes can blend more than one family.” CTA: “Save this scent guide.”
+
+**Production-ready AI prompt / artist brief**
+
+> Design a five-slide educational fragrance carousel with consistent editorial taxonomy. Slide 1 is a typographic cover; slides 2–5 each feature one fragrance family through a refined still-life image: citrus peel and clear glass for Fresh, botanical petals for Floral, textured wood/resin for Woody, warm vanilla/spice/amber-colored glass for Amber & gourmand. Use no specific trademarked bottles. One strong family title, three concise descriptors and a small category number per slide. Porcelain #F0EBE3 60%, Obsidian #211F20 30%, Oxblood #632D35 10%. Bodoni Moda, Manrope and Cormorant Italic. Clear, educational, not overly mystical.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G03 — Product storytelling / merchandising
+
+**Deliverable type:** Graphic · Fictional scent spotlight  
+**Use case / visual treatment:** Single-fragrance editorial — atmospheric product portrait
+
+**Composition / storyboard**
+
+4:5. Concept example “No. 04 / After Hours” (fictional scent direction). Bottle centered lower-right on a black lacquer surface; camera at bottle-label height, 85mm compressed perspective. Background has blurred amber practical light and a soft shadow. Left text column lists a fictional note pyramid only as a design placeholder: top [bergamot], heart [iris], base [cedar/amber] — replace with actual fragrance data. Distinct mood: evening, polished, intimate.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Obsidian / 10 Oxblood. Porcelain note card or text panel, Obsidian photographic base, Oxblood small number marker. Champagne reflections are supporting only.
+
+**Typography & on-art copy**
+
+Bodoni Moda for “After Hours”; Manrope for product details; Cormorant Italic for one evocative line. Copy: “No. 04 — After Hours.” / “A quiet, warm trail.” / Notes: “[Verified top / heart / base notes].” CTA: “Explore the scent.”
+
+**Caption & CTA**
+
+Caption: “Meet [fragrance name], described through its notes, character, and lasting impression. Check the full scent profile before choosing.” CTA: “View the fragrance.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a niche perfume product spotlight using a fictional concept bottle and scent name “No. 04 / After Hours” as placeholder direction only. 4:5 portrait, bottle centered lower-right on black lacquer, camera at label height, 85mm editorial compression, blurred amber practical light in background and elegant reflections. Keep a clean left column for name, scent description and verified note pyramid. Palette Porcelain #F0EBE3 60%, Obsidian #211F20 30%, Oxblood #632D35 10%. Bodoni Moda display, Manrope specs, Cormorant italic accent. Make bottle label blank and all note text editable; do not imply this is a real stocked product.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G04 — Conversion / sampling
+
+**Deliverable type:** Graphic · Discovery-set launch carousel  
+**Use case / visual treatment:** Specimen archive meets luxury unboxing
+
+**Composition / storyboard**
+
+4 slides. S1 closed discovery-set box with paper seal, top-down. S2 open box with sample vials aligned like a specimen tray. S3 one vial and scent card macro with handwritten note field. S4 set contents, sample quantity and CTA. Layout feels like a carefully catalogued scent archive, but still inviting. Exact vials, contents, ml and price need confirmation.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Obsidian / 10 Oxblood. Porcelain tray/card; Obsidian text and box; Oxblood seal or one vial number accent. Champagne can be used as a subtle paper foil tone if physically achievable.
+
+**Typography & on-art copy**
+
+Bodoni Moda for “Meet your next favorite”; Manrope for set contents; Cormorant Italic for scent names; small technical labels. Copy: “The discovery set.” / “A few scents. A little more to explore.” / “[Number] samples · [ml] each.”
+
+**Caption & CTA**
+
+Caption: “A lower-commitment way to explore your next fragrance. Check the set contents and sample sizes before ordering.” CTA: “Shop discovery sets.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a four-slide luxury fragrance discovery-kit launch carousel. Slide 1: closed dark box with pale paper seal, overhead. Slide 2: open box with sample vials aligned in a precise specimen-tray layout. Slide 3: macro of a single vial beside a scent card. Slide 4: complete set with clear empty fields for confirmed sample count, volume and price. Use Porcelain #F0EBE3 60%, Obsidian #211F20 30%, Oxblood #632D35 10%. Editorial archive aesthetic, real glass detail, no fabricated sample quantities or fake fragrance labels. Bodoni Moda and Manrope hierarchy, Cormorant Italic scent names.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G05 — Conversion / quiz traffic
+
+**Deliverable type:** Graphic · Always-on “find your scent” ad  
+**Use case / visual treatment:** Minimal choice-led ad — clean and persuasive
+
+**Composition / storyboard**
+
+4:5. Two contrasting fragrance moods presented as paired still lifes: left bright glass/citrus on Porcelain; right dark wood/amber glass on Obsidian. At center, a simple choice question. Bottom third holds one obvious CTA to the scent finder. Don't claim a quiz diagnosis; it is a discovery tool. Maintain high contrast and large mobile text.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Obsidian / 10 Oxblood. Porcelain is the main ad canvas; Obsidian is the secondary image block/text; Oxblood CTA accent. No extra accent colors.
+
+**Typography & on-art copy**
+
+Bodoni Moda for question; Manrope bold for options and CTA; Cormorant Italic for descriptors. Copy: “What mood do you want to leave behind?” Options: “Bright & fresh” / “Warm & grounded”. CTA: “Find your scent.”
+
+**Caption & CTA**
+
+Caption: “Start with the mood, then explore the notes. Our fragrance finder helps narrow down where to begin.” CTA: “Take the scent finder.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a high-clarity 4:5 paid social ad for an online fragrance discovery store. Split the composition into two visual moods: bright transparent glass and citrus on Porcelain at left; dark wood and amber glass on Obsidian at right. Add one central question zone and a clear bottom CTA zone. Palette Porcelain #F0EBE3 60%, Obsidian #211F20 30%, Oxblood #632D35 10%. Bodoni Moda headline, Manrope choices and CTA, Cormorant Italic accent. Leave button and exact quiz link as editable fields; no fake interactive UI, no claims that a quiz can scientifically determine a perfect scent.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G06 — Engagement / preference capture
+
+**Deliverable type:** Graphic · 4-frame interactive scent quiz story  
+**Use case / visual treatment:** Atmospheric question cards — sensory and personal
+
+**Composition / storyboard**
+
+9:16. Frame 1: “Choose the atmosphere” over soft abstract light/shadow. Frame 2: poll “Fresh morning / Late-night warmth”. Frame 3: poll “Soft florals / Dry woods”. Frame 4: prompt “Tell us one scent you love” with native question sticker and an end link area. Keep sticker zones empty and safe; do not suggest one answer equals a definitive recommendation.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Obsidian / 10 Oxblood. Alternate pale Porcelain and dark Obsidian frames; Oxblood on progress markers. Keep contrast high for small phone screens.
+
+**Typography & on-art copy**
+
+Bodoni Moda short headers, Manrope options, Cormorant Italic mood descriptors. Copy: “Choose the atmosphere” / “Fresh morning or late-night warmth?” / “Soft florals or dry woods?” / “What scent do you already love?”
+
+**Caption & CTA**
+
+Story caption: “A little scent instinct check. Vote through the frames and explore a fragrance family that catches your interest.” CTA: use native polls/question sticker.
+
+**Production-ready AI prompt / artist brief**
+
+> Create four 9:16 fragrance quiz Story frames with alternating pale/dark editorial moods. Frame 1: atmospheric shadow and title; frame 2: two balanced options with empty poll zone; frame 3: botanical versus wood-texture split with empty poll zone; frame 4: calm question prompt and blank native sticker area. Palette Porcelain 60%, Obsidian 30%, Oxblood 10%, respecting overall visual balance. Bodoni Moda headings, Manrope options, Cormorant Italic descriptors. All sticker areas must be blank and above interface safe zones; do not render fake polls or claims of personalized science.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G07 — Gifting / seasonal sales
+
+**Deliverable type:** Graphic · Gift edit carousel  
+**Use case / visual treatment:** Luxury gift editorial — refined and tactile
+
+**Composition / storyboard**
+
+4 slides. S1 bottle + box + ribbon still life, title “A thoughtful thing to give”. S2 “For the curious” — discovery kit; S3 “For the signature-scent person” — full bottle; S4 gift wrap/recipient note with CTA. Use actual available product images and real gift services only. Include editable price and cutoff date, no invented delivery promise.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Obsidian / 10 Oxblood. Porcelain paper/negative space, Obsidian copy and packaging, Oxblood ribbon/seal. Champagne material can appear in photograph but remain subtle.
+
+**Typography & on-art copy**
+
+Bodoni Moda main headline; Manrope descriptions; Cormorant Italic product names. Copy: “A thoughtful thing to give.” / “For the curious” / “For the signature-scent person” / “Explore the gift edit.”
+
+**Caption & CTA**
+Caption: “A considered guide to fragrance gifting, from first discovery to a signature bottle. Check availability and delivery cutoffs before ordering.” CTA: “Browse fragrance gifts.”
+
+**Production-ready AI prompt / artist brief**
+
+> Design a four-slide editorial fragrance gift-guide carousel. Use sophisticated still-life photography of actual available perfume bottles, discovery kits, boxes and gift tissue. Slide 1 is a refined bottle-and-box composition; slide 2 discovery set; slide 3 full-size fragrance; slide 4 gift note and packaging. Avoid holiday clichés and excessive gold. Palette Porcelain #F0EBE3 60%, Obsidian #211F20 30%, Oxblood #632D35 10%. Bodoni Moda display, Manrope support, Cormorant Italic product names. Leave product SKUs, price, wrapping availability and delivery cutoff editable and accurate.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G08 — Social proof / sensory storytelling
+
+**Deliverable type:** Graphic · Scent diary review template  
+**Use case / visual treatment:** Editorial quote + note-card aesthetic
+
+**Composition / storyboard**
+
+4:5. Photograph one real product in a setting associated with the approved review (e.g. bedside table, dressing table, coat pocket), slightly defocused. Place a Porcelain note-card panel at center with approved quote and a small “Scent diary” label. Add note pyramid only if confirmed from product data. Attribution must be consented; no fabricated review.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Obsidian / 10 Oxblood. Porcelain quote card; Obsidian background/type; Oxblood small diary number or rule line.
+
+**Typography & on-art copy**
+
+Bodoni Moda for a short approved quote; Manrope attribution; Cormorant Italic scent expression. Copy field: “[Genuine customer quote]”. Attribution: “[Approved first name/initial]”. Label: “SCENT DIARY 01”.
+
+**Caption & CTA**
+
+Caption: “A fragrance is experienced differently by everyone. Here’s one customer’s note, shared with permission.” CTA: “Read the scent profile.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a reusable fragrance testimonial graphic in 4:5. Use a real, supplied perfume bottle and a softly atmospheric setting such as a dressing table or bedside surface. Place an elegant Porcelain note-card panel centrally with generous padding for a genuine approved customer quote, consented attribution and small “Scent Diary” identifier. Palette Porcelain #F0EBE3 60%, Obsidian #211F20 30%, Oxblood #632D35 10%. Bodoni Moda quote, Manrope attribution, Cormorant Italic scent note. Do not generate fake testimonials, ratings, customer identities or unverified note pyramids.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+#### Short-form videos
+
+##### V09 — Hero product launch / premium impact
+
+**Deliverable type:** Video · 12–15s Reel  
+**Use case / visual treatment:** 3D bottle animation — reflective glass and scent-note motion
+
+**Composition / storyboard**
+
+9:16, 12–15 seconds. 0–3s: bottle silhouette emerges from near-black; thin edge light reveals glass. 3–6s: slow 180° orbit; controlled specular highlights. 6–9s: note-inspired materials (citrus peel, petals, cedar shavings) float past in macro, only if they match the verified notes. 9–12s: front label reveal and note pyramid callouts. 12–15s: end card with product name and shop CTA. Use elegant easing, no explosive particles.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Obsidian / 10 Oxblood in cards and typography. Scene primarily dark for atmosphere; Porcelain is the text/label field; Oxblood a single accent line.
+
+**Typography & on-art copy**
+
+Bodoni Moda hero name, Manrope supporting details, Cormorant Italic scent phrase. Overlay: “[Fragrance name]” / “Top [verified note] · Heart [verified note] · Base [verified note]” / “Explore the scent.”
+
+**Caption & CTA**
+
+Caption: “A closer look at [fragrance name], from its bottle to its note profile. Discover the full details in the store.” CTA: “Shop fragrance.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a 12–15 second vertical 3D niche-perfume product film. Start near-black with a fine rim light revealing a realistic glass bottle, perform a slow 180-degree orbit with carefully controlled reflections, then pass macro ingredient materials through frame only when they correspond to the verified fragrance notes. End front-facing with a blank label area and elegant note callouts. No magical smoke overload, no floating glitter, no fake formula claims. Use Obsidian #211F20, Porcelain #F0EBE3 and a restrained Oxblood #632D35 accent. Bodoni Moda and Manrope titles; Cormorant Italic for one evocative phrase. Typeset text in post.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Footage / source assets collected or generated
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page / frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Source / editing file location:** Not recorded
+- **Export location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### V10 — Discovery set / unboxing conversion
+
+**Deliverable type:** Video · 20–25s Reel  
+**Use case / visual treatment:** Real-footage sensory unboxing — hands, paper, glass
+
+**Composition / storyboard**
+
+9:16, 20–25 seconds. 0–2s: sealed box placed on dark/pale split surface. 2–6s: ribbon/seal removed; tissue opened with crisp paper sound. 6–11s: sample vials lifted one at a time, each held close to lens. 11–16s: blotter card sprayed; hand gently wafts card, no face required. 16–21s: arrange vials in a clean row; quick focus pulls across labels. 21–25s: set overview and CTA. Keep sample amount and contents accurate.
+
+**60 / 30 / 10 palette**
+
+60 Porcelain / 30 Obsidian / 10 Oxblood in packaging and end card. Keep glass reflections natural; Oxblood seal is the only strong accent.
+
+**Typography & on-art copy**
+
+Manrope subtitles, Bodoni Moda end-card title, Cormorant Italic scent mood words. Overlays: “Open the discovery set” / “Explore a few different notes” / “Find a scent of your own.”
+
+**Caption & CTA**
+
+Caption: “Meet your next scent slowly. Our discovery set lets you explore the fragrances included before choosing a full bottle.” CTA: “Shop the discovery set.”
+
+**Production-ready AI prompt / artist brief**
+
+> Shoot a 20–25 second vertical unboxing Reel with macro product footage and authentic sound. Begin with the actual sealed discovery box on a clean dark/pale split surface, remove the seal, open tissue, lift real sample vials close to lens, spray a blotter card, waft gently and arrange the complete set in a clean row with focus pulls across labels. Capture paper and cap sounds. Use calm pacing, shallow depth of field and accurate packaging. Palette Porcelain/Obsidian/Oxblood. Add Manrope subtitles and Bodoni Moda end card. Do not invent sample quantity, volume, included fragrances or spray count.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Footage / source assets collected or generated
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page / frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Source / editing file location:** Not recorded
+- **Export location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+### BRAND: FORMA
+
+**Category:** Fashion · Contemporary everyday footwear  
+**Positioning:** Made for the in-between.  
+**Palette:** 60% Chalk #F1EEE7 · 30% Black #222323 · 10% Clay #B66F51. Concrete #B9B7B0 and Graphite #505254 are supporting colors.  
+**Typography:** Archivo Black (display/wordmark) · Inter (body/product details) · Space Mono (sizes, codes, technical labels)  
+**Voice:** Confident, concise, functional and contemporary. Talk about design and real use; avoid unsupported comfort, durability or performance claims.
+
+#### Designed graphics
+
+##### G01 — Brand awareness / positioning
+
+**Deliverable type:** Graphic · Brand manifesto campaign  
+**Use case / visual treatment:** Architectural lifestyle editorial — movement in the city
+
+**Composition / storyboard**
+
+4:5 portrait. Model in understated everyday outfit walking through a modern concrete passage; crop from mid-thigh down so the shoes are hero. Shoot low at ankle height with directional hard light and long shadow. Place headline in open upper-left architecture. Add a small vertical model-code label at edge.
+
+**60 / 30 / 10 palette**
+
+60 Chalk / 30 Black / 10 Clay. Chalk architecture/negative space; Black type; Clay as one narrow motion line or code block. Concrete/Graphite are supporting scene tones.
+
+**Typography & on-art copy**
+
+Archivo Black uppercase headline; Inter supporting line; Space Mono tiny collection tag. On-art: “Made for the in-between.” Support: “Everyday footwear. Thoughtfully formed.”
+
+**Caption & CTA**
+
+Caption: “From the first stop to the last plan, make room for shoes that move through the everyday with you.” CTA: “Explore FORMA.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a contemporary footwear brand manifesto visual, portrait 4:5. Crop an urban model from mid-thigh down, captured mid-stride through modern concrete architecture. Camera low at ankle height, directional hard daylight, long architectural shadow, shoe silhouette clearly visible and true to supplied product. Leave clean upper-left architecture for headline. Palette Chalk #F1EEE7 60%, Black #222323 30%, Clay #B66F51 10%. Bold Archivo Black-inspired uppercase headline zone, Inter support, Space Mono model-code area. Minimal urban utility mood, no sports-performance clichés, no changed shoe details, no generated logo.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G02 — Product launch / collection drop
+
+**Deliverable type:** Graphic · New silhouette launch  
+**Use case / visual treatment:** Clean studio product hero — form and proportion
+
+**Composition / storyboard**
+
+4:5. One pair of actual new shoes photographed at a 3/4 angle, slightly above sole height, on a Concrete plinth with a soft shadow. Show both outer profile and toe shape; one shoe forward, second rotated to reveal heel. Product occupies lower 65%; upper top third is a strong typographic title band. Add model number and colorway tag.
+
+**60 / 30 / 10 palette**
+
+60 Chalk / 30 Black / 10 Clay. Chalk seamless background, Black product name/type, Clay model-code block. Concrete plinth remains a supporting neutral.
+
+**Typography & on-art copy**
+
+Archivo Black for silhouette name; Inter for short product line; Space Mono for style code and colorway. Copy: “Introducing [Model name].” / “A new form for everyday movement.” / “[Colorway] · [Style code]”.
+
+**Caption & CTA**
+
+Caption: “Meet [model name], the latest addition to the FORMA lineup. Explore the shape, details, and available sizes.” CTA: “Shop the new silhouette.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a precise 4:5 footwear launch product image. Show the supplied shoe pair in a three-quarter studio angle slightly above sole height, one shoe forward and the second rotated to reveal heel and outsole profile. Place on a simple Concrete #B9B7B0 plinth against Chalk #F1EEE7 seamless background, controlled soft shadow, true material texture and exact silhouette. Shoe fills lower 65%; top third reserved for title. Black #222323 typography and one Clay #B66F51 model-code tag. Keep product geometry, stitching, sole and materials faithful to reference; no redesign, no invented technical details or fake wordmarks.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G03 — Product education / consideration
+
+**Deliverable type:** Graphic · 5-slide product-details carousel  
+**Use case / visual treatment:** Technical design breakdown — clean annotation system
+
+**Composition / storyboard**
+
+Slides: 1 complete shoe hero with title “Built around the everyday”; 2 upper/material close-up with verified material label; 3 outsole/profile shot with factual construction callout; 4 fit/closure/detail crop; 5 full side profile and summary. Use fine leader lines, numbered callouts and consistent spec rail. Do not claim waterproofing, cushioning, support or sustainability unless documented.
+
+**60 / 30 / 10 palette**
+
+60 Chalk / 30 Black / 10 Clay. Chalk diagram canvas; Black type and linework; Clay numbered callouts. Concrete as image stage only.
+
+**Typography & on-art copy**
+
+Archivo Black for cover; Inter for readable explanations; Space Mono for technical labels. Use editable copy fields: “[Material]”, “[Construction detail]”, “[Fit note]”.
+
+**Caption & CTA**
+
+Caption: “A closer look at the details that shape [model name]. Check the product page for full materials, sizing, and care information.” CTA: “See the details.”
+
+**Production-ready AI prompt / artist brief**
+
+> Design a five-slide footwear product-details carousel with a technical editorial grid. Slide 1: complete shoe silhouette; slide 2: macro upper texture; slide 3: outsole and side profile; slide 4: closure/heel construction detail; slide 5: clean full profile with concise specs. Use precise thin leader lines, numbered markers and ample margin. Palette Chalk #F1EEE7 60%, Black #222323 30%, Clay #B66F51 10%. Archivo Black cover, Inter body, Space Mono technical labels. All material, construction, fit and performance callouts must remain editable and be populated only from verified product specs.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G04 — Use-case discovery / versatility
+
+**Deliverable type:** Graphic · 3-occasion styling carousel  
+**Use case / visual treatment:** Fashion editorial triptych — one shoe, three contexts
+
+**Composition / storyboard**
+
+4:5 carousel, three or four slides. Each slide features the same shoe styled in a different real context: weekday commute (concrete/city), studio/work day (minimal indoor floor), weekend errands (sunlit sidewalk). Use matched low-angle framing, but vary crop and movement. A small side label reads “01 / commute”, “02 / work”, “03 / off-duty”. Final slide unites three looks in a triptych. Avoid implying one pair suits every activity.
+
+**60 / 30 / 10 palette**
+
+60 Chalk / 30 Black / 10 Clay. Chalk frames/background; Black copy; Clay context number bars. Real environments can include Concrete/Graphite neutral tones.
+
+**Typography & on-art copy**
+
+Archivo Black for big “One pair. Different plans.”; Inter for outfit context; Space Mono for sequence labels. Copy: “01 Commute” / “02 Workday” / “03 Off-duty.” Closing: “Made for the in-between.”
+
+**Caption & CTA**
+
+Caption: “A closer look at how one versatile silhouette can move through different parts of the day. How would you style yours?” CTA: “Explore the collection.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a footwear lifestyle editorial carousel featuring the same supplied shoe in three contexts: weekday commute through concrete architecture, a minimal work/studio interior, and weekend errands on a sunlit sidewalk. Maintain consistent low-angle shoe-focused framing while varying the crop and natural light. The shoe must remain identical across scenes. Include numbered context labels and a final triptych. Palette Chalk #F1EEE7 60%, Black #222323 30%, Clay #B66F51 10%. Archivo Black headline, Inter context labels, Space Mono numbering. No sports, hiking or performance context unless the product is designed for it.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G05 — Purchase intent / retargeting
+
+**Deliverable type:** Graphic · Always-on product ad  
+**Use case / visual treatment:** Minimal product + decisive CTA — high product clarity
+
+**Composition / storyboard**
+
+4:5 ad. Product pair occupies center-left against clean Chalk background with soft ground shadow. Right-side stacked information rail: name, price placeholder, available sizes, CTA. Include one small Clay block with “Available now”. Keep product large and unambiguous; no competing lifestyle props. Optional inset detail circle only if actual material detail adds information.
+
+**60 / 30 / 10 palette**
+
+60 Chalk / 30 Black / 10 Clay. Chalk canvas; Black text/product grounding; Clay CTA or availability badge. Do not use multiple buttons.
+
+**Typography & on-art copy**
+
+Archivo Black for concise headline; Inter for price/size and details; Space Mono for SKU. Copy: “Your everyday pair.” / “[Model name]” / “[Verified price] · Sizes [range]” / “Shop now.”
+
+**Caption & CTA**
+
+Caption: “The details, the fit information, and available sizes are on the product page. Find your next everyday pair.” CTA: “Shop FORMA.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a direct-response 4:5 footwear product ad. The exact supplied shoe pair is large and centered-left on a clean Chalk #F1EEE7 studio background with realistic ground shadow. On the right, reserve a neat information rail for model name, verified price, sizes and CTA. One small Clay #B66F51 availability badge, Black #222323 text. Strong Archivo Black headline, Inter body, Space Mono SKU. No extra props, no unsupported comfort claims, no fake discount, no altered shoe geometry or fabricated size inventory.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G06 — Purchase confidence / reduce returns
+
+**Deliverable type:** Graphic · 4-frame size & fit story  
+**Use case / visual treatment:** Utility-first sizing guide — precise and easy to follow
+
+**Composition / storyboard**
+
+9:16 story set. Frame 1: “Find your FORMA fit” with clean shoe profile. Frame 2: foot measurement illustration on a flat surface with ruler/measurement line. Frame 3: how to compare foot length to the brand’s actual size chart; show placeholder table fields. Frame 4: “Between sizes? Read our fit notes / message us” with link/contact placeholder. Do not recommend sizing up/down unless based on real fit testing.
+
+**60 / 30 / 10 palette**
+
+60 Chalk / 30 Black / 10 Clay. Chalk background, Black instructions/diagram, Clay measurement line and step numerals.
+
+**Typography & on-art copy**
+
+Archivo Black title; Inter clear step copy; Space Mono size numbers and units. Copy: “Measure heel to longest toe.” / “Compare with our size chart.” / “[Insert verified size chart].”
+
+**Caption & CTA**
+
+Caption: “A quick guide before you order. Compare your measurement with the size chart on the product page, and contact us if you need help.” CTA: “Check your size.”
+
+**Production-ready AI prompt / artist brief**
+
+> Design a four-frame 9:16 footwear size guide with clear diagrams and strong accessibility. Frame 1 has shoe profile and title; frame 2 illustrates foot measurement from heel to longest toe using a simple top-down foot outline and ruler line; frame 3 contains an editable brand size-chart table; frame 4 offers help/contact CTA. Use Chalk #F1EEE7 60%, Black #222323 30%, Clay #B66F51 10%. Archivo Black headings, Inter instruction copy, Space Mono measurements. Ensure diagrams are accurate and readable. Do not invent size conversions or fit recommendations; leave official chart fields editable.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G07 — Scarcity / new colorway launch
+
+**Deliverable type:** Graphic · Limited colorway drop post + story  
+**Use case / visual treatment:** Colorway-led studio triptych — graphic and collectible
+
+**Composition / storyboard**
+
+4:5 feed master plus 9:16 adaptation. Show same shoe in three verified colorways arranged diagonally across a neutral studio floor; one colorway is hero in foreground. Shoot at 3/4 overhead angle with controlled hard shadow. Add drop number, collection name, release date placeholder and “limited” only if stock is genuinely limited. Story crop centers hero colorway and CTA.
+
+**60 / 30 / 10 palette**
+
+60 Chalk / 30 Black / 10 Clay. Chalk background, Black labels, Clay drop-number stripe. Shoe colorways remain the only additional color fields in the image.
+
+**Typography & on-art copy**
+
+Archivo Black for “[Colorway] drop”; Inter release information; Space Mono drop code/date. Copy: “A new tone for everyday.” / “[Colorway name]” / “Available [date].” CTA: “View the drop.”
+
+**Caption & CTA**
+
+Caption: “Meet [colorway name], a new finish for [model]. See the full colorway and release details in the store.” CTA: “Explore the drop.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a 4:5 footwear colorway launch visual with a matching vertical story crop. Show the same exact supplied shoe model in three approved colorways arranged diagonally across a neutral Chalk studio floor, one hero pair forward in a three-quarter overhead angle, controlled hard shadow, accurate materials and proportions. Add clear empty zones for colorway name, release date and model code. Palette Chalk #F1EEE7 60%, Black #222323 30%, Clay #B66F51 10%. Archivo Black, Inter, Space Mono. Do not invent colorways, stock scarcity, release dates or product features.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### G08 — Social proof / community
+
+**Deliverable type:** Graphic · Community styling / customer feature  
+**Use case / visual treatment:** Street-style photo grid — authentic, energetic
+
+**Composition / storyboard**
+
+4:5 collage of 3–4 permission-cleared customer/stylist photos wearing the actual shoe. Use varied crops: full outfit, ankle/shoe detail, walking shot. Align to a structured grid with a Clay vertical “IN MOTION” label. Add genuine handle/tag with permission. Avoid stock models presented as customers; if no UGC exists, label as “styling inspiration” instead.
+
+**60 / 30 / 10 palette**
+
+60 Chalk / 30 Black / 10 Clay. Chalk gutters and label background; Black text; Clay vertical label. Keep user-photo color grading natural.
+
+**Typography & on-art copy**
+
+Archivo Black for “FORMA in motion”; Inter for quote/caption; Space Mono for contributor handles/series number. Copy: “Different days. Same everyday pair.” / “[Approved handle]”.
+
+**Caption & CTA**
+
+Caption: “FORMA, out in the world. Thanks to everyone sharing how they style their pair.” CTA: “Tag us for a chance to be featured.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a structured 4:5 footwear community collage using three or four real permission-cleared images of people wearing the exact product. Include one full outfit frame, one close shoe detail and one walking frame. Use clean aligned grid, Chalk gutters and a single Clay vertical label. Keep real customer identity/handle fields editable and use only with permission. Palette Chalk 60%, Black 30%, Clay 10%. Archivo Black headline, Inter supporting copy, Space Mono labels. If real customer photos are unavailable, make a clearly labeled styling-inspiration layout rather than inventing UGC or endorsements.
+
+**Production notes / dependencies**
+
+- [Confirm required brand assets, product references, and any bracketed placeholders.]
+- [Record any manual typesetting, retouching, or finishing requirements.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Required source assets available and verified
+- [ ] Visual assets generated / sourced
+- [ ] Layout built in Figma
+- [ ] Exact copy, logo, and details manually typeset
+- [ ] Brand system, palette ratio, and readability checked
+- [ ] Dimensions and safe zones checked
+- [ ] Final QA completed
+- [ ] Export completed and saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page:** Not recorded
+- **Figma frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Export / asset location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+#### Short-form videos
+
+##### V09 — Brand campaign / lifestyle use cases
+
+**Deliverable type:** Video · 15–20s Reel  
+**Use case / visual treatment:** Footage-led editorial movement film
+
+**Composition / storyboard**
+
+9:16, 15–20 seconds. 0–2s: shoe hits pavement, low angle and crisp step sound. 2–6s: tracking shot from ankle height through concrete corridor. 6–10s: static locked shot as model crosses frame; cut to detail of upper and sole while walking. 10–14s: transition to indoor work/studio scene; shoe remains same. 14–18s: three rapid but smooth context clips; 18–20s: brand end card. Avoid running/jumping if not a performance shoe.
+
+**60 / 30 / 10 palette**
+
+60 Chalk / 30 Black / 10 Clay in captions/end card. Footage neutral/cool concrete; Clay used as a quick model-code accent.
+
+**Typography & on-art copy**
+
+Archivo Black end-card line; Inter subtitles; Space Mono model code. Overlay: “Different plans.” / “Same everyday pair.” / “Made for the in-between.”
+
+**Caption & CTA**
+
+Caption: “A day rarely stays in one place. Meet the footwear made to move through the everyday.” CTA: “Explore the FORMA collection.”
+
+**Production-ready AI prompt / artist brief**
+
+> Shoot a 15–20 second vertical lifestyle footwear Reel with the shoe always as the hero. Start with a low-angle pavement step and crisp sound, track at ankle height through a concrete corridor, cut to a locked-off crossing shot, then a close walking detail of upper and sole. Transition to an indoor studio/work context and a final three-context montage. Use 24/30fps for motion, a few 50/60fps details, natural directional light and stable low tracking. Keep the supplied shoe model identical in every scene. Minimal Archivo Black, Inter and Space Mono overlays using Chalk/Black/Clay. Avoid athletic performance claims and running imagery unless appropriate.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Footage / source assets collected or generated
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page / frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Source / editing file location:** Not recorded
+- **Export location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+##### V10 — Product education / construction storytelling
+
+**Deliverable type:** Video · 12–16s Reel  
+**Use case / visual treatment:** 3D exploded-view product animation — technical and precise
+
+**Composition / storyboard**
+
+9:16, 12–16 seconds. 0–3s: shoe rotates slowly in clean studio, side profile. 3–7s: selected known components separate vertically into a neat exploded stack (upper, insole, outsole only when accurate and supplied). 7–10s: thin callout lines and editable component names appear. 10–13s: components reassemble; camera settles into 3/4 hero angle. 13–16s: model code and shop CTA. No claims about cushioning, support, sustainability or durability unless verified.
+
+**60 / 30 / 10 palette**
+
+60 Chalk / 30 Black / 10 Clay. Chalk background; Black outline/callouts; Clay component number dots or one guide line.
+
+**Typography & on-art copy**
+
+Archivo Black model name; Inter factual component explanation; Space Mono technical identifiers. Copy: “Every detail has a purpose.” Component labels: “[Verified component]”. CTA: “Explore the build.”
+
+**Caption & CTA**
+
+Caption: “A closer look at the parts and details of [model name]. See the product page for verified materials and specifications.” CTA: “Discover the construction.”
+
+**Production-ready AI prompt / artist brief**
+
+> Create a precise 12–16 second vertical 3D footwear construction animation using the supplied shoe model and verified component references. Begin with a slow side-profile rotation on a clean Chalk studio stage. Separate only known components into a tidy exploded stack—upper, insole, outsole if those are accurate—and hold for editable callout labels. Reassemble and settle into a three-quarter hero view. Use crisp technical motion, controlled shadows and exact shoe geometry. Palette Chalk #F1EEE7 60%, Black #222323 30%, Clay #B66F51 10%. Archivo Black titles, Inter explanations, Space Mono component codes. Do not invent internal technology, materials or performance claims.
+
+**Production notes / dependencies**
+
+- [Confirm required footage, product references, audio, licensed music, and supplied assets.]
+- [Record source-file, edit-file, and export locations.]
+
+**Production checklist**
+
+- [ ] Brief and prompt approved
+- [ ] Footage / source assets collected or generated
+- [ ] Rough sequence assembled
+- [ ] Motion, transitions, and overlays completed
+- [ ] Sound / music completed and usage cleared
+- [ ] Typography and captions checked
+- [ ] Brand system and pacing checked
+- [ ] Final QA completed
+- [ ] Final export saved
+
+**Production record**
+
+- **Status:** Not started
+- **Figma page / frame:** Not recorded
+- **Figma node link / ID:** Not recorded
+- **Source / editing file location:** Not recorded
+- **Export location:** Not recorded
+- **Revision / issue:** None recorded
+- **Last updated by / date:** Not started
+
+## 4. FIGMA FILE LOCATION & WORKSPACE
+
+> **Mandatory continuity section.** Canonical Figma file created and populated on 2026-11-19 (Asia/Manila). All agents continue in this file; do not create a replacement.
+
+| Field | Value |
+|---|---|
+| Figma team / workspace | Mike Andrei A. Nieto's team (plan key `team::1470609601803767889`, student tier) |
+| Figma project | None — file sits in the owner's Drafts (no project assigned) |
+| Canonical Figma file name | Six-Brand Content Package |
+| Canonical Figma file URL | https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO |
+| File key / ID | `GHxufDzAW3ReOPcm4oqBUO` |
+| Production pages | One page per brand: `01 Morrow Bakehouse` (0:1) · `02 AURELLE Skin` (1:2) · `03 Objects & Elsewhere` (1:3) · `04 SAVORÉ Table` (1:4) · `05 OLFACT` (1:5) · `06 FORMA` (1:6) |
+| References / assets page | No separate page yet. Generated source photos currently sit as frames named “Generated Image” at the top-left of page `01 Morrow Bakehouse` (see asset table below). All generated images for every brand land on page 01 first; move or reference them from there. |
+| Archive / completed page | None created |
+
+**Existing source imagery:** The existing source photos and AI-generated concept assets were created under the previous design direction. Treat them as legacy references, not automatically approved assets for the redesign. Reuse only where they fit the revised brand system and accurately represent the product/food; otherwise create new brand-correct imagery. Section 5 records the user's current authorization to use Figma `generate_image` for new assets; that instruction is the one in force (it supersedes the earlier ChatGPT-only rule). Generated frames land on whichever page was last open, so move them to page 01 when done.
+
+**Legacy layout convention:** existing deliverables use one Section named `ID · type — use case` with 1080×1350 feed frames and 1080×1920 story frames. This convention does not cover the revised print, packaging, signage, or e-commerce assets. For the revised work, size each collateral item for its actual use and record the intended output dimensions. Verify the revised font families in Figma before production; availability has not yet been checked for the new brand systems.
+
+**Generated asset frames (page 01, temporary, do not delete until all dependent frames are done):**
+
+| Node | Subject | Used by |
+|---|---|---|
+| 1:7 | Hero still life: loaf, croissant, butter, coffee (4:5) | G01; crops in G02, G06 |
+| 3:2 | Overhead assortment (croissant, bun, sourdough, coffee) | G02 S1–S2, G06 |
+| 3:3 | Almond croissant + coffee | G02 S2/S4/S5, G06 F3 |
+| 3:4 | Pear & almond danish | G03 feed + story |
+| 3:5 | Croissant + flat white (9:16) | G04 |
+| 3:6 / 3:7 / 3:8 | Dough folding / shaping / scored loaf | G05 |
+| 3:9 | Overhead coffee + pastry, space for card | G07, G02 S4 |
+| 3:10 / 3:11 / 3:12 | Closed gift box / open box / hands passing | Morrow G08 (built) |
+| 3:13 / 3:14 / 6:2 | Flour falling / loaf into oven / empty plate set (9:16) | V09, V10 (storyboards built) |
+| 23:10 | AURELLE: cheek/shoulder with frosted bottle on stone ledge (4:5), top-left left blank | AURELLE G01 |
+| 25:2 | AURELLE: macro sage leaf with water droplets on oat limestone (4:3) | AURELLE G02 S2 |
+| 27:2 | AURELLE: frosted bottle on oat stone plinth with water ripple (4:5), left third blank | AURELLE G03, G04 S4 (cropped) |
+| 29:2 | AURELLE: clear cleansing gel swatch on oat stone (3:2) | AURELLE G04 S2 |
+| 29:3 | AURELLE: cream smear with cropped frosted jar edge (3:2) | AURELLE G04 S3 |
+| 31:2 | AURELLE: frosted bottle with cream smear and serum drop on pale stone (9:16) | AURELLE G05 |
+| 33:2 | AURELLE: bathroom shelf with unlabelled bottles, plant and towel (4:5); placeholder for real UGC | AURELLE G07 (both frames); V10 beat 4 reference |
+| 39:2 | AURELLE V10: hand dispensing product texture onto fingertips (4:3 storyboard reference) | V10 beat 2 |
+| 39:3 | AURELLE V10: creator applying product to cheek (4:3 storyboard reference) | V10 beat 3 |
+| 39:4 | AURELLE V10: creator speaking to camera in bathroom (4:3 storyboard reference) | V10 beat 5 |
+| 40:2 | AURELLE V10: bathroom shelf POV, hand reaching for bottle (4:3 storyboard reference) | V10 beat 1 |
+| 34:55 / 34:56 | AURELLE: bottle with serum ribbon arc / macro droplet on frosted glass (landscape stills) | AURELLE V09 beats 2 / 3 |
+| 34:2 / 34:3 / 34:4 / 34:5 | AURELLE: tissue-wrapped products (4:5) / single jar on plinth / discovery set in box / gift box with blank note card | AURELLE G08 S1 / S2 / S3 / S4 |
+
+### Suggested page organization (only if it matches the existing file; do not reorganize automatically)
+
+- One page per brand: Morrow Bakehouse, AURELLE Skin, Objects & Elsewhere, SAVORÉ Table, OLFACT, FORMA.
+- Optional shared references / assets page.
+- Keep each deliverable in a clearly named frame using its ID (e.g. `G01 — Brand awareness / feed`, `V09 — Craft / process storytelling`).
+
+### Continuation point — revised rebrand hold
+
+- **Last verified Figma page:** `04 SAVORÉ Table` (1:4); generated hero source image 63:2 exists. The last full deliverable visually checked before this replan was Objects & Elsewhere V10, section 62:2.
+- **Figma state:** Existing designs and generated images have not been changed as part of this handoff revision. Morrow, AURELLE, and Objects & Elsewhere each have legacy G01–G08 layouts and V09/V10 storyboards; SAVORÉ has a G01 hero image only. OLFACT and FORMA remain unbuilt.
+- **Next action:** Wait for the user's explicit greenlight to begin the revised content plan. Do not start or continue the old SAVORÉ G01 layout before that greenlight.
+- **After greenlight:** Create new revision sections on the corresponding existing brand pages. Use revision naming such as `G01 R2 — TOFU — Brand discovery — Instagram feed poster`. Preserve old sections; never overwrite legacy work.
+- **Existing components / styles to reuse:** No shared component library has been verified. Build the new brand systems distinctly; do not reuse old visual components merely for convenience.
+- **Known access issues:** None noted. Figma image generation works; AI credit use should remain purposeful.
+
+### Figma continuity rules
+
+- Open the canonical Figma URL recorded above before production.
+- Verify the file name, project, pages, and current canvas state against this handoff.
+- **Do not create a new Figma project or file because the agent or session changed.**
+- Continue in the existing file and follow its page, frame, layer, and component organization.
+- Record the exact page, frame, and node link / ID for every deliverable created or updated.
+- Preserve existing work as legacy reference. Under the revised plan, create new revision sections only after the user greenlights; do not overwrite, delete, or silently modify old work.
+- If the canonical file cannot be accessed, stop and report the issue. Do not create a replacement.
+- Only create a new page or file when the user explicitly instructs it or the existing workspace genuinely requires it; document the reason.
+
+## 5. PRODUCTION STATUS
+
+### Current status — rebrand replan pending greenlight
+
+| Metric | Count |
+|---|---:|
+| Total deliverables | 60 |
+| Not started | 29 |
+| Prompt approved | 0 |
+| In progress | 0 |
+| Design complete under revised direction | 0 |
+| Needs revision (legacy Figma builds) | 31 |
+| Approved | 0 |
+| Blocked | 0 |
+
+**Legacy work still exists in Figma:** 24 old graphic layouts + 6 old video storyboards + 1 SAVORÉ G01 source image = 31 items. None were modified during this replan. They are marked `Needs revision` because the new brand systems and content architecture supersede their old visual treatment and/or content purpose. The remaining 29 deliverables (SAVORÉ G02–V10, all OLFACT items, and all FORMA items) have not been started.
+
+**Revised production completion:** 0 / 60 under the new direction. This is a deliberate reset of the approval/completion count, not a claim that the prior Figma work disappeared. No revised asset has been built or approved yet.
+
+**Per brand:** Morrow Bakehouse 10/10 require a new revision (8 existing graphics + 2 storyboards) · AURELLE Skin 10/10 require a new revision (8 existing graphics + 2 storyboards) · Objects & Elsewhere 10/10 require a new revision (8 existing graphics + 2 storyboards) · SAVORÉ Table G01 has an existing source image only and requires a new branded layout; G02–V10 are not started · OLFACT 0/10 built · FORMA 0/10 built.
+
+**Current phase:** Creative replan documented; awaiting user's greenlight before any Figma changes.  
+**Last milestone:** Revised six-brand visual systems, funnel map, platform/use labels, 60 deliverable concepts, working content data, and per-brand redesign checklists added to this Markdown handoff. No Figma changes made.  
+**Last updated:** 2026-11-19 (Asia/Manila)
+
+### Deliverable tracker
+
+| ID | Brand | Deliverable | Status | Figma page | Figma frame / node link | Notes |
+|---|---|---|---|---|---|---|
+| G01 | Morrow Bakehouse | Brand awareness / feed | Needs revision | 01 Morrow Bakehouse (0:1) | [2:3 (frame); section 2:2](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=2-3) | Visually checked. Photo: gpt-image-2.5-sunburst (asset node 1:7). Caption/CTA note under frame. |
+| G02 | Morrow Bakehouse | Evergreen menu / product discovery | Needs revision | 01 Morrow Bakehouse (0:1) | [6:3 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=6-3) | Caption note corrected to the approved copy: “A little look at what’s coming out of the oven and over the counter. Menu and availability may vary by day.” CTA: “Save this for your next visit.” Item names/prices remain placeholders. |
+| G03 | Morrow Bakehouse | Product launch / seasonal special | Needs revision | 01 Morrow Bakehouse (0:1) | [6:44 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=6-44) | Feed accent text recolored to Cocoa for stronger contrast; section note updated to the approved caption and CTA. Seasonal pear & almond danish remains a concept flavor to verify before publishing. |
+| G04 | Morrow Bakehouse | Everyday offer / drive visits | Needs revision | 01 Morrow Bakehouse (0:1) | [6:63 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=6-63) | Built; visual QA pending. Photo: sunburst (3:5). Offer field left as “[Insert confirmed bundle / price]”. |
+| G05 | Morrow Bakehouse | Craft / trust / behind the scenes | Needs revision | 01 Morrow Bakehouse (0:1) | [7:2 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=7-2) | Revised to Flour caption panels with Cocoa text on all four slides, matching the approved 60/30/10 direction. Full visual QA/export still pending. |
+| G06 | Morrow Bakehouse | Engagement / preference insight | Needs revision | 01 Morrow Bakehouse (0:1) | [7:27 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=7-27) | Sticker guide outlines removed from the two interactive sticker areas; native Instagram sticker placement zones remain intentionally clear. Visual QA/export pending. |
+| G07 | Morrow Bakehouse | Retention / repeat purchase | Needs revision | 01 Morrow Bakehouse (0:1) | [7:47 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=7-47) | Added a Cocoa contrast backing behind the footer line and recolored it Flour. Reward terms and QR destination remain editable placeholders. |
+| G08 | Morrow Bakehouse | Seasonal sales / gifting | Needs revision | 01 Morrow Bakehouse (0:1) | [10:2 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=10-2) | Four 1080×1350 slides built; dedicated S3 macro image generated directly in Figma and verified on node 10:20. Final visual QA/export outstanding; unverified gift-set details remain editable placeholders. |
+| V09 | Morrow Bakehouse | Craft / process storytelling | Needs revision | 01 Morrow Bakehouse (0:1) | [18:9 storyboard](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=18-9) | Six editable 9:16 keyframe cards; real process footage, edit, sound, QA, and export remain. |
+| V10 | Morrow Bakehouse | Seasonal product launch / appetite appeal | Needs revision | 01 Morrow Bakehouse (0:1) | [18:78 storyboard](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=18-78) | Five editable 9:16 keyframe cards; stop-motion build, motion type, sound, QA, and export remain. |
+| G01 | AURELLE Skin | Brand awareness / positioning | Needs revision | 02 AURELLE Skin (1:2) | [23:12 (frame); section 23:11](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=23-12) | Built and visually checked once. Photo sunburst (asset 23:10 on page 01). Sage kept to one contour line, so it reads faintly. Bottle unlabeled until a real label is supplied. Final QA/export pending. |
+| G02 | AURELLE Skin | Education / trust | Needs revision | 02 AURELLE Skin (1:2) | [26:2 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=26-2) | Five slides built. All ingredient facts, benefits and usage steps are placeholders pending brand verification; step icons are neutral stand-ins. Photo asset 25:2 on page 01. Final QA/export pending. |
+| G03 | AURELLE Skin | Product launch / consideration | Needs revision | 02 AURELLE Skin (1:2) | [28:3 (frame); section 28:2](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=28-3) | Built and visually checked. Photo asset 27:2 on page 01. Bottle label typeset with placeholders; product name, size, category and benefit are brackets. Final QA/export pending. |
+| G04 | AURELLE Skin | Product education / cross-sell | Needs revision | 02 AURELLE Skin (1:2) | [30:2 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=30-2) | Four slides built; step names, products and role tags are bracketed placeholders. Photos 29:2, 29:3 on page 01; S4 reuses 27:2. Final QA/export pending. |
+| G05 | AURELLE Skin | Consideration / purchase | Needs revision | 02 AURELLE Skin (1:2) | [31:4 (frame); section 31:3](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=31-4) | Built and visually checked. Photo asset 31:2 on page 01. Product name, claim, size and price are brackets; ingredient-conscious descriptor omitted. Final QA/export pending. |
+| G06 | AURELLE Skin | Engagement / routine preferences | Needs revision | 02 AURELLE Skin (1:2) | [32:2 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=32-2) | Four 9:16 frames built, no new imagery. Native sticker zones left empty. Final QA/export pending. |
+| G07 | AURELLE Skin | Social proof / reassurance | Needs revision | 02 AURELLE Skin (1:2) | [33:3 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=33-3) | 4:5 card (33:4) and 9:16 story (33:14) built. Quote, attribution and photo are placeholders; real customer photo, quote and consent needed. Final QA/export pending. |
+| G08 | AURELLE Skin | Seasonal gifting / basket building | Needs revision | 02 AURELLE Skin (1:2) | [34:6 (section)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=34-6) | Four slides built; photos 34:2–34:5 on page 01 show invented products and sets, so match them to the real range. Names, contents and prices are brackets. Final QA/export pending. |
+| V09 | AURELLE Skin | Product launch / premium visual impact | Needs revision | 02 AURELLE Skin (1:2) | [35:2 (storyboard)](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=35-2) | Five-keyframe storyboard built; 3D animation and final render still to produce outside Figma. Stills 34:55, 34:56 on page 01. |
+| V10 | AURELLE Skin | Routine education / relatable use case | Needs revision | 02 AURELLE Skin (1:2) | [41:2 storyboard](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=41-2) | Six editable 9:16 storyboard cards; AI stills are reference stand-ins only. Real consented creator footage, label-verified use, edit, sound, QA, and export remain. |
+| G01 | Objects & Elsewhere | Brand awareness / positioning | Needs revision | 03 Objects & Elsewhere (1:3) | [43:3 frame](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=43-3) | Built and visually checked; headline fit refined. Final export QA pending. |
+| G02 | Objects & Elsewhere | Product discovery / collection drop | Needs revision | 03 Objects & Elsewhere (1:3) | [48:2 section](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=48-2) | Five-slide collection carousel; generic desk/kitchen/home imagery, actual item names and inventory matching required. |
+| G03 | Objects & Elsewhere | Product consideration / detail | Needs revision | 03 Objects & Elsewhere (1:3) | [49:3 section](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=49-3) | Product spotlight with separated photo and readable spec rail; generic organizer image, SKU/spec placeholders remain. |
+| G04 | Objects & Elsewhere | Direct response / store traffic | Needs revision | 03 Objects & Elsewhere (1:3) | [52:3 section](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=52-3) | Same-angle before/after desk ad with CTA; generic organizer concept, actual SKU match needed. |
+| G05 | Objects & Elsewhere | Inspiration / cross-category discovery | Needs revision | 03 Objects & Elsewhere (1:3) | [54:2 section](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=54-2) | Four-slide space-refresh carousel; generic imagery and item placeholders; manual annotation arrows added. |
+| G06 | Objects & Elsewhere | Engagement / product discovery | Needs revision | 03 Objects & Elsewhere (1:3) | [55:3 section](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=55-3) | Three 9:16 story frames; native Instagram sticker areas intentionally blank. |
+| G07 | Objects & Elsewhere | Seasonal shopping / basket building | Needs revision | 03 Objects & Elsewhere (1:3) | [56:2 section](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=56-2) | Five-slide recipient-led gift guide; all item names/prices are placeholders pending stock verification. |
+| G08 | Objects & Elsewhere | Social proof / community | Needs revision | 03 Objects & Elsewhere (1:3) | [58:2 section](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=58-2) | Collage layout with four empty photo slots and quote/attribution placeholder; real UGC, approval and consent required. |
+| V09 | Objects & Elsewhere | Unboxing / product discovery | Needs revision | 03 Objects & Elsewhere (1:3) | [61:2 storyboard](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=61-2) | Six 9:16 keyframe cards; actual packaging, SKUs, footage, edit, sound, QA and export remain. |
+| V10 | Objects & Elsewhere | Product storytelling / premium digital ad | Needs revision | 03 Objects & Elsewhere (1:3) | [62:2 storyboard](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=62-2) | Five 9:16 keyframe cards; actual SKU model and verified details needed; animation/render, sound, QA and export remain. |
+| G01 | SAVORÉ Table | Brand awareness / hospitality | Needs revision | 04 SAVORÉ Table (1:4) | [63:2 generated hero image](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=63-2) | 4:5 communal-table hero image generated; editable poster layout and typography not yet built. |
+| G02 | SAVORÉ Table | Menu highlight / consideration | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G03 | SAVORÉ Table | Menu education / ingredient storytelling | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G04 | SAVORÉ Table | Menu innovation / seasonal launch | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G05 | SAVORÉ Table | Lunch traffic / direct response | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G06 | SAVORÉ Table | Engagement / food preference | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G07 | SAVORÉ Table | Group bookings / catering inquiry | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G08 | SAVORÉ Table | Utility / reduce purchase friction | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| V09 | SAVORÉ Table | Appetite / kitchen craft | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| V10 | SAVORÉ Table | Menu update / campaign announcement | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G01 | OLFACT | Brand awareness / positioning | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G02 | OLFACT | Education / product discovery | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G03 | OLFACT | Product storytelling / merchandising | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G04 | OLFACT | Conversion / sampling | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G05 | OLFACT | Conversion / quiz traffic | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G06 | OLFACT | Engagement / preference capture | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G07 | OLFACT | Gifting / seasonal sales | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G08 | OLFACT | Social proof / sensory storytelling | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| V09 | OLFACT | Hero product launch / premium impact | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| V10 | OLFACT | Discovery set / unboxing conversion | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G01 | FORMA | Brand awareness / positioning | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G02 | FORMA | Product launch / collection drop | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G03 | FORMA | Product education / consideration | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G04 | FORMA | Use-case discovery / versatility | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G05 | FORMA | Purchase intent / retargeting | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G06 | FORMA | Purchase confidence / reduce returns | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G07 | FORMA | Scarcity / new colorway launch | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| G08 | FORMA | Social proof / community | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| V09 | FORMA | Brand campaign / lifestyle use cases | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+| V10 | FORMA | Product education / construction storytelling | Not started | Not recorded | Not recorded | Prompt and creative brief transcribed from source HTML |
+### Milestone log
+
+| Date / time | Agent | Milestone / work completed | Figma changes / location | Remaining issue |
+|---|---|---|---|---|
+| 2026-11-19 (Asia/Manila) | ChatGPT | Populated handoff from six_brand_content_package.html; retained 60 detailed deliverable briefs and prompts | No Figma changes recorded | Confirm canonical Figma file and approve preproduction |
+| 2026-11-19 (Asia/Manila) | Claude | Created canonical Figma file `Six-Brand Content Package` with 6 brand pages; generated 15 photos with gpt-image-2.5-sunburst; built Morrow G01–G07 | File https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO; page 01 sections G01 (2:2), G02 (6:3), G03 (6:44), G04 (6:63), G05 (7:2), G06 (7:27), G07 (7:47) | Visual QA pending on G04–G06; polish fixes listed in each record (G02 note caption, G03 contrast, G07 footer line); G08, V09, V10 not built |
+| 2026-11-19 (Asia/Manila) | ChatGPT | Built Morrow G08 four-slide gift-box carousel; reused existing source photos 3:10–3:12; dedicated S3 macro image generated directly in Figma after user authorization | Page `01 Morrow Bakehouse`; section 10:2; slides 10:3, 10:11, 10:19, 10:26 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=10-2 | Final QA and export remain; gift-set details are placeholders. |
+| 2026-11-19 (Asia/Manila) | ChatGPT | Built editable V09 six-shot and V10 five-shot vertical video storyboards | Page `01 Morrow Bakehouse`; V09 section 18:9 and V10 section 18:78 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=18-9 | Footage/edit production for V09 and stop-motion build for V10 remain; neither is a final video export. |
+| 2026-11-19 (Asia/Manila) | Claude | Built AURELLE G01 brand manifesto post (4:5) with a new sunburst photo, typeset copy and a Sage contour line. While cleaning up a failed script I deleted the first generated photo by mistake and regenerated it with the same prompt; the new photo is filed on page 01 | Page `02 AURELLE Skin`; section 23:11, frame 23:12 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=23-12; photo asset 23:10 on page 01 | Final QA/export pending. Lesson: images generated while a brand page is open land on that page, so check where a new frame landed before deleting anything. |
+| 2026-11-19 (Asia/Manila) | Claude | Built AURELLE G02 five-slide ingredient education carousel; generated one macro leaf photo (sunburst); all ingredient claims left as placeholders | Page `02 AURELLE Skin`; section 26:2 (frames 26:3, 26:14, 26:24, 26:44, 26:82) — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=26-2; photo asset 25:2 on page 01 | Final QA/export pending; step icons are stand-ins until real usage steps are verified. |
+| 2026-11-19 (Asia/Manila) | Claude | Built AURELLE G03 launch hero with a new sunburst studio photo; bottle label typeset with placeholders | Page `02 AURELLE Skin`; section 28:2, frame 28:3 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=28-3; photo asset 27:2 on page 01 | Final QA/export pending; real logo and product details needed to replace typeset wordmark and placeholders. |
+| 2026-11-19 (Asia/Manila) | Claude | Built AURELLE G04 four-slide routine carousel with two new sunburst macro images (cleanser gel, cream smear); S4 reuses the G03 bottle photo | Page `02 AURELLE Skin`; section 30:2 (frames 30:3, 30:23, 30:34, 30:45) — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=30-2; photos 29:2 and 29:3 on page 01 | Final QA/export pending. Design note: avoid digits in Cormorant Garamond (old-style numerals); G02 S3 titles “[Verified benefit 1–3]” still use them and are worth a look. |
+| 2026-11-19 (Asia/Manila) | Claude | Built AURELLE G05 60/40 conversion ad with a new sunburst product-and-texture photo and typeset bottle label | Page `02 AURELLE Skin`; section 31:3, frame 31:4 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=31-4; photo asset 31:2 on page 01 | Final QA/export pending; product name, claim, size and price need verified details. |
+| 2026-11-19 (Asia/Manila) | Claude | Built AURELLE G06 four-frame 9:16 interactive story (no new imagery) | Page `02 AURELLE Skin`; section 32:2 (frames 32:3, 32:16, 32:36, 32:47) — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=32-2 | Final QA/export pending; choose between option cards and a native poll sticker on F2 at production. |
+| 2026-11-19 (Asia/Manila) | Claude | Built AURELLE G07 quote card (4:5) and story version (9:16) with a generated placeholder bathroom-shelf photo | Page `02 AURELLE Skin`; section 33:3 (frames 33:4, 33:14) — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=33-3; photo asset 33:2 on page 01 | Final QA/export pending; needs a real customer photo, approved quote, attribution and consent. |
+| 2026-11-19 (Asia/Manila) | Claude | Built AURELLE G08 four-slide gift edit carousel with four new sunburst photos | Page `02 AURELLE Skin`; section 34:6 (frames 34:7, 34:17, 34:29, 34:41) — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=34-6; photos 34:2–34:5 on page 01 | Final QA/export pending; verify the real range and sets before publishing. |
+| 2026-11-19 (Asia/Manila) | Claude | Built AURELLE V09 five-keyframe 9:16 storyboard with two new sunburst stills (ribbon, droplet) | Page `02 AURELLE Skin`; section 35:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=35-2; stills 34:55, 34:56 on page 01 | Not a final video; 3D animation and render happen outside Figma. |
+| 2026-11-19 (Asia/Manila) | ChatGPT | Built AURELLE V10 six-keyframe 9:16 UGC routine storyboard, generated four new visual references in Figma, reused the existing shelf image for beat 4, and visually checked the full section | Page `02 AURELLE Skin`; section 41:2 — https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=41-2; new source images 39:2–39:4 and 40:2 filed on page 01 | Real creator footage, consent, product/label verification, edit, sound, final QA, and export remain. |
+
+| 2026-11-19 (Asia/Manila) | ChatGPT | Built Objects & Elsewhere G01–G08; eight graphics are design-complete. G02 five-slide collection carousel; G03 single-product spotlight; G04 conversion ad; G05 four-slide space-refresh carousel; G06 three-frame story; G07 five-slide gift guide; G08 customer collage with four empty UGC slots. | Page `03 Objects & Elsewhere`; G01 frame 43:3; G02 section 48:2; G03 section 49:3; G04 section 52:3; G05 section 54:2; G06 section 55:3; G07 section 56:2; G08 section 58:2. | Generic product images must be matched to actual inventory; product specs/prices are placeholders; G08 needs genuine permission-cleared customer content and approved review. Final QA/export remains. |
+| 2026-11-19 (Asia/Manila) | ChatGPT | Built Objects & Elsewhere V09 six-card and V10 five-card editable 9:16 storyboards; both sections visually checked. | Page `03 Objects & Elsewhere`; V09 section 61:2; V10 section 62:2. | V09 needs actual branded packaging and footage; V10 needs actual SKU model and verified details before final 3D production. |
+| 2026-11-19 (Asia/Manila) | ChatGPT | Generated SAVORÉ Table G01 communal shared-table hero image. | Page `04 SAVORÉ Table`; generated image node 63:2. | Editable 4:5 poster layout not yet built; next action is to place image and typeset approved copy. |
+| 2026-11-19 (Asia/Manila) | ChatGPT | Rewrote the handoff direction after user feedback: separated the six brand identities, replaced the old design-system definitions, rebuilt the 60-item content architecture around TOFU/MOFU/BOFU, added channel/use labels and non-social collateral, supplied concrete working sample content, and added per-brand redesign checklists. | Markdown only; Figma file GHxufDzAW3ReOPcm4oqBUO left untouched. | Await explicit user greenlight before creating any new Figma revision sections. |
+
+### Outstanding decisions / dependencies
+
+- ~~Confirm the canonical Figma project and file URL~~ — recorded in Section 4. Optionally move the file from Drafts into a project.
+- **Image-generation rule (current instruction):** The user has authorized Figma `generate_image` for now. Use it for new Figma-bound visual assets when suitable; continue reusing existing approved source photos where the brief permits. This supersedes the earlier ChatGPT-only image-generation preference for the current production phase.
+- **Revised-direction approval:** The new six-brand systems and content architecture are documented in this handoff but are not yet greenlit for Figma execution. Wait for the user to explicitly authorize the redesign.
+- After greenlight, confirm which working sample products, ingredients, prices, dish names, sizes, bundle contents, and copy should be replaced with actual business facts before public release.
+- Source actual product photography, packaging references, logo files, current menus, product formulations/spec sheets, sizing charts, creator/customer permissions, and store/booking destinations as needed.
+- Review Korean translations with a fluent reader and review Filipino cultural motifs against accurate references before production.
+
+## 6. NEXT ACTION
+
+### Immediate next action — continue production from the official brand books
+
+- **Next agent:** Any — resume from this handoff after the user explicitly greenlights the revised direction.
+- **Next task after greenlight:** Begin the rebrand in the existing canonical Figma file, starting with the revised brand-system foundations and the first deliverable on each brand page. Build new sections rather than modifying old ones.
+- **Figma file:** https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO — file key `GHxufDzAW3ReOPcm4oqBUO`.
+- **Page mapping:** Morrow `01 Morrow Bakehouse` (0:1) · AURELLE `02 AURELLE Skin` (1:2) · Objects & Elsewhere `03 Objects & Elsewhere` (1:3) · SAVORÉ `04 SAVORÉ Table` (1:4) · OLFACT `05 OLFACT` (1:5) · FORMA `06 FORMA` (1:6).
+- **Current state:** The user has authorized the revised brand books in the canonical Figma file. Use the official brand-book source of truth at the top of this document; do not revert to superseded styles.
+- **Revised direction:** Section 2 contains the six differentiated systems; Section 3 contains the new TOFU/MOFU/BOFU content map and per-brand checklists. The old long-form briefs are retained as an archive, explicitly superseded.
+- **Execution sequence after greenlight:** (1) apply the revised identity foundations on each correct brand page; (2) create new G01–G08 sections and V09/V10 storyboards according to the revised matrix; (3) use the stated channel/use labels in every section name; (4) replace working content assumptions with verified brand data before public export; (5) visual QA each brand against the other five; (6) update the tracker and milestone log.
+- **Working sample content:** Concrete example products, menu items, ingredients, and prices exist to make designs visually complete during the first pass. They are design assumptions only and must not be represented as verified live inventory/formulations/pricing.
+
+### Handoff checklist — outgoing agent
+
+- [ ] Update every deliverable touched during the session.
+- [ ] Record completed, in-progress, blocked, and revised work.
+- [ ] Record exact Figma page, frame, and node link / ID for each changed deliverable.
+- [ ] Update overall counts and milestone log.
+- [ ] Write one specific next action and identify the next deliverable.
+- [ ] Verify the canonical Figma URL and continuation point.
+- [ ] Generate and provide the next deliverable's image pack before handoff (or record why no new image is needed).
+- [ ] Include the asset manifest and exact Shared Asset Library page link.
+- [ ] Save and provide the latest Markdown file for the user to download.
+
+### Handoff checklist — incoming agent
+
+- [ ] Read this entire document before acting.
+- [ ] Confirm project scope and approved creative direction.
+- [ ] Open and inspect the canonical Figma file; do not create a new file.
+- [ ] Verify the production tracker against the actual Figma canvas.
+- [ ] Continue from Section 6 and the first unfinished deliverable.
+- [ ] Preserve approved prompts, brand rules, and completed work.
+- [ ] Check `00 — Shared Asset Library` for the pre-generated next-task image pack before generating anything new.
+- [ ] Update this Markdown after each milestone.
+
+## PRE-HANDOFF IMAGE PACK PROTOCOL — REQUIRED BEFORE EVERY HANDOFF
+
+**New user instruction (2026-11-21):** Before preparing or updating a handoff, prepare the image assets required by the next concrete production task. Supply the assets as individually downloadable files with identifiable filenames so the user can manually upload them to the dedicated Figma page. The next/current agent must source them from that page rather than regenerate duplicates.
+
+### Shared Figma asset destination
+
+- **Dedicated page:** `00 — Shared Asset Library`
+- **Page ID:** `104:2`
+- **Page link:** https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=104-2
+- **Upload cover / instructions frame:** `104:3` (`SHARED ASSET LIBRARY — START HERE`)
+- The user manually uploads each supplied image pack to this page. Preserve filenames and group assets by brand and deliverable. Do not assume an image is in Figma until its upload is confirmed.
+
+### Required pre-handoff sequence
+
+1. Identify the exact next deliverable from the current project state and approved brief. Do not generate assets for speculative future tasks.
+2. Inspect the brief and existing Figma assets. Reuse approved existing assets where they fit; do not create duplicates.
+3. List only the new visual assets the next deliverable actually requires. Do not generate assets for editable vector logos, typography, layout, or patterns that should be authored directly in Figma.
+4. Generate the required image pack before the handoff update. Prefer ChatGPT image generation first; if it fails or cannot produce a suitable result, use the user's currently authorized Figma Generate Image fallback. If that also fails, record the blocker clearly.
+5. Export/supply each asset separately as a downloadable PNG (or the appropriate source format), with a stable, descriptive filename. Do not supply only a contact sheet; a contact sheet may be included as a preview in addition to the individual files.
+6. Provide an asset manifest in the handoff with filename, brand, deliverable, asset number, subject, intended placement/use, aspect ratio and pixel dimensions, generation status, and any relevant prompt/production notes.
+7. Tell the user exactly which files to upload to `00 — Shared Asset Library`. The next agent must verify the uploaded nodes, record their exact Figma node IDs, and source those assets before building.
+8. If no new image is needed, explicitly record `No new image assets required` and why. If an image depends on real product photography, customer/UGC permissions, verified packaging, or other factual material, do not fabricate it; mark it as user-supplied / awaiting source instead.
+
+### Asset filename convention
+
+`BRAND_DELIVERABLE_ASSET-##_SUBJECT_ASPECT-RATIO_v##.png`
+
+Examples:
+
+- `MORROW_G01_ASSET-01_HERO-BAKE-COUNTER_4x5_v01.png`
+- `AURELLE_G02_ASSET-02_SAGE-LEAF-MACRO_3x2_v01.png`
+- `SAVORE_G03_ASSET-01_SHARED-TABLE-HERO_4x5_v01.png`
+
+Use uppercase brand/deliverable codes, two-digit asset sequence numbers, hyphenated subject descriptions, explicit aspect ratios (e.g. `4x5`, `9x16`, `3x2`, `1x1`), and version numbers. Keep names unique and never silently overwrite a prior version.
+
+### Handoff readiness gate
+
+A handoff is not ready until the next deliverable's required image pack is supplied and its manifest is recorded, or the handoff explicitly states why no new image is needed / why source material is blocked. Do not claim manual Figma upload has happened unless the user confirms it or the uploaded nodes are verified in the file.
+
+---
+
+## HANDOFF RULES — REQUIRED FOR EVERY AGENT
+
+1. **This Markdown file is the project source of truth.** Do not rely on previous chat history. Record all project-critical decisions and progress here.
+2. **Read before acting.** Review the Master Brief, Design System, Content Plan, Figma location, Production Status, and Next Action.
+3. **One canonical Figma workspace.** Continue in the exact project and file recorded in Section 4. Never create a new file merely because the agent or session changed.
+4. **Approved creative direction stays approved.** Do not rewrite approved prompts or change the design direction without user instruction. Flag conflicts instead of silently changing decisions.5. **Preproduction is the user's approval checkpoint.** Once the user approves the briefs and prompts, proceed without requesting approval for every individual graphic.
+6. **Update at milestones.** Update the deliverable record and tracker whenever an item is completed, blocked, revised, or materially changed.
+7. **Update before usage limits or session end.** Record the exact stopping point and next action before handing off.
+8. **Verify before marking complete.** An image generation alone is not a completed deliverable. Confirm the design exists in the correct Figma file and passes its checklist.
+9. **Record exact locations.** Record page, frame, node link / ID, and export location for each deliverable.
+10. **Do not invent missing information.** Keep unverified prices, claims, product specifications, dates, testimonials, and contact details as placeholders.
+11. **Protect completed work.** Do not redo, overwrite, or reorganize finished designs unless instructed or necessary; document any necessary changes.
+12. **Edit this file in place.** Do not create competing handoff files or scatter status across separate documents.
+13. **Resolve conflicts carefully.** Check the actual Figma file and latest milestone. If unresolved, document the conflict and ask the user only when needed.
+14. **The handoff is not complete until this file is updated and returned to the user** as the latest downloadable Markdown version.
+
+---
+
+**END OF SIX-BRAND PROJECT HANDOFF**
+
+
+### Milestone log — 2026-11-22 brand-book correction
+| Date | Owner | Work completed | Figma references | Notes |
+|---|---|---|---|---|
+| 2026-11-22 (Asia/Manila) | ChatGPT | Established the current Figma brand books as the official identity source of truth; all four books have seven slides including AI explorations and target audience. | Morrow `85:2`; AURELLE `101:5`; O&E `103:5`; SAVORÉ `124:90`. | This entry supersedes older notes saying the revised direction was awaiting greenlight. |
+| 2026-11-22 (Asia/Manila) | ChatGPT | Restored AURELLE and O&E slide 05 mockups to their original source images after an over-broad mockup revision; only SAVORÉ slide 05 remains intentionally changed to an unbranded mockup with editable Figma wordmark/text. | AURELLE `102:138`, `102:142`, `102:146` restored from `101:2`–`101:4`; O&E `105:130`, `105:134`, `105:138` restored from `103:2`–`103:4`; SAVORÉ `124:48`. | Do not change AURELLE/O&E slide 05 images again unless explicitly asked. |
+| 2026-11-22 (Asia/Manila) | ChatGPT | Replaced AURELLE slide 06 AI exploration imagery with sun-disc emblem, graphic language and repeat pattern; updated captions. | Slide `142:29`; image layers `124:16`–`124:18`; source frames `166:2`–`166:4`. | Figma AI assets use the approved white/orange/near-black identity. |
+| 2026-11-22 (Asia/Manila) | ChatGPT | Replaced O&E slide 06 AI exploration imagery with modular symbol, Korean-inspired geometric repeat and object pictogram family; updated captions. | Slide `142:53`; image layers `124:30`–`124:32`; source frames `166:5`–`166:7`. | No generated Hangul or fake text in the image assets. |
+| 2026-11-22 (Asia/Manila) | ChatGPT | Updated this handoff with official palette, typography, voice, visual rules, target audiences, slide IDs and exact mockup correction scope. | This Markdown file. | Brand books now govern all future brand content and collateral. |
