@@ -33,3 +33,11 @@
 - Figma AI image generation was used; credits consumed.
 - AI exploration artwork is reference material only. The editable wordmark and verified product information remain authoritative.
 - **Status:** R1 refined and ready for user review; not yet approved.
+
+
+### Figma refinement status
+
+- **Status:** R1 refined 2026-11-22; pending final visual review and user approval.
+- **Refinements:** Added palette distribution and typography hierarchy cues; logo clear-space guides; scent-family spectrum; application system annotations and disclaimer; visual-exploration metadata.
+- **Canonical Figma file:** https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO
+- **Section:** `171:2`; refined slides `171:20`, `171:49`, `171:67`, `171:89`, `171:111`.
