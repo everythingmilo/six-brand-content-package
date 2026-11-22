@@ -1,6 +1,6 @@
 # FORMA
 
-> Stable brand constants extracted from the Six-Brand Content Package handoff, revision 2026-11-22. The canonical Figma brand book remains the visual authority. These Markdown notes make production rules readable to agents. If this file conflicts with the current approved brand book, flag the conflict; do not silently improvise.
+> Stable brand constants extracted from the Six-Brand Content Package handoff, revision 2026-11-22. FORMA Brand Book R1 has been drafted in the canonical Figma file and remains pending review and user approval. Until approved, treat these notes as the current written direction; flag conflicts rather than silently improvising.
 
 ### FORMA — technical street-performance footwear identity
 
@@ -16,3 +16,11 @@
 **Voice:** Confident, concise, practical, and contemporary. Focus on design, use cases, fit information, and verifiable construction. Avoid unsupported comfort, durability, or performance claims.
 
 **Distinctness rule:** The first impression should be technical street footwear: condensed typography, dynamic geometry, graphite/chalk contrast, and signal-lime detail—not an understated premium footwear campaign.
+
+### Figma brand-book status
+
+- **Status:** R1 draft created 2026-11-22; pending review and user approval.
+- **Canonical file:** https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO
+- **Page:** `06 FORMA` (`1:6`)
+- **Section:** `BRAND BOOK R1 — FORMA — 7-slide identity presentation` (`182:90`)
+- **Slides:** `182:91`, `182:109`, `182:138`, `182:153`, `182:184`, `182:208`, `182:236`.
