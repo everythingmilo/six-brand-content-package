@@ -24,3 +24,12 @@
 - **Page:** `05 OLFACT` (`1:5`)
 - **Section:** `BRAND BOOK R1 — OLFACT — 7-slide identity presentation` (`171:2`)
 - **Slides:** `171:3`, `171:20`, `171:49`, `171:67`, `171:89`, `171:111`, `171:140`.
+
+### Figma R1 updates — 2026-11-22
+
+- Added three visual mockups on slide 05: fragrance discovery kit, signature perfume bottle and digital discovery interface.
+- Added three AI-generated visual explorations on slide 06: orbital identity mark, scent-trail/airflow graphic and botanical ingredient specimen direction.
+- Refined typography, text bounds, palette swatch visibility, image/caption separation and removed redundant placeholder geometry across the book.
+- Figma AI image generation was used; credits consumed.
+- AI exploration artwork is reference material only. The editable wordmark and verified product information remain authoritative.
+- **Status:** R1 refined and ready for user review; not yet approved.
