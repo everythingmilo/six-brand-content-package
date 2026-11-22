@@ -7,7 +7,7 @@
 - **Canonical GitHub repository:** https://github.com/everythingmilo/six-brand-content-package
 - **Visibility:** Public. Do not place secrets, credentials, private customer data, or confidential business information in this repository.
 - **Default branch:** `main`.
-- **Repository status:** Created by the project owner on 2026-11-22; repository metadata and write permission verified through the connected GitHub account. File publishing must be verified commit-by-commit after upload.
+- **Repository status:** Created by the project owner on 2026-11-22; repository metadata and write permission verified through the connected GitHub account. All 18 knowledge-base files are now published on `main`; the repository tree and key file contents have been verified.
 - Start at the repository root `README.md`, then follow `project/AGENT_INSTRUCTIONS.md` in the order it specifies.
 - Stable project knowledge, approved production rules, and brand references live in the repository. This file (`production/HANDOFF.md`) remains the current production status, progress tracker, Figma references, blockers, and next action.
 - If the repository or any required file cannot be accessed, stop and report the exact blocker. Do not substitute chat history or stale local copies for missing current source files.
