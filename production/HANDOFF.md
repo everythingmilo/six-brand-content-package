@@ -269,3 +269,10 @@ A handoff is not ready until the next deliverable's required image pack is suppl
 |---|---|---|---|---|
 | 2026-11-22 (Asia/Manila) | ChatGPT | Added three generated brand-application mockups: discovery kit, signature perfume bottle and digital discovery interface. Rebuilt slide 06 with three AI-generated identity explorations: orbital mark, scent-trail graphic and ingredient specimen art direction. | OLFACT slide 05 `171:89` (images `171:95`, `171:99`, `171:104`); slide 06 `171:111` (images `171:116`–`171:118`). | Generated with Figma AI; AI credits were consumed. Mockup captions are editable Figma text. AI exploration art is exploratory only, not final approved logo artwork. |
 | 2026-11-22 (Asia/Manila) | ChatGPT | Refined OLFACT R1: corrected typography and clipping/overlap on slides 01, 03 and 04; outlined the Midnight swatch on slide 02; separated imagery from captions on slides 05 and 06; removed redundant vector placeholders; visually rechecked all seven slides. | Slides `171:3`, `171:20`, `171:49`, `171:67`, `171:89`, `171:111`, `171:140`. | R1 is a much more complete review draft; still pending user approval. |
+
+
+### Milestone log — 2026-11-22 OLFACT refinement and FORMA R1 draft
+| Date | Owner | Work completed | Figma references | Notes |
+|---|---|---|---|---|
+| 2026-11-22 (Asia/Manila) | ChatGPT | Refined OLFACT R1 with palette distribution/type hierarchy cues, logo clear-space guides, scent-family spectrum, application annotations/disclaimer and exploration metadata. | OLFACT section `171:2`; refined slides `171:20`, `171:49`, `171:67`, `171:89`, `171:111`. | Still a draft pending visual review and user approval. |
+| 2026-11-22 (Asia/Manila) | ChatGPT | Created FORMA Brand Book R1 as seven editable slides on its existing page. | Page `06 FORMA` (`1:6`); section `182:90`; slides `182:91`, `182:109`, `182:138`, `182:153`, `182:184`, `182:208`, `182:236`. | Uses documented Chalk/Graphite/Signal Lime palette and Barlow Condensed/Inter/Space Mono. Draft pending review and approval. |
