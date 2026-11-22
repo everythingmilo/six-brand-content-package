@@ -1,6 +1,6 @@
 # OLFACT
 
-> Stable brand constants extracted from the Six-Brand Content Package handoff, revision 2026-11-22. The canonical Figma brand book remains the visual authority. These Markdown notes make production rules readable to agents. If this file conflicts with the current approved brand book, flag the conflict; do not silently improvise.
+> Stable brand constants extracted from the Six-Brand Content Package handoff, revision 2026-11-22. OLFACT Brand Book R1 is now drafted in the canonical Figma file but remains pending review and user approval. Until approved, treat these notes as the current written direction; flag conflicts rather than silently improvising.
 
 ### OLFACT — nocturnal fragrance-lab / sensory archive identity
 
@@ -16,3 +16,11 @@
 **Voice:** Sensory, evocative, specific, and knowledgeable. Explain how notes smell and combine in plain language. Avoid unsupported longevity, projection, ingredient safety, or authenticity claims.
 
 **Distinctness rule:** The first impression should be a dark fragrance archive/lab with ultraviolet accent and technical note graphics—not warm beige luxury perfume editorial.
+
+### Figma brand-book status
+
+- **Status:** R1 draft created 2026-11-22; pending review and user approval.
+- **Canonical file:** https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO
+- **Page:** `05 OLFACT` (`1:5`)
+- **Section:** `BRAND BOOK R1 — OLFACT — 7-slide identity presentation` (`171:2`)
+- **Slides:** `171:3`, `171:20`, `171:49`, `171:67`, `171:89`, `171:111`, `171:140`.
