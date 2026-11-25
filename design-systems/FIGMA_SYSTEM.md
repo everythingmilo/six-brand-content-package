@@ -12,12 +12,26 @@
 | Canonical Figma file URL | https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO |
 | File key / ID | `GHxufDzAW3ReOPcm4oqBUO` |
 | Production pages | One page per brand: `01 Morrow Bakehouse` (0:1) · `02 AURELLE Skin` (1:2) · `03 Objects & Elsewhere` (1:3) · `04 SAVORÉ Table` (1:4) · `05 OLFACT` (1:5) · `06 FORMA` (1:6) |
-| References / assets page | No separate page yet. Generated source photos currently sit as frames named “Generated Image” at the top-left of page `01 Morrow Bakehouse` (see asset table below). All generated images for every brand land on page 01 first; move or reference them from there. |
+| References / assets page | `00 — Shared Asset Library` (`104:2`); use it for shared source assets where appropriate. Confirm actual placement and node IDs before relying on any asset. |
 | Archive / completed page | None created |
 
-**Existing source imagery:** The existing source photos and AI-generated concept assets were created under the previous design direction. Treat them as legacy references, not automatically approved assets for the redesign. Reuse only where they fit the revised brand system and accurately represent the product/food; otherwise create new brand-correct imagery. Section 5 records the user's current authorization to use Figma `generate_image` for new assets; that instruction is the one in force (it supersedes the earlier ChatGPT-only rule). Generated frames land on whichever page was last open, so move them to page 01 when done.
+**Existing source imagery:** The existing source photos and AI-generated concept assets were created under earlier directions. Treat them as legacy references, not automatically approved assets for a redesign. Reuse only when they fit the current brand system and accurately represent the product; otherwise make new brand-correct concepts. Figma AI and Weave may use paid credits: **do not use either without the user's explicit cost approval**. For requested AI exploration, use an authorized non-paid image-generation route where available, then import the concepts to the correct brand page. Keep logos and key copy as editable Figma layers. Concept imagery must not imply verified product specifications or performance claims.
 
 **Legacy layout convention:** existing deliverables use one Section named `ID · type — use case` with 1080×1350 feed frames and 1080×1920 story frames. This convention does not cover the revised print, packaging, signage, or e-commerce assets. For the revised work, size each collateral item for its actual use and record the intended output dimensions. Verify the revised font families in Figma before production; availability has not yet been checked for the new brand systems.
+
+## Brand-book format standard — Morrow base, plus explorations and audience
+
+Use the first Morrow brand book as the composition and pacing reference for every new or rebuilt brand book. Preserve each brand's own visual identity. The seven-slide sequence is:
+
+1. **Brand idea and positioning:** one clear idea, audience promise, and a strong conceptual hero image.
+2. **Color, typography, and voice:** palette behavior, type roles, and concise writing guidance.
+3. **Logo system:** primary mark, variations, clear space, legibility, and usage examples. Keep the final logo master editable; label unapproved directions as concepts.
+4. **Graphic language:** show repeatable graphic devices through composed studies, not explanatory annotation piles.
+5. **Brand applications:** a photo-led board of three coherent mockups or real touchpoints, following Morrow's image-rich treatment. Use actual approved assets when available. If actual product assets are unavailable, use clearly conceptual generic visuals and label them as such; do not imply a real model, material, construction, technology, fit benefit, or performance claim.
+6. **AI visual explorations:** a separate image-led board with three distinct routes (for example, mark direction, graphic language, and campaign art direction). Label the imagery exploratory, not final artwork or product reference. Do not substitute empty vector cards or annotations for the image explorations the format calls for. Do not use paid Figma AI or Weave without explicit cost approval.
+7. **Target audience:** one primary audience idea with concise audience profiles or behaviors; label unresearched profiles as hypotheses to validate.
+
+Keep the book cohesive, polished, and visually composed throughout. Rebuild the layouts to this sequence rather than layering notes onto an older draft. The approved OLFACT book remains a quality reference; Morrow is the preferred layout reference.
 
 **Generated asset frames (page 01, temporary, do not delete until all dependent frames are done):**
 
@@ -49,18 +63,19 @@
 ### Suggested page organization (only if it matches the existing file; do not reorganize automatically)
 
 - One page per brand: Morrow Bakehouse, AURELLE Skin, Objects & Elsewhere, SAVORÉ Table, OLFACT, FORMA.
-- Optional shared references / assets page.
+- Use the existing shared asset page `00 — Shared Asset Library` (`104:2`) where shared source material belongs.
 - Keep each deliverable in a clearly named frame using its ID (e.g. `G01 — Brand awareness / feed`, `V09 — Craft / process storytelling`).
 
-### Continuation point — revised rebrand hold
+### Continuation point — current FORMA review state (2026-11-25)
 
-- **Last verified Figma page:** `04 SAVORÉ Table` (1:4); generated hero source image 63:2 exists. The last full deliverable visually checked before this replan was Objects & Elsewhere V10, section 62:2.
-- **Figma state:** Existing designs and generated images have not been changed as part of this handoff revision. Morrow, AURELLE, and Objects & Elsewhere each have legacy G01–G08 layouts and V09/V10 storyboards; SAVORÉ has a G01 hero image only. OLFACT and FORMA remain unbuilt.
-- **Next action:** Wait for the user's explicit greenlight to begin the revised content plan. Do not start or continue the old SAVORÉ G01 layout before that greenlight.
-- **After greenlight:** Create new revision sections on the corresponding existing brand pages. Use revision naming such as `G01 R2 — TOFU — Brand discovery — Instagram feed poster`. Preserve old sections; never overwrite legacy work.
-- **Existing components / styles to reuse:** No shared component library has been verified. Build the new brand systems distinctly; do not reuse old visual components merely for convenience.
-- **Known access issues:** None noted. Figma image generation works; AI credit use should remain purposeful.
-
+- **Last visually verified section:** FORMA Brand Book R2 on page 06 FORMA (1:6), section 194:2; all seven slides were reviewed individually after the latest image placement.
+- **Image-led applications:** slide 194:127; conceptual mockup image fill 194:133.
+- **AI visual explorations:** slide 194:158; conceptual exploration image fill 194:164.
+- **Review state:** FORMA R2 remains a draft pending explicit owner approval. The audience profiles are hypotheses to validate.
+- **Production state:** 0/60 revised production deliverables are complete. Keep the 60 deliverables on hold until the required approval.
+- **Next action:** owner review of FORMA R2; do not mark it approved or start production before explicit approval.
+- **Cost guardrail:** no paid Figma AI or Weave without explicit cost approval.
+- **Existing components / styles to reuse:** no shared component library has been verified. Build the new brand systems distinctly.
 ### Figma continuity rules
 
 - Open the canonical Figma URL recorded above before production.
@@ -70,4 +85,5 @@
 - Record the exact page, frame, and node link / ID for every deliverable created or updated.
 - Preserve existing work as legacy reference. Under the revised plan, create new revision sections only after the user greenlights; do not overwrite, delete, or silently modify old work.
 - If the canonical file cannot be accessed, stop and report the issue. Do not create a replacement.
+- Explicit user instructions for a specific rebuild or replacement take precedence over the general legacy-preservation rule; record the exact changed nodes and preserve unrelated work.
 - Only create a new page or file when the user explicitly instructs it or the existing workspace genuinely requires it; document the reason.
