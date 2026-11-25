@@ -12,11 +12,11 @@
 - Stable project knowledge, approved production rules, and brand references live in the repository. This file (`production/HANDOFF.md`) remains the current production status, progress tracker, Figma references, blockers, and next action.
 - If the repository or any required file cannot be accessed, stop and report the exact blocker. Do not substitute chat history or stale local copies for missing current source files.
 
-## Latest verified continuity update — 2026-11-22
+## Latest verified continuity update — 2026-11-25
 
-The following Figma changes were completed and verified in the canonical file: [Six-Brand Content Package](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO).
+The following Figma changes were completed and verified in the canonical file: [Six-Brand Content Package](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO). This update adds the latest FORMA status; earlier milestones below remain historical records.
 
-- **AURELLE, slide 05:** Original mockup imagery restored. Do not alter this slide's mockups unless explicitly requested.
+- **FORMA, brand book R2:** Rebuilt as seven editable slides on page `06 FORMA`; section `194:2`, slides `194:3`, `194:22`, `194:60`, `194:87`, `194:127`, `194:158`, `194:198`. Overview visual inspection completed; owner review and explicit approval remain outstanding.\n- **Cost and asset guardrail:** No paid Figma AI or Weave operations were used for FORMA R2. Do not use paid Figma AI or Weave without explicit cost approval.\n- **AURELLE, slide 05:** Original mockup imagery restored. Do not alter this slide's mockups unless explicitly requested.
 - **Objects & Elsewhere, slide 05:** Original mockup imagery restored. Do not alter this slide's mockups unless explicitly requested.
 - **SAVORÉ, slide 05:** Only this brand's slide 05 mockup was intentionally changed. Keep the clean mockup surface and editable Figma wordmark/text overlay; do not propagate this mockup change to other brands.
 - **AURELLE, slide 06 — AI visual explorations:** Updated three visual explorations (sun-disc emblem, graphic language, repeat pattern) and aligned captions. Frame `142:29`; image nodes `124:16`, `124:17`, `124:18`.
@@ -203,7 +203,7 @@ The following Figma changes were completed and verified in the canonical file: [
 1. Identify the exact next deliverable from the current project state and approved brief. Do not generate assets for speculative future tasks.
 2. Inspect the brief and existing Figma assets. Reuse approved existing assets where they fit; do not create duplicates.
 3. List only the new visual assets the next deliverable actually requires. Do not generate assets for editable vector logos, typography, layout, or patterns that should be authored directly in Figma.
-4. Generate the required image pack before the handoff update. Prefer ChatGPT image generation first; if it fails or cannot produce a suitable result, use the user's currently authorized Figma Generate Image fallback. If that also fails, record the blocker clearly.
+4. Generate the required image pack before the handoff update using an authorized non-paid image-generation route where suitable. Use paid Figma Generate Image or Weave only after explicit cost approval. If no authorized route is available, record the blocker clearly.
 5. Export/supply each asset separately as a downloadable PNG (or the appropriate source format), with a stable, descriptive filename. Do not supply only a contact sheet; a contact sheet may be included as a preview in addition to the individual files.
 6. Provide an asset manifest in the handoff with filename, brand, deliverable, asset number, subject, intended placement/use, aspect ratio and pixel dimensions, generation status, and any relevant prompt/production notes.
 7. Tell the user exactly which files to upload to `00 — Shared Asset Library`. The next agent must verify the uploaded nodes, record their exact Figma node IDs, and source those assets before building.
