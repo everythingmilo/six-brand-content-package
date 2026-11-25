@@ -11,3 +11,9 @@
 - Added mandatory agent startup and source-of-truth instructions.
 - Added verified Figma continuity notes for AURELLE/O&E mockup restoration, SAVORÉ-only mockup change, and AURELLE/O&E AI exploration updates.
 - Preserved the complete original handoff archive and six separate brand reference files.
+
+## 2026-11-25 — Morrow R2 kickoff
+- Built and visually reviewed Morrow G01–G08 and conceptual storyboards V09–V10 in the canonical Figma file.
+- Added clear concept labels to photo-based product visuals and packaging mockups; marked working menu prices, offers, assortment and process details for verification.
+- Corrected G02's opening layout and G03's story canvas; left legacy Morrow sections intact.
+- Recorded 10 design-complete items; no final release approval or export has been recorded. No paid Figma AI or Weave operation was used.
