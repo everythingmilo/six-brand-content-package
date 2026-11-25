@@ -42,10 +42,9 @@ Keep the book cohesive, polished, and visually composed throughout. Rebuild the 
 | 3:3 | Almond croissant + coffee | G02 S2/S4/S5, G06 F3 |
 | 3:4 | Pear & almond danish | G03 feed + story |
 | 3:5 | Croissant + flat white (9:16) | G04 |
-| 3:6 / 3:7 / 3:8 | Dough folding / shaping / scored loaf | G05 |
-| 3:9 | Overhead coffee + pastry, space for card | G07, G02 S4 |
-| 3:10 / 3:11 / 3:12 | Closed gift box / open box / hands passing | Morrow G08 (built) |
-| 3:13 / 3:14 / 6:2 | Flour falling / loaf into oven / empty plate set (9:16) | V09, V10 (storyboards built) |
+| 3:6 / 3:7 / 3:8 | Existing dough-handling and baked-item reference stills | Morrow V09 storyboard (concept reference only; bakery process must be verified) |
+| 3:3 / 3:5 / 3:9 / 3:2 / 1:7 | Existing pastry, coffee and assortment reference stills | Morrow G02/G03/V09/V10 concept visuals; approved menu imagery is still required |
+| 3:10 / 3:11 / 3:12 | Closed gift box / open box / hands passing (legacy source references; verify node presence before use) | Morrow G08 concept only; replace with approved packaging/product photography |
 | 23:10 | AURELLE: cheek/shoulder with frosted bottle on stone ledge (4:5), top-left left blank | AURELLE G01 |
 | 25:2 | AURELLE: macro sage leaf with water droplets on oat limestone (4:3) | AURELLE G02 S2 |
 | 27:2 | AURELLE: frosted bottle on oat stone plinth with water ripple (4:5), left third blank | AURELLE G03, G04 S4 (cropped) |
@@ -66,16 +65,17 @@ Keep the book cohesive, polished, and visually composed throughout. Rebuild the 
 - Use the existing shared asset page `00 — Shared Asset Library` (`104:2`) where shared source material belongs.
 - Keep each deliverable in a clearly named frame using its ID (e.g. `G01 — Brand awareness / feed`, `V09 — Craft / process storytelling`).
 
-### Continuation point — current FORMA review state (2026-11-25)
+### Continuation point — current review and production state (2026-11-25)
 
-- **Last visually verified section:** FORMA Brand Book R2 on page 06 FORMA (1:6), section 194:2; all seven slides were reviewed individually after the latest image placement.
-- **Image-led applications:** slide 194:127; conceptual mockup image fill 194:133.
-- **AI visual explorations:** slide 194:158; conceptual exploration image fill 194:164.
-- **Review state:** FORMA R2 remains a draft pending explicit owner approval. The audience profiles are hypotheses to validate.
-- **Production state:** 0/60 revised production deliverables are complete. Keep the 60 deliverables on hold until the required approval.
-- **Next action:** owner review of FORMA R2; do not mark it approved or start production before explicit approval.
+- **FORMA R2:** Approved by the owner on 2026-11-25. Page 06 FORMA (1:6), section 194:2; seven editable slides reviewed individually. Application and exploration images remain conceptual. No paid Figma AI/Weave was used for those R2 visual sheets.
+- **Morrow R2 production set:** The first 10 items were authorized, built, and visually reviewed in the existing file. The eight graphic items and two conceptual video storyboards are design-complete, pending owner review and business detail verification.
+- **Exact Morrow sections:** G01 210:2 (frame 210:3); G02 211:2; G03 211:64; G04 211:85; G05 212:2; G06 212:51; G07 212:85; G08 212:146; V09 216:2; V10 216:59 on page 01 Morrow Bakehouse (0:1).
+- **Business checks before release:** Menu item names/availability and sample prices (₱95/₱125/₱110/₱145), Morning Set offer and ₱220, Weekend Box contents/₱620, and process statements all require Morrow confirmation. Concept photos and video reference stills are labeled; replace with approved product photography/real footage.
+- **Tracker:** 10/60 design-complete; 0/60 final-approved. Remaining 50 deliverables are not included in this kickoff. Previous Morrow sections remain preserved as legacy references.
+- **Next action:** Owner review of Morrow R2, and confirmation of working menu, offer, assortment, and process details. Then prepare final production exports; do not extend scope beyond the authorized Morrow 10 without direction.
 - **Cost guardrail:** no paid Figma AI or Weave without explicit cost approval.
 - **Existing components / styles to reuse:** no shared component library has been verified. Build the new brand systems distinctly.
+
 ### Figma continuity rules
 
 - Open the canonical Figma URL recorded above before production.
