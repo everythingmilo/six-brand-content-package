@@ -28,7 +28,7 @@ The following Figma changes were completed and verified in the canonical file: [
 
 ## 5. PRODUCTION STATUS
 
-### Current status — brand-book phase in progress; 60-deliverable production remains on hold
+### Current status — FORMA R2 review draft complete; production remains on hold
 
 | Metric | Count |
 |---|---:|
@@ -41,15 +41,17 @@ The following Figma changes were completed and verified in the canonical file: [
 | Approved | 0 |
 | Blocked | 0 |
 
-**Legacy work still exists in Figma:** 24 old graphic layouts + 6 old video storyboards + 1 SAVORÉ G01 source image = 31 items. None were modified during this replan. They are marked `Needs revision` because the new brand systems and content architecture supersede their old visual treatment and/or content purpose. The remaining 29 deliverables (SAVORÉ G02–V10, all OLFACT items, and all FORMA items) have not been started.
+**Legacy work still exists in Figma:** 24 old graphic layouts + 6 old video storyboards + 1 SAVORÉ G01 source image = 31 items. They remain marked `Needs revision`; none were changed in this task. The remaining 29 production items have not been started.
 
-**Revised production completion:** 0 / 60 under the new direction. This is a deliberate reset of the approval/completion count, not a claim that the prior Figma work disappeared. No revised asset has been built or approved yet.
+**Production completion:** 0 / 60 under the revised direction. The FORMA brand-book rebuild is a brand-book milestone, not one of the 60 production deliverables. No production deliverable was built or approved.
 
-**Per brand:** Morrow Bakehouse 10/10 require a new revision (8 existing graphics + 2 storyboards) · AURELLE Skin 10/10 require a new revision (8 existing graphics + 2 storyboards) · Objects & Elsewhere 10/10 require a new revision (8 existing graphics + 2 storyboards) · SAVORÉ Table G01 has an existing source image only and requires a new branded layout; G02–V10 are not started · OLFACT 0/10 built · FORMA 0/10 built.
+**Per brand:** Morrow Bakehouse 10/10 require revision · AURELLE Skin 10/10 require revision · Objects & Elsewhere 10/10 require revision · SAVORÉ Table G01 has an existing source image and needs a new branded layout; G02–V10 not started · OLFACT production 0/10 · FORMA production 0/10.
 
-**Current phase:** Complete and review all six brand books before starting the 60 deliverables. Do not begin campaign asset production yet. SAVORÉ has a seven-slide brand book with populated copy and the expected sections; the inspected structure/text shows no missing slide or visible placeholder copy. Final visual review and user approval remain. OLFACT's first seven-slide R1 draft has now been created on page `05 OLFACT`; it is editable text/vector construction and is not yet approved. FORMA remains the next brand book to build after OLFACT review. The 60-deliverable tracker remains at 0/60 under the revised direction.  
-**Last milestone:** Revised six-brand visual systems, funnel map, platform/use labels, 60 deliverable concepts, working content data, and per-brand redesign checklists added to this Markdown handoff. No Figma changes made.  
-**Last updated:** 2026-11-22 (Asia/Manila). Figma continuity update and repository migration notes verified.
+**Brand-book phase:** FORMA R2 has seven editable slides on page `06 FORMA` and has passed an overview visual inspection. It remains a review draft pending owner approval. The user identified the approved OLFACT book as the visual quality reference; OLFACT was not changed in this task. Do not mark FORMA approved or begin the 60 production deliverables.
+
+**Last milestone:** Rebuilt and overview-checked FORMA Brand Book R2 in the existing Figma file. Figma section `194:2`; slides `194:3`, `194:22`, `194:60`, `194:87`, `194:127`, `194:158`, `194:198`. No paid Figma AI/Weave operation or new raster image asset was used.
+
+**Last updated:** 2026-11-25 (Asia/Manila).
 
 ### Deliverable tracker
 
@@ -141,25 +143,24 @@ The following Figma changes were completed and verified in the canonical file: [
 
 ### Outstanding decisions / dependencies
 
-- ~~Confirm the canonical Figma project and file URL~~ — recorded in Section 4. Optionally move the file from Drafts into a project.
-- **Image-generation rule (current instruction):** The user has authorized Figma `generate_image` for now. Use it for new Figma-bound visual assets when suitable; continue reusing existing approved source photos where the brief permits. This supersedes the earlier ChatGPT-only image-generation preference for the current production phase.
-- **Revised-direction approval:** The new six-brand systems and content architecture are documented in this handoff but are not yet greenlit for Figma execution. Wait for the user to explicitly authorize the redesign.
-- After greenlight, confirm which working sample products, ingredients, prices, dish names, sizes, bundle contents, and copy should be replaced with actual business facts before public release.
-- Source actual product photography, packaging references, logo files, current menus, product formulations/spec sheets, sizing charts, creator/customer permissions, and store/booking destinations as needed.
-- Review Korean translations with a fluent reader and review Filipino cultural motifs against accurate references before production.
+- **Brand-book approval:** FORMA R2 is awaiting owner review and explicit approval. Do not start production while required brand-book approvals are outstanding.
+- **Image and cost rule:** Do not use paid Figma AI or Weave operations without explicit cost approval. FORMA R2 used editable vector artwork and no paid generation.
+- Before public release, verify all product specifications, fit details, materials, prices, inventory, and claims against current business sources.
+- Source actual product photography, packaging references, logo files, product specifications, sizing charts, customer permissions, and store destinations as required for future production.
+- Review Korean translations with a fluent reader and Filipino cultural motifs against accurate references before publication.
 
 ## 6. NEXT ACTION
 
-### Immediate next action — finish the six brand books before production
+### Immediate next action — owner review of FORMA R2
 
-- **Next agent:** Any — continue the brand-book phase in the existing canonical Figma file.
-- **Next task:** Review OLFACT Brand Book R1 on page `05 OLFACT` (section `171:2`, slides `171:3`, `171:20`, `171:49`, `171:67`, `171:89`, `171:111`, `171:140`), refine if needed, then get user approval. After OLFACT, build the FORMA brand book. Do not begin the 60 campaign/collateral deliverables until all six brand books are complete and approved.
+- **Next task:** Review the seven-slide FORMA R2 brand book and provide explicit approval or requested revisions. Do not start any of the 60 campaign/collateral deliverables until the required brand-book approvals are in place.
 - **Figma file:** https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO — file key `GHxufDzAW3ReOPcm4oqBUO`.
-- **Page mapping:** Morrow `01 Morrow Bakehouse` (0:1) · AURELLE `02 AURELLE Skin` (1:2) · Objects & Elsewhere `03 Objects & Elsewhere` (1:3) · SAVORÉ `04 SAVORÉ Table` (1:4) · OLFACT `05 OLFACT` (1:5) · FORMA `06 FORMA` (1:6).
-- **Current state:** Brand books are still being completed. Four books (Morrow, AURELLE, Objects & Elsewhere, SAVORÉ) were present before this session. SAVORÉ's seven-slide structure and copy were checked; no missing slide or placeholder copy was found in the inspected content. OLFACT R1 has now been drafted. FORMA is still outstanding. Treat OLFACT as a draft pending review, not an approved final.
-- **Revised direction:** Section 2 contains the six differentiated systems; Section 3 contains the new TOFU/MOFU/BOFU content map and per-brand checklists. The old long-form briefs are retained as an archive, explicitly superseded.
-- **Brand-book sequence:** (1) review/refine OLFACT R1; (2) build and review FORMA; (3) confirm all six brand books with the user; (4) only then start the 60-deliverable production plan.
-- **Working sample content:** Concrete example products, menu items, ingredients, and prices exist to make designs visually complete during the first pass. They are design assumptions only and must not be represented as verified live inventory/formulations/pricing.
+- **FORMA:** Page `06 FORMA` (`1:6`); section `194:2`; slides `194:3`, `194:22`, `194:60`, `194:87`, `194:127`, `194:158`, `194:198`.
+- **Visual reference:** OLFACT Brand Book R1 on page `05 OLFACT`, section `171:2`, slides `171:3`, `171:20`, `171:49`, `171:67`, `171:89`, `171:111`, `171:140`. The current user identified OLFACT as approved and as the quality reference; it was not edited.
+- **Page mapping:** Morrow `01 Morrow Bakehouse` (`0:1`) · AURELLE `02 AURELLE Skin` (`1:2`) · Objects & Elsewhere `03 Objects & Elsewhere` (`1:3`) · SAVORÉ `04 SAVORÉ Table` (`1:4`) · OLFACT `05 OLFACT` (`1:5`) · FORMA `06 FORMA` (`1:6`).
+- **Current count:** 0/60 production deliverables complete or approved. Brand-book review is separate from the 60-item production tracker.
+- **Assets:** No new image assets required for the next action: review/approval of the editable brand book. No Figma AI/Weave operations were used for R2. Do not use paid Figma AI or Weave without explicit cost approval.
+- **Working sample content:** Any example products, ingredients, prices, sizes, bundles, and copy elsewhere in the project remain design assumptions until verified against actual business facts.
 
 ### Handoff checklist — outgoing agent
 
@@ -276,3 +277,9 @@ A handoff is not ready until the next deliverable's required image pack is suppl
 |---|---|---|---|---|
 | 2026-11-22 (Asia/Manila) | ChatGPT | Refined OLFACT R1 with palette distribution/type hierarchy cues, logo clear-space guides, scent-family spectrum, application annotations/disclaimer and exploration metadata. | OLFACT section `171:2`; refined slides `171:20`, `171:49`, `171:67`, `171:89`, `171:111`. | Still a draft pending visual review and user approval. |
 | 2026-11-22 (Asia/Manila) | ChatGPT | Created FORMA Brand Book R1 as seven editable slides on its existing page. | Page `06 FORMA` (`1:6`); section `182:90`; slides `182:91`, `182:109`, `182:138`, `182:153`, `182:184`, `182:208`, `182:236`. | Uses documented Chalk/Graphite/Signal Lime palette and Barlow Condensed/Inter/Space Mono. Draft pending review and approval. |
+
+
+### Milestone log — 2026-11-25 FORMA R2 rebuild
+| Date | Owner | Work completed | Figma references | Notes |
+|---|---|---|---|---|
+| 2026-11-25 (Asia/Manila) | ChatGPT | Rebuilt FORMA as a cohesive seven-slide editable brand book and visually inspected the full section overview. | Existing file, page `06 FORMA` (`1:6`); section `194:2`; slides `194:3`, `194:22`, `194:60`, `194:87`, `194:127`, `194:158`, `194:198`. | R2 is pending owner review and explicit approval. It is not approved. The audience profiles are hypotheses to validate. Footwear, packaging, and application artwork are labeled conceptual; no product specs or performance claims were invented. No paid Figma AI/Weave operations or new raster image assets were used. Production tracker remains 0/60; no production deliverables were started. Next action: owner review/approval of FORMA R2. |
