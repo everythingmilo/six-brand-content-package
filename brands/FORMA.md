@@ -1,6 +1,6 @@
 # FORMA
 
-> Stable brand direction for the Six-Brand Content Package. FORMA Brand Book R2 was rebuilt and visually reviewed in the canonical Figma file on 2026-11-25. It remains pending owner review and explicit approval. Until approved, treat this as a review draft.
+> Stable brand direction for the Six-Brand Content Package. FORMA Brand Book R2 was rebuilt and visually reviewed in the canonical Figma file on 2026-11-25. The owner approved R2 on 2026-11-25. Treat it as the current approved FORMA brand-book direction.
 
 ### FORMA — technical street-performance footwear identity
 
@@ -19,7 +19,7 @@
 
 ### Brand-book status
 
-- **Status:** R2 rebuilt and overview-checked 2026-11-25; pending owner review and explicit approval. Not approved.
+- **Status:** R2 approved by the owner on 2026-11-25.
 - **Canonical file:** https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO
 - **Page:** `06 FORMA` (`1:6`)
 - **Section:** [BRAND BOOK R2 — FORMA — 7-slide identity presentation](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=194-2) (`194:2`)
@@ -32,5 +32,5 @@
 - The audience profiles are strategic hypotheses labeled for validation with customer research.
 - Product materials, technologies, cushioning, fit benefits, performance claims, and model-specific construction details were not invented.
 - No paid Figma AI or Weave operations were used. The two conceptual image sheets were generated with a non-paid image-generation route and imported through standard Figma image placement.
-- **Visual verification:** individually reviewed all seven slides after the slide 05–06 image changes, then rechecked those two finished compositions. Final owner review and approval remain.
+- **Visual verification:** individually reviewed all seven slides after the slide 05–06 image changes, then rechecked those two finished compositions. The owner approved the book on 2026-11-25.
 - The 60 campaign/collateral deliverables remain on hold; this brand-book work does not change their tracker status.
