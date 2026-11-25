@@ -14,17 +14,22 @@
 
 ## Latest verified continuity update — 2026-11-25
 
-The following Figma changes were completed and verified in the canonical file: [Six-Brand Content Package](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO). This update adds the latest FORMA status; earlier milestones below remain historical records.
+The following Figma changes were completed and visually verified in the canonical file: [Six-Brand Content Package](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO). Earlier milestones below remain historical records.
 
-- **FORMA, brand book R2:** Rebuilt as seven editable slides on page `06 FORMA`; section `194:2`, slides `194:3`, `194:22`, `194:60`, `194:87`, `194:127`, `194:158`, `194:198`. Overview visual inspection completed; owner review and explicit approval remain outstanding.\n- **Cost and asset guardrail:** No paid Figma AI or Weave operations were used for FORMA R2. Do not use paid Figma AI or Weave without explicit cost approval.\n- **AURELLE, slide 05:** Original mockup imagery restored. Do not alter this slide's mockups unless explicitly requested.
+- **FORMA, brand book R2:** Seven-slide review draft on page 06 FORMA; section 194:2; slides 194:3, 194:22, 194:60, 194:87, 194:127, 194:158, and 194:198. All seven slides were individually reviewed after the latest refinements. Owner review and explicit approval remain outstanding.
+- **FORMA, slide 05 — brand applications:** Morrow-style image-led conceptual application board on slide 194:127; image fill 194:133. It shows concept packaging/hangtag, generic footwear, and studio product imagery. The slide says no FORMA model or product specification is depicted.
+- **FORMA, slide 06 — AI visual explorations:** Three-panel image fill 194:164 on slide 194:158, with logo direction, graphic language, and campaign art direction. Labeled exploratory, not final artwork or product reference. A leftover image overlay label was removed during visual refinement.
+- **FORMA, format rule:** The user's preferred composition reference is the first Morrow brand book, extended with dedicated AI visual exploration and target-audience slides. The reusable seven-slide standard is recorded in design-systems/FIGMA_SYSTEM.md.
+- **FORMA cost and asset guardrail:** The two conceptual image sheets used a non-paid image-generation route and standard Figma image placement. No paid Figma AI or Weave operations were used; do not use them without explicit cost approval.
+- **AURELLE, slide 05:** Original mockup imagery restored. Do not alter this slide's mockups unless explicitly requested.
 - **Objects & Elsewhere, slide 05:** Original mockup imagery restored. Do not alter this slide's mockups unless explicitly requested.
-- **SAVORÉ, slide 05:** Only this brand's slide 05 mockup was intentionally changed. Keep the clean mockup surface and editable Figma wordmark/text overlay; do not propagate this mockup change to other brands.
-- **AURELLE, slide 06 — AI visual explorations:** Updated three visual explorations (sun-disc emblem, graphic language, repeat pattern) and aligned captions. Frame `142:29`; image nodes `124:16`, `124:17`, `124:18`.
-- **Objects & Elsewhere, slide 06 — AI visual explorations:** Updated three visual explorations (modular select-shop symbol, Korean-inspired geometric pattern, object pictogram family) and aligned captions. Frame `142:53`; image nodes `124:30`, `124:31`, `124:32`. No fake Hangul or invented decorative text was used.
-- The brand books remain the visual source of truth. Keep typography, logos, and key copy editable in Figma; generated imagery is not a substitute for editable brand assets.
-- These brand-book/AI-exploration updates do not count as completed items in the 60-deliverable production tracker unless a specific deliverable is separately built, QA'd, and approved.
+- **SAVORÉ, slide 05:** The earlier user-requested mockup change remains specific to SAVORÉ. Keep its clean mockup surface and editable Figma wordmark/text overlay; do not propagate it to other brands.
+- **AURELLE, slide 06 — AI visual explorations:** Updated three visual explorations (sun-disc emblem, graphic language, repeat pattern) and aligned captions. Frame 142:29; image nodes 124:16, 124:17, 124:18.
+- **Objects & Elsewhere, slide 06 — AI visual explorations:** Updated three visual explorations (modular select-shop symbol, Korean-inspired geometric pattern, object pictogram family) and aligned captions. Frame 142:53; image nodes 124:30, 124:31, 124:32. No fake Hangul or invented decorative text was used.
+- Keep typography, logos, and key copy editable in Figma; generated imagery is not a substitute for editable brand assets.
+- Brand-book and AI-exploration work does not count toward the 60-item production tracker unless a specific deliverable is separately built, QA'd, and approved.
 
-**Correction guardrail:** The user specifically requested that only SAVORÉ's slide 05 mockup be changed. AURELLE and Objects & Elsewhere slide 05 mockups were restored. Never repeat the earlier mistake of changing all brands' mockups together.
+**Historical correction guardrail (2026-11-22):** A prior request limited that day's slide 05 mockup changes to SAVORÉ and required AURELLE and Objects & Elsewhere to be restored. This did not restrict the user's later, explicit FORMA R2 rebuild request.
 
 ## 5. PRODUCTION STATUS
 
@@ -47,9 +52,9 @@ The following Figma changes were completed and verified in the canonical file: [
 
 **Per brand:** Morrow Bakehouse 10/10 require revision · AURELLE Skin 10/10 require revision · Objects & Elsewhere 10/10 require revision · SAVORÉ Table G01 has an existing source image and needs a new branded layout; G02–V10 not started · OLFACT production 0/10 · FORMA production 0/10.
 
-**Brand-book phase:** FORMA R2 has seven editable slides on page `06 FORMA` and has passed an overview visual inspection. It remains a review draft pending owner approval. The user identified the approved OLFACT book as the visual quality reference; OLFACT was not changed in this task. Do not mark FORMA approved or begin the 60 production deliverables.
+**Brand-book phase:** FORMA R2 has seven editable slides on page `06 FORMA`; all were individually reviewed after the latest refinements, including image-led application and exploration slides. It remains a review draft pending owner approval. The user prefers the first Morrow book's composition and identified approved OLFACT as a quality reference; neither reference book was changed. Do not mark FORMA approved or begin the 60 production deliverables.
 
-**Last milestone:** Rebuilt and overview-checked FORMA Brand Book R2 in the existing Figma file. Figma section `194:2`; slides `194:3`, `194:22`, `194:60`, `194:87`, `194:127`, `194:158`, `194:198`. No paid Figma AI/Weave operation or new raster image asset was used.
+**Last milestone:** Refined FORMA R2 slides 05–06 to use Morrow-style image-led applications and three AI visual explorations. Figma section `194:2`; applications image fill `194:133`; exploration image fill `194:164`. The visuals are conceptual only. No paid Figma AI/Weave operation was used.
 
 **Last updated:** 2026-11-25 (Asia/Manila).
 
@@ -144,7 +149,7 @@ The following Figma changes were completed and verified in the canonical file: [
 ### Outstanding decisions / dependencies
 
 - **Brand-book approval:** FORMA R2 is awaiting owner review and explicit approval. Do not start production while required brand-book approvals are outstanding.
-- **Image and cost rule:** Do not use paid Figma AI or Weave operations without explicit cost approval. FORMA R2 used editable vector artwork and no paid generation.
+- **Image and cost rule:** Do not use paid Figma AI or Weave operations without explicit cost approval. FORMA R2 combines editable vector/text elements with two non-paid AI-generated conceptual raster image sheets.
 - Before public release, verify all product specifications, fit details, materials, prices, inventory, and claims against current business sources.
 - Source actual product photography, packaging references, logo files, product specifications, sizing charts, customer permissions, and store destinations as required for future production.
 - Review Korean translations with a fluent reader and Filipino cultural motifs against accurate references before publication.
@@ -159,7 +164,7 @@ The following Figma changes were completed and verified in the canonical file: [
 - **Visual reference:** OLFACT Brand Book R1 on page `05 OLFACT`, section `171:2`, slides `171:3`, `171:20`, `171:49`, `171:67`, `171:89`, `171:111`, `171:140`. The current user identified OLFACT as approved and as the quality reference; it was not edited.
 - **Page mapping:** Morrow `01 Morrow Bakehouse` (`0:1`) · AURELLE `02 AURELLE Skin` (`1:2`) · Objects & Elsewhere `03 Objects & Elsewhere` (`1:3`) · SAVORÉ `04 SAVORÉ Table` (`1:4`) · OLFACT `05 OLFACT` (`1:5`) · FORMA `06 FORMA` (`1:6`).
 - **Current count:** 0/60 production deliverables complete or approved. Brand-book review is separate from the 60-item production tracker.
-- **Assets:** No new image assets required for the next action: review/approval of the editable brand book. No Figma AI/Weave operations were used for R2. Do not use paid Figma AI or Weave without explicit cost approval.
+- **Assets:** No new image assets are required for the next action (owner review of the brand book); both conceptual image sheets are already integrated into slides 05–06. No paid Figma AI/Weave operations were used. Do not use paid Figma AI or Weave without explicit cost approval.
 - **Working sample content:** Any example products, ingredients, prices, sizes, bundles, and copy elsewhere in the project remain design assumptions until verified against actual business facts.
 
 ### Handoff checklist — outgoing agent
@@ -283,3 +288,4 @@ A handoff is not ready until the next deliverable's required image pack is suppl
 | Date | Owner | Work completed | Figma references | Notes |
 |---|---|---|---|---|
 | 2026-11-25 (Asia/Manila) | ChatGPT | Rebuilt FORMA as a cohesive seven-slide editable brand book and visually inspected the full section overview. | Existing file, page `06 FORMA` (`1:6`); section `194:2`; slides `194:3`, `194:22`, `194:60`, `194:87`, `194:127`, `194:158`, `194:198`. | R2 is pending owner review and explicit approval. It is not approved. The audience profiles are hypotheses to validate. Footwear, packaging, and application artwork are labeled conceptual; no product specs or performance claims were invented. No paid Figma AI/Weave operations or new raster image assets were used. Production tracker remains 0/60; no production deliverables were started. Next action: owner review/approval of FORMA R2. |
+| 2026-11-25 (Asia/Manila) | ChatGPT | Reworked FORMA R2 slides 05–06 to follow the first Morrow book's image-led format, imported two non-paid AI conceptual image sheets, corrected the third application caption, removed an overlapping exploration label, and individually reviewed all seven slides. | Page 06 FORMA (1:6); slide 05 application image fill 194:133; slide 06 exploration image fill 194:164; section 194:2. | Generic product imagery only; no real FORMA model, material, technology, fit, or performance claims are depicted. The book remains pending owner approval. No paid Figma AI/Weave; production remains 0/60. |
