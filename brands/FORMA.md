@@ -25,9 +25,12 @@
 - **Section:** [BRAND BOOK R2 — FORMA — 7-slide identity presentation](https://www.figma.com/design/GHxufDzAW3ReOPcm4oqBUO?node-id=194-2) (`194:2`)
 - **Slides:** `194:3` Brand idea/positioning · `194:22` color/type/voice · `194:60` logo system · `194:87` graphic language · `194:127` brand applications · `194:158` visual direction/conceptual explorations · `194:198` target audience.
 - The R1 section (`182:90`) was replaced by R2. The existing FORMA page and canonical file were preserved.
-- R2 is editable Figma text and vector composition. Footwear illustrations, package/product-page mockups, logo symbol, and visual routes are clearly labeled as conceptual; they do not depict a verified FORMA model or final registered logo.
-- The audience profiles are strategic hypotheses and are labeled for validation with customer research.
+- **Format preference:** use the first Morrow brand book as the layout and pacing reference, extended with dedicated AI visual exploration and target-audience slides. R2 follows the seven-slide sequence in `design-systems/FIGMA_SYSTEM.md`.
+- **Slide 05 — applications:** the Morrow-style image-led board uses image fill `194:133` for conceptual packaging/hangtag, generic footwear, and studio product imagery. The slide states that no FORMA model or product specification is depicted.
+- **Slide 06 — AI visual explorations:** image fill `194:164` presents three generated routes—logo direction, graphic language, and campaign art direction. The slide labels them exploratory, not final artwork or product reference.
+- Display typography, logo construction, and graphic elements remain editable Figma text/vector layers. The conceptual mockups and exploration sheets are raster images, not verified FORMA products or final logo artwork.
+- The audience profiles are strategic hypotheses labeled for validation with customer research.
 - Product materials, technologies, cushioning, fit benefits, performance claims, and model-specific construction details were not invented.
-- No paid Figma AI or Weave operations were used. The conceptual artwork was authored as editable vectors.
-- Visual verification: reviewed the seven-slide section overview screenshot and confirmed the seven frames and their names in Figma metadata. Final owner review and approval remain.
+- No paid Figma AI or Weave operations were used. The two conceptual image sheets were generated with a non-paid image-generation route and imported through standard Figma image placement.
+- **Visual verification:** individually reviewed all seven slides after the slide 05–06 image changes, then rechecked those two finished compositions. Final owner review and approval remain.
 - The 60 campaign/collateral deliverables remain on hold; this brand-book work does not change their tracker status.
